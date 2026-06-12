@@ -62,6 +62,14 @@ tp-dds/
 
 - **Node.js 18+** (probado con Node 22) y **npm**.
 
+> **Nota (`sqlite3` es un módulo nativo):** en la mayoría de los sistemas el binario se descarga
+> precompilado al hacer `npm install`. Si al arrancar el backend aparece el error
+> `Could not locate the bindings file`, compilá el binding a mano (necesitás `gcc`/`g++`, `make` y
+> `python3`):
+> ```bash
+> cd backend/node_modules/sqlite3 && npx node-gyp rebuild
+> ```
+
 ---
 
 ## 4. Cómo ejecutar

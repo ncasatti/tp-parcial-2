@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Backend full-stack - Seguimiento de tareas en proyectos (TP DDS Previo Parcial 2)",
   "main": "src/server.js",
+  "type": "module",
   "scripts": {
     "start": "node src/server.js",
     "dev": "node --watch src/server.js",
     "seed": "node src/data/seed.js",
-    "test": "jest --runInBand"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand"
   },
   "keywords": [
     "express",
