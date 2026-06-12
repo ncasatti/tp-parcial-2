@@ -1,0 +1,27 @@
+# Dependencias (NO subir a la entrega — el enunciado lo prohíbe)
+node_modules/
+**/node_modules/
+
+# Base de datos SQLite (se regenera con el seed)
+*.sqlite
+*.sqlite3
+backend/database.sqlite
+
+# Build del frontend
+frontend/dist/
+frontend/dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+*.env
+
+# Editor / SO
+.DS_Store
+.vscode/
+.idea/
+*.swp

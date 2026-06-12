@@ -1,0 +1,30 @@
+{
+  "name": "tp-dds-backend",
+  "version": "1.0.0",
+  "description": "Backend full-stack - Seguimiento de tareas en proyectos (TP DDS Previo Parcial 2)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/data/seed.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "dds"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "jsonwebtoken": "^9.0.3",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  }
+}
