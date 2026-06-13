@@ -3,7 +3,7 @@ import TareaService from '../services/tareaService.js';
 const tareaController = {
   async listar(req, res, next) {
     try {
-      const resultado = await TareaService.listar(req.query);
+      const resultado = await TareaService.listar(req.query, req.usuario);
       res.json(resultado);
     } catch (error) {
       next(error);
@@ -33,7 +33,7 @@ const tareaController = {
 
   async editar(req, res, next) {
     try {
-      const tarea = await TareaService.editar(req.params.id, req.body, req.usuario.id);
+      const tarea = await TareaService.editar(req.params.id, req.body, req.usuario.id, req.usuario.rol);
       res.json(tarea);
     } catch (error) {
       next(error);
@@ -43,7 +43,7 @@ const tareaController = {
   async cambiarEstado(req, res, next) {
     try {
       const { estado, accion } = req.body;
-      const tarea = await TareaService.cambiarEstado(req.params.id, estado, req.usuario.id, accion);
+      const tarea = await TareaService.cambiarEstado(req.params.id, estado, req.usuario.id, accion, req.usuario.rol);
       res.json(tarea);
     } catch (error) {
       next(error);

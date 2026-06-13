@@ -1,7 +1,7 @@
 import jwt from 'jsonwebtoken';
 import { Usuario } from '../models/index.js';
 
-const JWT_SECRET = process.env.JWT_SECRET || 'clave_secreta_dds';
+const JWT_SECRET = process.env.JWT_SECRET || 'clave_secreta_dds_2026';
 
 async function authMiddleware(req, res, next) {
   try {

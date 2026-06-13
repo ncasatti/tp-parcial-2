@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { sequelize, Usuario, Proyecto, Tarea, HistorialTarea } from '../models/index.js';
 import bcrypt from 'bcrypt';
 

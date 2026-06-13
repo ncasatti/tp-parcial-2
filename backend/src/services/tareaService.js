@@ -14,7 +14,7 @@ const TRANSICIONES = {
 };
 
 class TareaService {
-  static async listar(filtros) {
+  static async listar(filtros, usuario) {
     const { proyectoId, responsableId, estado, prioridad, page = 1, limit = 10, sortBy = 'createdAt', order = 'DESC' } = filtros;
 
     const where = {};
@@ -22,6 +22,10 @@ class TareaService {
     if (responsableId) where.responsableId = responsableId;
     if (estado) where.estado = estado;
     if (prioridad) where.prioridad = prioridad;
+
+    if (usuario && usuario.rol === 'colaborador') {
+      where.responsableId = usuario.id;
+    }
 
     const offset = (page - 1) * limit;
 
@@ -114,10 +118,14 @@ class TareaService {
     return this.obtenerPorId(tarea.id);
   }
 
-  static async editar(id, data, usuarioId) {
+  static async editar(id, data, usuarioId, rol) {
     const tarea = await Tarea.findByPk(id);
     if (!tarea) {
       throw Object.assign(new Error('Tarea no encontrada'), { status: 404 });
+    }
+
+    if (rol === 'colaborador' && tarea.responsableId !== usuarioId) {
+      throw Object.assign(new Error('No tiene permisos para editar esta tarea'), { status: 403 });
     }
 
     if (ESTADOS_TERMINALES.includes(tarea.estado)) {
@@ -172,10 +180,14 @@ class TareaService {
     return this.obtenerPorId(id);
   }
 
-  static async cambiarEstado(id, nuevoEstado, usuarioId, accion) {
+  static async cambiarEstado(id, nuevoEstado, usuarioId, accion, rol) {
     const tarea = await Tarea.findByPk(id);
     if (!tarea) {
       throw Object.assign(new Error('Tarea no encontrada'), { status: 404 });
+    }
+
+    if (rol === 'colaborador' && tarea.responsableId !== usuarioId) {
+      throw Object.assign(new Error('No tiene permisos para cambiar el estado de esta tarea'), { status: 403 });
     }
 
     if (ESTADOS_TERMINALES.includes(tarea.estado)) {
