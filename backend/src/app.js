@@ -1,6 +1,7 @@
 // Configuración de Express: middlewares y rutas.
 // Separamos app.js (configura) de server.js (arranca) para poder testear con Supertest.
 import express from 'express';
+import helmet from 'helmet';
 import cors from 'cors';
 import healthRoutes from './routes/health.routes.js';
 import authRoutes from './routes/auth.routes.js';
@@ -10,6 +11,7 @@ import errorHandler from './middlewares/errorHandler.js';
 
 const app = express();
 
+app.use(helmet());
 app.use(cors({
   origin: 'http://localhost:5173',
   credentials: true,

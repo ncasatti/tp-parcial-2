@@ -1,0 +1,4471 @@
+[Alejandro Rey Corvalán] 18:58:58
+Y
+
+[Alejandro Rey Corvalán] 18:58:59
+Vamos a ver si tenemos un tiempito
+
+[Alejandro Rey Corvalán] 18:59:02
+Hoy día, cuando termine lo que queda pendiente de Jason Web Token
+
+[Alejandro Rey Corvalán] 18:59:07
+Y de interceptores de mostrarle rapidamente como seria
+
+[Alejandro Rey Corvalán] 18:59:13
+o cómo manejo
+
+[Alejandro Rey Corvalán] 18:59:16
+En mi caso, yo con
+
+[Alejandro Rey Corvalán] 18:59:21
+Inteligencia artificial, todo el tema de gestión de proyectos
+
+[Alejandro Rey Corvalán] 18:59:29
+Si lo hacen con la I A
+
+[Alejandro Rey Corvalán] 18:59:31
+El tiempo es más que suficiente
+
+[Alejandro Rey Corvalán] 18:59:36
+Como les dije el primer día.
+
+[Alejandro Rey Corvalán] 18:59:39
+En ustedes con la IAT tienen una productividad de
+
+[Alejandro Rey Corvalán] 18:59:43
+Pasta medio animar y a decir ahora
+
+[Alejandro Rey Corvalán] 18:59:46
+Quince veces más
+
+[Alejandro Rey Corvalán] 18:59:48
+que si no desarrollan comida, así que ustedes si trabajan cuatro horas es como si trabajaran sin la IA
+
+[Alejandro Rey Corvalán] 18:59:56
+unas 60 horas o menos
+
+[Alejandro Rey Corvalán] 18:59:59
+Con lo cual
+
+[Alejandro Rey Corvalán] 19:00:02
+Debería poderse desarrollar en este lapso de tiempo
+
+[Alejandro Rey Corvalán] 19:00:07
+De todas maneras.
+
+[Alejandro Rey Corvalán] 19:00:10
+Para aquel que no ha trabajado con la I A les puedo indicar, no es nada del otro mundo, se va muy rápido y en
+
+[Alejandro Rey Corvalán] 19:00:19
+unas pocas horas sabiendo lo que uno tiene que indicarle a la idea podremos tener listo el proyecto este
+
+[Alejandro Rey Corvalán] 19:00:30
+Si hay un tiempo de si se prolonga un poco más, porque esto, esto lo da el coordinador de la cátedra, que
+
+[Alejandro Rey Corvalán] 19:00:38
+Es para todos los cursos iguales así que ustedes están teniendo la clase hoy día lunes y aquel que tenga la clase el miércoles, el primer día de semana también va a tener como plazo de entrega
+
+[Alejandro Rey Corvalán] 19:00:50
+El día sábado, excepto que la coordinadora de cátedra determine que el plazo de entrega sea muy breve, que voy a poder tener un feedback
+
+[Alejandro Rey Corvalán] 19:01:01
+And mayor
+
+[Alejandro Rey Corvalán] 19:01:02
+El día de mañana porque
+
+[Alejandro Rey Corvalán] 19:01:05
+si lo publica esta noche seguramente
+
+[Alejandro Rey Corvalán] 19:01:09
+ya mañana ella va a tener algún feedback de parte de ustedes, los alumnos y de parte yo como docente y de los otros docentes, a ver el tema de la, de la
+
+[Alejandro Rey Corvalán] 19:01:21
+Extensión en lapso de tiempo para poder hacerlo
+
+[Alejandro Rey Corvalán] 19:01:28
+El alcance mínimo tienen que tener, dice
+
+[Alejandro Rey Corvalán] 19:01:32
+Tiene que haber un modelo de autenticación
+
+[Alejandro Rey Corvalán] 19:01:35
+con JSON webtoken
+
+[Alejandro Rey Corvalán] 19:01:38
+van a tener una ventana de login
+
+[Alejandro Rey Corvalán] 19:01:41
+Tendrian que tener en algunos roles, es decir, en un rol de administrador o un rol
+
+[Alejandro Rey Corvalán] 19:01:48
+public
+
+[Alejandro Rey Corvalán] 19:01:50
+And
+
+[Alejandro Rey Corvalán] 19:01:51
+Y van a tener que guardar la sesión en el frontend, que eso es lo que vamos a ver hoy
+
+[Alejandro Rey Corvalán] 19:01:58
+Así que el módulo autenticación completo, hoy vamos a hacer un modelo autenticación completo y ese modulo lo van a tener ustedes ya listo
+
+[Alejandro Rey Corvalán] 19:02:05
+para después poderlo implementar, despues van a tener que desarrollar, dice
+
+[Alejandro Rey Corvalán] 19:02:11
+Un módulo principal del dominio de este que ustedes tienen en el caso de ustedes de gestión de proyecto, cada curso va a tener su propio curso
+
+[Alejandro Rey Corvalán] 19:02:19
+Enunciado
+
+[Alejandro Rey Corvalán] 19:02:21
+Y en ese módulo principal van a tener que hacer listado
+
+[Alejandro Rey Corvalán] 19:02:27
+hacer algún filtrado en alta y edición
+
+[Alejandro Rey Corvalán] 19:02:32
+Este, de registros
+
+[Alejandro Rey Corvalán] 19:02:34
+Supongamos de los proyectos que ustedes tengan
+
+[Alejandro Rey Corvalán] 19:02:38
+Después
+
+[Alejandro Rey Corvalán] 19:02:41
+Tiene que haber eso va a ser, podría ser para un rol en particular, podría ser un rol empleado y un rol de administración, y para un módulo de administracion o resumen que va a mostrar
+
+[Alejandro Rey Corvalán] 19:02:51
+En información de de de esto que ustedes van a desarrollar que es
+
+[Alejandro Rey Corvalán] 19:02:57
+un sistema de gestión de proyectos
+
+[Alejandro Rey Corvalán] 19:03:00
+Van a tener que realizar validaciones
+
+[Alejandro Rey Corvalán] 19:03:03
+Se acuerdan como lo vimos la clase pasada con
+
+[Alejandro Rey Corvalán] 19:03:07
+no se si lo vieron con Diego o conmigo
+
+[Alejandro Rey Corvalán] 19:03:12
+En validaciones utilizando
+
+[Alejandro Rey Corvalán] 19:03:15
+Fria hook form
+
+[Alejandro Rey Corvalán] 19:03:18
+Y validaciones también en el back end
+
+[Alejandro Rey Corvalán] 19:03:24
+And
+
+[Alejandro Rey Corvalán] 19:03:25
+Y esto tiene que guardarse en una capa de persistencia
+
+[Alejandro Rey Corvalán] 19:03:32
+And
+
+[Alejandro Rey Corvalán] 19:03:38
+Así que bueno, yo voy a mostrarles el módulo, todo este de autenticación que ustedes van a necesitar y después
+
+[Alejandro Rey Corvalán] 19:03:47
+Les voy a mostrar en algo con la I A como trabajo
+
+[Alejandro Rey Corvalán] 19:03:51
+¿Qué les parece? ¿Alguna pregunta
+
+[Alejandro Rey Corvalán] 19:03:56
+exactamente. Ese seculai consiguales.
+
+[Alejandro Rey Corvalán] 19:04:07
+alguna otra pregunta? Si nos va mal, hay recuperatorio del TP
+
+[Alejandro Rey Corvalán] 19:04:12
+And
+
+[Alejandro Rey Corvalán] 19:04:13
+Sí, yo creo que hay recuperatoria de cada una de las instancias de TP
+
+[Alejandro Rey Corvalán] 19:04:18
+De todas formas marcos les va a servir todo esto para prepararse para el parcial, ¿no? Porque el parcial
+
+[Alejandro Rey Corvalán] 19:04:25
+Y la semana que viene, así que todo el contenido que vayas a ver y que lo desarrolles te va a servir como guía de estudio
+
+[Alejandro Rey Corvalán] 19:04:33
+Así que no lo veas como que
+
+[Alejandro Rey Corvalán] 19:04:37
+Este, te quedan menos de 5 días, te quedan 5 días, pero cinco días con la
+
+[Alejandro Rey Corvalán] 19:04:43
+If no son los cinco días de hace algunos años que no tenía ni a
+
+[Alejandro Rey Corvalán] 19:04:49
+Vamos a usar todas las librerías vistas en las clases o no y si vamos a trabajar en el frontend vamos a usar HTML 5 con Gate Bootstrap
+
+[Alejandro Rey Corvalán] 19:04:58
+van a utilizar el form.
+
+[Alejandro Rey Corvalán] 19:05:03
+axios
+
+[Alejandro Rey Corvalán] 19:05:04
+And JSON web token para el token de authenticacion
+
+[Alejandro Rey Corvalán] 19:05:08
+con interceptores que es lo que vamos a ver hoy
+
+[Alejandro Rey Corvalán] 19:05:13
+Y del lado del back end vamos a estar trabajando con O G S utilizando express, utilizando las rutas que tengan definida en express porque para autenticación necesitas milwows
+
+[Alejandro Rey Corvalán] 19:05:28
+And y esa autenticación con mis rewards después va a interactuar con la base de datos utilizando Syqualize
+
+[Alejandro Rey Corvalán] 19:05:34
+Y en ese collide
+
+[Alejandro Rey Corvalán] 19:05:37
+Y lo que no estoy, lo que no estoy viendo acá es que haya algo de testing
+
+[Alejandro Rey Corvalán] 19:05:48
+No, la nota del parcial y del TP son otras, son notas separadas
+
+[Alejandro Rey Corvalán] 19:05:53
+Así que cada uno tiene su evaluación
+
+[Alejandro Rey Corvalán] 19:05:58
+Y tiene que estar hecho tiene estar aprobado el T P no para poder regularizar así que si el T P no está aprobado no podrían
+
+[Alejandro Rey Corvalán] 19:06:08
+Estar regularizado en la materia promocionada
+
+[Alejandro Rey Corvalán] 19:06:11
+De condición indispensable
+
+[Alejandro Rey Corvalán] 19:06:14
+Ahí te respondían telón, no sé
+
+[Alejandro Rey Corvalán] 19:06:38
+bueno Nicolás quedó claro cuáles son las librerías que hemos visto y
+
+[Alejandro Rey Corvalán] 19:06:38
+Todo lo que hemos visto va a entrar
+
+[Alejandro Rey Corvalán] 19:06:38
+Bueno
+
+[Alejandro Rey Corvalán] 19:06:38
+Vamos entonces a
+
+[Alejandro Rey Corvalán] 19:06:38
+A empezar con la clase de hoy, que es el modulo de autenticacion que ustedes van a tener que desarrollar
+
+[Alejandro Rey Corvalán] 19:06:41
+La materia, entiendo, chicos, que es una materia extensa
+
+[Alejandro Rey Corvalán] 19:06:47
+En
+
+[Alejandro Rey Corvalán] 19:06:48
+Es está muy acotado en el tiempo que tenemos porque empezamos en abril y estamos en
+
+[Alejandro Rey Corvalán] 19:06:54
+Principios de junio ya estamos terminando la
+
+[Alejandro Rey Corvalán] 19:06:57
+en
+
+[Alejandro Rey Corvalán] 19:06:58
+Es lo que nos exige la universidad a nosotros para que aquel que se recibe como analista de sistemas salga con una base de todo lo que es un desarrollo full stack
+
+[Alejandro Rey Corvalán] 19:07:09
+Ustedes con esta materia
+
+[Alejandro Rey Corvalán] 19:07:12
+Y con un poco más de tiempo que tengan sobre sus equipos pueden prácticamente
+
+[Alejandro Rey Corvalán] 19:07:17
+hacer cualquier tipo de desarrollo
+
+[Alejandro Rey Corvalán] 19:07:20
+En web porque abarcamos frontend y backend
+
+[Alejandro Rey Corvalán] 19:07:23
+Y me parece que está buenísimo porque
+
+[Alejandro Rey Corvalán] 19:07:26
+Esto, si no lo aprendemos de esta manera, si bien es bastante agua todo, pero ustedes saben cómo estas piezas del rafting porque rasti o lego ustedes son más jóvenes
+
+[Alejandro Rey Corvalán] 19:07:38
+And se van acomodando y van constituyendo una hermosa pieza con la cual ustedes pueden salir
+
+[Alejandro Rey Corvalán] 19:07:48
+trabajar no
+
+[Alejandro Rey Corvalán] 19:07:50
+Así que aquel que quiera comenzar en el mundo del desarrollo puede aplicar todo lo que hemos visto y más. Esto sería la base
+
+[Alejandro Rey Corvalán] 19:07:58
+Que les diría que para un desarrollo alguien que no vaya a entrar a una empresa multinacional tipo mercado libre es más que suficiente, por supuesto, si uno va a entrar en desarrollo en una multinacional y bueno, ahí entran otras cuestiones
+
+[Alejandro Rey Corvalán] 19:08:13
+Que van mucho más allá del desarrollo de esta materia por el tipo de proyecto que que van a realizar pero les diría que para la mayoría de las
+
+[Alejandro Rey Corvalán] 19:08:25
+en pymes argentinas o empresas
+
+[Alejandro Rey Corvalán] 19:08:28
+Medianas
+
+[Alejandro Rey Corvalán] 19:08:31
+Lo que ustedes aprenden acá perfectamente lo pueden aplicar a todos los
+
+[Alejandro Rey Corvalán] 19:08:37
+Bueno, preguntas, chicos, chicas
+
+[Alejandro Rey Corvalán] 19:08:44
+Bueno, yo voy a ir más o menos rápido porque me parece que les interesa a ustedes que lleguemos al tema de la guía
+
+[Alejandro Rey Corvalán] 19:08:52
+El tema de la I A desgraciadamente es un tema que
+
+[Alejandro Rey Corvalán] 19:08:57
+E
+
+[Alejandro Rey Corvalán] 19:08:58
+es parte de la vida
+
+[Alejandro Rey Corvalán] 19:09:01
+Profesional
+
+[Alejandro Rey Corvalán] 19:09:03
+Iba a ser parte de la vida profesional, no solamente nuestra como ingeniero, sino de todas las profesiones que vaya a haber, medico, abogados, de los que se le ocurra
+
+[Alejandro Rey Corvalán] 19:09:12
+Y, ehm
+
+[Alejandro Rey Corvalán] 19:09:14
+Y bueno, eso lo vamos a ver como un anexo ahora con algunas
+
+[Alejandro Rey Corvalán] 19:09:20
+Horas que tengamos
+
+[Alejandro Rey Corvalán] 19:09:22
+Si hay alguna otras preguntas con el uso de la I A,
+
+[Alejandro Rey Corvalán] 19:09:26
+Ehm
+
+[Alejandro Rey Corvalán] 19:09:27
+Va a estar también Diego el jueves
+
+[Alejandro Rey Corvalán] 19:09:32
+Y yo quiero que me pongan ahí en el chat
+
+[Alejandro Rey Corvalán] 19:09:35
+que ya utilizan y si lo han usado en Visual Studio Code
+
+[Alejandro Rey Corvalán] 19:09:41
+Para el transdesarrollo, para los trabajitos practicos, esto que hemos estado haciendo en clase, o tienen que hacer
+
+[Alejandro Rey Corvalán] 19:09:47
+Como lo trabajaron quiero que en el chat me escriban ahí que ya utilizaron
+
+[Alejandro Rey Corvalán] 19:10:24
+Bueno, Gemini va ganando
+
+[Alejandro Rey Corvalán] 19:10:27
+Copilot
+
+[Alejandro Rey Corvalán] 19:10:30
+algunos cloud codecs
+
+[Alejandro Rey Corvalán] 19:10:34
+Gemini, me imagino que muchos lo usan porque lo tienen
+
+[Alejandro Rey Corvalán] 19:10:37
+Este, gratis acá con la facu, ¿no?
+
+[Alejandro Rey Corvalán] 19:10:42
+De todas formas, cualquier
+
+[Alejandro Rey Corvalán] 19:10:45
+Cualquier es útil
+
+[Alejandro Rey Corvalán] 19:10:47
+Ehm
+
+[Alejandro Rey Corvalán] 19:10:48
+Bueno.
+
+[Alejandro Rey Corvalán] 19:10:57
+Bueno, Nico, te vas a tener que poner a ver
+
+[Alejandro Rey Corvalán] 19:11:05
+Martin Conti, bueno ahí pasado estaba la opción de, no sé si esta todavía, no sé, por ahí algún compañero de ustedes que me diga
+
+[Alejandro Rey Corvalán] 19:11:18
+Estaba de manera gratuita por el término creo que de un año
+
+[Alejandro Rey Corvalán] 19:11:22
+se vence ahora en diciembre de este año creo noviembre diciembre la suscripción pero daban gratis para todos los
+
+[Alejandro Rey Corvalán] 19:11:30
+Que eran de de la U T N
+
+[Alejandro Rey Corvalán] 19:11:32
+Bueno.
+
+[Alejandro Rey Corvalán] 19:11:33
+Bueno, chicos, chicas.
+
+[Alejandro Rey Corvalán] 19:11:38
+Vamos a ver interceptores con axios y JSON web token
+
+[Alejandro Rey Corvalán] 19:11:45
+Recuerden que esto que no estamos trabajando hasta ahora
+
+[Alejandro Rey Corvalán] 19:11:48
+que
+
+[Alejandro Rey Corvalán] 19:11:49
+Fuimos con Riak
+
+[Alejandro Rey Corvalán] 19:11:51
+Vimos el uso de formularios con React
+
+[Alejandro Rey Corvalán] 19:11:54
+Vimos los distintos hooks
+
+[Alejandro Rey Corvalán] 19:11:58
+y el use state
+
+[Alejandro Rey Corvalán] 19:12:02
+los hook, el useEffect, el use context
+
+[Alejandro Rey Corvalán] 19:12:07
+Y
+
+[Alejandro Rey Corvalán] 19:12:09
+And incluimos la semana pasada
+
+[Alejandro Rey Corvalán] 19:12:12
+Que lo vieron me parece más con Diego el tema de accios Accios en una librería para trabajar con
+
+[Alejandro Rey Corvalán] 19:12:21
+interactuar con nuestro front end con el back end
+
+[Alejandro Rey Corvalán] 19:12:24
+En vez de utilizar fecha
+
+[Alejandro Rey Corvalán] 19:12:26
+Hasta ahí eso es lo que vieron
+
+[Alejandro Rey Corvalán] 19:12:29
+Bueno, lo que vamos a ver hoy es
+
+[Alejandro Rey Corvalán] 19:12:32
+que nosotros
+
+[Alejandro Rey Corvalán] 19:12:34
+Todo lo que hemos estado trabajando hasta ahora entre el frontend y el back end
+
+[Alejandro Rey Corvalán] 19:12:38
+Prácticamente lo utilizamos sin usar autenticación, ¿no?
+
+[Alejandro Rey Corvalán] 19:12:42
+Entonces, los end point que estaban definidos en nuestro backend
+
+[Alejandro Rey Corvalán] 19:12:48
+And publicos
+
+[Alejandro Rey Corvalán] 19:12:51
+Así que cualquier petición de nuestro de frontend con un método get
+
+[Alejandro Rey Corvalán] 19:12:56
+post put
+
+[Alejandro Rey Corvalán] 19:12:58
+O delete
+
+[Alejandro Rey Corvalán] 19:12:59
+Llegaba a nuestro backend. El tema es que eso sirve para
+
+[Alejandro Rey Corvalán] 19:13:05
+And ver los métodos get postput y delete, pero si eso lo vamos a llevar a un entorno de
+
+[Alejandro Rey Corvalán] 19:13:10
+Producción
+
+[Alejandro Rey Corvalán] 19:13:12
+Esos endpoints, sobre todo los que todos esos endpoints deberían
+
+[Alejandro Rey Corvalán] 19:13:17
+Estar asegurados y sólo deberían ser en point
+
+[Alejandro Rey Corvalán] 19:13:23
+Ehm
+
+[Alejandro Rey Corvalán] 19:13:24
+públicos a aquellos que por la naturaleza del negocio no corren ningún riesgo la información que yo estoy publicando que esté disponible para cualquiera que acceda a nuestro sitio web.
+
+[Alejandro Rey Corvalán] 19:13:38
+¿Por qué? Porque yo puedo reemplazar si yo soy un usuario y me meto en el, es con el F12 en el navegador y veo que todo lo que hay entre el frontend y el back end no tiene autenticación, yo me podria armar mi propio sistema y salir
+
+[Alejandro Rey Corvalán] 19:13:55
+Del front end que le que le hemos desarrollado una empresa y alguien con otro
+
+[Alejandro Rey Corvalán] 19:14:02
+fin que podría ser un fin malicioso utilizar mis endpoints para
+
+[Alejandro Rey Corvalán] 19:14:08
+hacer alguna actividad maliciosa no
+
+[Alejandro Rey Corvalán] 19:14:11
+Entonces, para evitar eso, utilizamos el JSON web token, que el JSON web token rápidamente qué era?
+
+[Alejandro Rey Corvalán] 19:14:18
+era autenticación un mecanismo de autenticación definido como un estandar de la industria para las aplicaciones web
+
+[Alejandro Rey Corvalán] 19:14:30
+Entonces vamos a ver cómo implementamos este JSON web token
+
+[Alejandro Rey Corvalán] 19:14:35
+And
+
+[Alejandro Rey Corvalán] 19:14:37
+Nuestra aplicación web, bueno, lo que vamos a ver hoy de 1 hora y media lo voy a tratar de que sea de una hora, una hora y cuarto como muchisimo, para que
+
+[Alejandro Rey Corvalán] 19:14:47
+podamos
+
+[Alejandro Rey Corvalán] 19:14:50
+O que yo les muestre algunas cosas como trabajo yo habitualmente, ¿no? Con la IA que
+
+[Alejandro Rey Corvalán] 19:14:54
+Un poco
+
+[Alejandro Rey Corvalán] 19:14:56
+disruptivos
+
+[Alejandro Rey Corvalán] 19:14:58
+así tenemos a ese tiempito
+
+[Alejandro Rey Corvalán] 19:15:01
+Entonces, cada vez
+
+[Alejandro Rey Corvalán] 19:15:05
+Recuerden que el JSON web token
+
+[Alejandro Rey Corvalán] 19:15:07
+Era el token que viajaba en tren
+
+[Alejandro Rey Corvalán] 19:15:13
+En nuestro navegador
+
+[Alejandro Rey Corvalán] 19:15:15
+que esto es un JSON web token entre nuestro navegador y el back end token le otorgaba el servidor
+
+[Alejandro Rey Corvalán] 19:15:25
+con una clave de cifrado
+
+[Alejandro Rey Corvalán] 19:15:29
+con un secret que voy a tener y ese secret viaja en cifras cifra esto que en realidad es una firma, esto está en base 10, así que esto se puede ver que lo vimos en su momento, pero
+
+[Alejandro Rey Corvalán] 19:15:43
+Y viaja al frontend, entonces el frontend cada vez que envía este.
+
+[Alejandro Rey Corvalán] 19:15:49
+Una petición a una ruta que esta
+
+[Alejandro Rey Corvalán] 19:15:53
+que requiere autenticación en donde, en qué sección de el protocolo http mandamos el JSON web token, ¿se acuerdan? Me escriben acá en el chat
+
+[Alejandro Rey Corvalán] 19:16:04
+Dentro del protocolo HTTP en donde tenía que viajar el token, pregunte parcial.
+
+[Alejandro Rey Corvalán] 19:16:14
+Si se están demorando están buscando en la web o están buscando un chat GP en el parcial no lo van a tener eso
+
+[Alejandro Rey Corvalán] 19:16:21
+body
+
+[Alejandro Rey Corvalán] 19:16:24
+Valoro Valentina tu
+
+[Alejandro Rey Corvalán] 19:16:29
+body script a ver qué más. Valentina y Antelo
+
+[Alejandro Rey Corvalán] 19:16:34
+Son los únicos que han respondido hasta ahora. ¿Quién más? ¿Quién mas?
+
+[Alejandro Rey Corvalán] 19:16:38
+Tengo
+
+[Alejandro Rey Corvalán] 19:16:43
+Todo el resto.
+
+[Alejandro Rey Corvalán] 19:16:49
+en el access token a la miercoles.
+
+[Alejandro Rey Corvalán] 19:16:52
+Yo no sabía que eso era parte del protocolo, pero bueno, vamos a verlo.
+
+[Alejandro Rey Corvalán] 19:16:57
+Falta de estudios, chicos, chicas.
+
+[Alejandro Rey Corvalán] 19:16:59
+Hasta ahora
+
+[Alejandro Rey Corvalán] 19:17:01
+No hay ninguno que haya acertado
+
+[Alejandro Rey Corvalán] 19:17:08
+El body o encabezado es cabeza o pies, vos que decís cabeza o pies
+
+[Alejandro Rey Corvalán] 19:17:16
+Es distinta la cabeza, vuelvo a decir
+
+[Alejandro Rey Corvalán] 19:17:20
+cabeza, bueno, a ver quién más
+
+[Alejandro Rey Corvalán] 19:17:26
+Federico, Candelaria, Santiago
+
+[Alejandro Rey Corvalán] 19:17:30
+Nico.
+
+[Alejandro Rey Corvalán] 19:17:34
+¿Qué opinan
+
+[Alejandro Rey Corvalán] 19:17:43
+Bueno, chicos, chicas
+
+[Alejandro Rey Corvalán] 19:17:45
+E
+
+[Alejandro Rey Corvalán] 19:17:47
+El token va siempre en el encabezado
+
+[Alejandro Rey Corvalán] 19:17:51
+Así que cuando ustedes trabajan con
+
+[Alejandro Rey Corvalán] 19:17:57
+Con token de autenticación del JSON web token va a la sección del encabezado y la sección del encabezado
+
+[Alejandro Rey Corvalán] 19:18:04
+Es una parte distinta, como dice, tenemos la cabeza, el cuerpo y los pies, pero el HTTP no tiene pie, tiene
+
+[Alejandro Rey Corvalán] 19:18:11
+heather y body dentro del header viaja
+
+[Alejandro Rey Corvalán] 19:18:16
+Él
+
+[Alejandro Rey Corvalán] 19:18:17
+token, este, así que este token vamos a tener que confeccionarlo
+
+[Alejandro Rey Corvalán] 19:18:22
+No, confeccionarlo, no, en realidad lo confeccionamos en el back end, el back end se lo envía al frontend y el frontend le decimos cada vez que hagas una petición
+
+[Alejandro Rey Corvalán] 19:18:30
+E
+
+[Alejandro Rey Corvalán] 19:18:32
+Al
+
+[Alejandro Rey Corvalán] 19:18:35
+A land point, pasame en el encabezado
+
+[Alejandro Rey Corvalán] 19:18:39
+del protocolo HTTP este token y yo con este token voy a saber que
+
+[Alejandro Rey Corvalán] 19:18:45
+say us?
+
+[Alejandro Rey Corvalán] 19:18:46
+Una persona autenticada
+
+[Alejandro Rey Corvalán] 19:18:51
+Entonces, si necesitamos eso, entonces tenemos que tener siempre el token a mano, entonces ese token a mano vamos a ver cómo lo guardamos en el browser, vamos a ver en cómo el concepto no interceptor para que cada vez que haya una petición
+
+[Alejandro Rey Corvalán] 19:19:10
+entre el front y el back end automaticamente ese toque en viaje sin que tengamos que codificar demasiado
+
+[Alejandro Rey Corvalán] 19:19:18
+Y vamos a ver este
+
+[Alejandro Rey Corvalán] 19:19:24
+como inyectamos el JSON web token a todos los reques, como
+
+[Alejandro Rey Corvalán] 19:19:30
+manejamos en las respuestas con un interceptor si es que estamos pidiendo
+
+[Alejandro Rey Corvalán] 19:19:37
+Un
+
+[Alejandro Rey Corvalán] 19:19:41
+un endpoint y ese endpoint no tengo ese token no es válido porque puede haber expirado
+
+[Alejandro Rey Corvalán] 19:19:47
+Vamo a ver diagrama de estado de token y este algunos uso un poquito más avanzados
+
+[Alejandro Rey Corvalán] 19:19:56
+Veamos
+
+[Alejandro Rey Corvalán] 19:19:58
+Espérenme
+
+[Alejandro Rey Corvalán] 19:20:00
+que
+
+[Alejandro Rey Corvalán] 19:20:00
+Les voy a mostrar
+
+[Alejandro Rey Corvalán] 19:20:03
+esto
+
+[Alejandro Rey Corvalán] 19:20:04
+porque lo vamos a ver, lo vamos a ver con una
+
+[Alejandro Rey Corvalán] 19:20:13
+No vamos a
+
+[Alejandro Rey Corvalán] 19:20:14
+Ver con
+
+[Alejandro Rey Corvalán] 19:20:15
+Undemon así lo vemos en vivo
+
+[Alejandro Rey Corvalán] 19:20:47
+Esto, vamos a ir viendo, esto lo tienen ustedes para descargar
+
+[Alejandro Rey Corvalán] 19:20:51
+Si lo quieren ir viendo mientras yo voy dando la clase en la V
+
+[Alejandro Rey Corvalán] 19:20:59
+En la semana en doce
+
+[Alejandro Rey Corvalán] 19:21:03
+Front end
+
+[Alejandro Rey Corvalán] 19:21:06
+En la semana doce
+
+[Alejandro Rey Corvalán] 19:21:15
+En material adicional.
+
+[Alejandro Rey Corvalán] 19:21:19
+En el 3k4
+
+[Alejandro Rey Corvalán] 19:21:22
+tienen demo reactinterceptor zip
+
+[Alejandro Rey Corvalán] 19:21:27
+Ahí tienen en este demo que cuando ustedes lo ejecutan
+
+[Alejandro Rey Corvalán] 19:21:32
+les va a levantar en el frontend está
+
+[Alejandro Rey Corvalán] 19:21:48
+And
+
+[Alejandro Rey Corvalán] 19:21:50
+Voy a tratar de mandar en
+
+[Alejandro Rey Corvalán] 19:21:53
+Santiago, sí, más o menos algunas preguntas
+
+[Alejandro Rey Corvalán] 19:21:58
+en, como el primero le sirvió las primeras le sirvió para el parcel las preguntas
+
+[Alejandro Rey Corvalán] 19:22:04
+Sí, es ese, Marcos el, el archivo
+
+[Alejandro Rey Corvalán] 19:22:12
+Bueno, acá la idea, chicos, es también cuando les mando las preguntas, no aprenderlas de memoria porque no sirven, sino
+
+[Alejandro Rey Corvalán] 19:22:18
+Que es para que ustedes puedan evaluar el nivel de comprensión
+
+[Alejandro Rey Corvalán] 19:22:23
+Acá lo que se necesita
+
+[Alejandro Rey Corvalán] 19:22:27
+Acá en la cátedra
+
+[Alejandro Rey Corvalán] 19:22:30
+Y
+
+[Alejandro Rey Corvalán] 19:22:31
+en el ámbito laboral
+
+[Alejandro Rey Corvalán] 19:22:35
+Ya no
+
+[Alejandro Rey Corvalán] 19:22:36
+O sea, con la IA, la realidad es otra de hace tres anos atrás
+
+[Alejandro Rey Corvalán] 19:22:41
+Hace tres anos atras se la requería a ustedes conocimientos avanzados de ría, senior, ahora lo que se requiere es que puedan comprender absolutamente todos los conceptos que se ven en la materia
+
+[Alejandro Rey Corvalán] 19:22:51
+Y que a través de un prom le puedan solicitar a la IA que haga lo que ustedes necesitan y que puedan leer un código fuente y entender lo que está lo que hizo la IA para poder ustedes o pedir la idea que lo corrija lo corrigen ustedes por
+
+[Alejandro Rey Corvalán] 19:23:05
+Cuánta
+
+[Alejandro Rey Corvalán] 19:23:07
+Estamos bueno
+
+[Alejandro Rey Corvalán] 19:23:13
+Entonces vamos a ver, sin interceptores repetir todo siempre, o sea, yo si estoy sin, sin interceptores
+
+[Alejandro Rey Corvalán] 19:23:20
+que voy a tener que hacer? Y tengo que mandar este JSON web token que me mandó desde el backend al frontend cuando me logue, voy a tener que mandarlo cada vez
+
+[Alejandro Rey Corvalán] 19:23:31
+que haga, haga una petición al backend, incluirlo dentro de las cabeceras del
+
+[Alejandro Rey Corvalán] 19:23:40
+del protocolo, ¿cómo hago para incluirlo dentro de lo que debe ser el protocolo? Se hace de esta manera
+
+[Alejandro Rey Corvalán] 19:23:46
+Entonces yo tengo, defino en algún archivo
+
+[Alejandro Rey Corvalán] 19:23:52
+En este caso se llama api JS
+
+[Alejandro Rey Corvalán] 19:23:58
+defino, supongamos una función asíncrona que se llama getperfil que lo que hace es
+
+[Alejandro Rey Corvalán] 19:24:04
+Cada ruta va a tomar el local storage
+
+[Alejandro Rey Corvalán] 19:24:11
+que el, el local storage es un área que les voy a mostrar acá
+
+[Alejandro Rey Corvalán] 19:24:17
+Es un área del navegador si vamos abrimos el capó con el F 12, vamos a ver en memoria en application
+
+[Alejandro Rey Corvalán] 19:24:27
+local storage, man. Acá estos son almacenamientos
+
+[Alejandro Rey Corvalán] 19:24:32
+tiene el browser y estos son distintos tipos de almacenamiento
+
+[Alejandro Rey Corvalán] 19:24:38
+Y en cada uno de ellos guardo información para que me pueda ser útil
+
+[Alejandro Rey Corvalán] 19:24:44
+para cuando reinicie el navegador, cuando reinicie la computadora o dentro de 5 minutos que voy a seguir trabajando con el navegador
+
+[Alejandro Rey Corvalán] 19:24:52
+Entonces todo lo de la aplicación
+
+[Alejandro Rey Corvalán] 19:24:55
+Es un almacenamiento temporal, que es el único lugar donde yo voy a poder acceder a través de código JavaScript y guardar algo en este almacenamiento. Por supuesto, el límite de este almacenamiento es muy pequeño, así que no se le vaya a ocurrir guardar una base de datos
+
+[Alejandro Rey Corvalán] 19:25:08
+de, grande, ¿no? Así que van a poder guardar 2, 3, 4, 5 megas como mucho
+
+[Alejandro Rey Corvalán] 19:25:15
+No más que eso deberían ser k bytes, así que
+
+[Alejandro Rey Corvalán] 19:25:21
+Pero
+
+[Alejandro Rey Corvalán] 19:25:22
+esta área de almacenamiento me va a permitir a mí
+
+[Alejandro Rey Corvalán] 19:25:27
+Tener
+
+[Alejandro Rey Corvalán] 19:25:28
+guardado, por ejemplo, vamos a ver acá
+
+[Alejandro Rey Corvalán] 19:25:31
+En el local storage
+
+[Alejandro Rey Corvalán] 19:25:34
+Me tengo los pares atributos clave y valor
+
+[Alejandro Rey Corvalán] 19:25:38
+Entonces yo podria guardar algo en el local storage, que esto es la memoria del servidor que lo estoy viendo una manera gráfica.
+
+[Alejandro Rey Corvalán] 19:25:45
+He aquí, entonces el objetivo es que cuando yo me logue
+
+[Alejandro Rey Corvalán] 19:25:52
+En cuando yo me logué obtenga
+
+[Alejandro Rey Corvalán] 19:25:55
+Un token que está guardado en el local storage
+
+[Alejandro Rey Corvalán] 19:25:59
+Es decir, yo, yo acá tengo esta ventana, esta ventana tiene una interfaz de login, esta interfaz de login después si quieren, lo vemos al código, va al backend y
+
+[Alejandro Rey Corvalán] 19:26:09
+el back end acá tiene un usuario y contraseña, y este usuario y contraseña si coincide con el que está en el backend, el backend me va a mandar un token válido, así que si yo mando algo que no coincide, me va a decir credenciales inválida y si coincide con el
+
+[Alejandro Rey Corvalán] 19:26:26
+Lo que está en el back end me va a dar
+
+[Alejandro Rey Corvalán] 19:26:29
+Un token de autenticación. Entonces, ¿qué va a ser con ese token
+
+[Alejandro Rey Corvalán] 19:26:33
+Fíjense, yo me logué acá
+
+[Alejandro Rey Corvalán] 19:26:36
+Y acá se crearon varias cosas, ven
+
+[Alejandro Rey Corvalán] 19:26:41
+Entonces
+
+[Alejandro Rey Corvalán] 19:26:43
+¿Qué hizo?
+
+[Alejandro Rey Corvalán] 19:26:45
+Hizo el login y guardo
+
+[Alejandro Rey Corvalán] 19:26:49
+En un objeto JSON
+
+[Alejandro Rey Corvalán] 19:26:52
+Guardo algunos identificadores que me mandó el back end
+
+[Alejandro Rey Corvalán] 19:26:57
+Para el usuario uno con el nombre alumno desarrollo de software y mandó un
+
+[Alejandro Rey Corvalán] 19:27:02
+access token que este es un token de autenticación
+
+[Alejandro Rey Corvalán] 19:27:10
+que este token es
+
+[Alejandro Rey Corvalán] 19:27:13
+Un JSON web token, así que si yo voy y copio ese token, me lo llevo
+
+[Alejandro Rey Corvalán] 19:27:27
+Me lo llevo al token y acá en borro lo que
+
+[Alejandro Rey Corvalán] 19:27:36
+But
+
+[Alejandro Rey Corvalán] 19:27:45
+y pego el que tenía ahí, me aparece el token que dice alumno de DSB
+
+[Alejandro Rey Corvalán] 19:27:51
+Y me aparece eso, así que coincide esa info que me da el token con lo que tengo acá, nada más que acá lo tengo
+
+[Alejandro Rey Corvalán] 19:28:00
+Ya en formato, digamos que no esté en base 10, sino que lo guardo ahí para de una manera
+
+[Alejandro Rey Corvalán] 19:28:06
+fácil de obtener cuál es el usuario que está logrado
+
+[Alejandro Rey Corvalán] 19:28:09
+Pero el token de autenticación es este
+
+[Alejandro Rey Corvalán] 19:28:11
+y este token de autenticación yo lo voy a tener que mandar
+
+[Alejandro Rey Corvalán] 19:28:15
+cada vez que haga un pedido, entonces, este token me van siguiendo chicos, chicas, hasta ahí
+
+[Alejandro Rey Corvalán] 19:28:23
+Entonces, ese token respondame si me van siguiendo por el chat
+
+[Alejandro Rey Corvalán] 19:28:28
+Porfa.
+
+[Alejandro Rey Corvalán] 19:28:33
+Bueno, perfecto, ¿qué hacemos con ese token? Ese token está guardado ahí. ¿Cómo lo guardamos?
+
+[Alejandro Rey Corvalán] 19:28:39
+In local storage. Después vamos a ver cómo lo guardamos. Lo que vamos a hacer ahora es cada vez que yo vaya a hacer una petición, yo tengo esta ruta que voy a pedir a través de mi código, voy a llamar a una ruta API perfil y ese API perfil tengo que mandarle el token
+
+[Alejandro Rey Corvalán] 19:28:54
+Entonces cuando le mandé el token voy a tener que obtener el token del local stores que va a estar dado de esta manera
+
+[Alejandro Rey Corvalán] 19:29:02
+Y voy a pedir a través de Axios que la librería que estamos usando, vamos con el método get
+
+[Alejandro Rey Corvalán] 19:29:09
+La ruta le indicamos
+
+[Alejandro Rey Corvalán] 19:29:11
+Y como segundo parámetro en acción le podemos pasar un objeto
+
+[Alejandro Rey Corvalán] 19:29:16
+de este JavaScript que es, en este caso le decimos la cabecera, entonces le pasamos un objeto, modificamos
+
+[Alejandro Rey Corvalán] 19:29:26
+El
+
+[Alejandro Rey Corvalán] 19:29:27
+porque acá estamos trabajando con objetos, pero aca estamos en el protocolo HTTP que va a viajar en Axios, todo esto lo va a transformar parte del protocolo HTTP y le estamos diciendo en la sección de cabecera
+
+[Alejandro Rey Corvalán] 19:29:38
+que mandemos la autorizacion y le mandemos el better
+
+[Alejandro Rey Corvalán] 19:29:43
+token de autenticación
+
+[Alejandro Rey Corvalán] 19:29:45
+Se manda el token, se manda con esta.
+
+[Alejandro Rey Corvalán] 19:29:50
+palabra clave better es para los JSON web token
+
+[Alejandro Rey Corvalán] 19:29:55
+Y
+
+[Alejandro Rey Corvalán] 19:29:56
+En este peso token estaría viajando esto que nosotros le indicamos acá
+
+[Alejandro Rey Corvalán] 19:30:02
+Esto es medio como una receta cocine, esto lo programamos una sola vez y después lo usamos no más
+
+[Alejandro Rey Corvalán] 19:30:09
+Entonces
+
+[Alejandro Rey Corvalán] 19:30:11
+¿Qué tendremos que hacer cada vez que mandamos tenemos que pasarle el token, así que yo voy a tener por cada post que yo haga, por cada ruta, le voy a tener que pasar la cabecera, por cada le voy a tener pasar la cabecera y si ustedes tienen 50 en point
+
+[Alejandro Rey Corvalán] 19:30:25
+Que van a tener que hacer esos cincuenta en point a cada uno de los que vayan a consumir desde nuestro frontend que vayan a consumir el back end le vamos a tener que pasar la sección de Higger
+
+[Alejandro Rey Corvalán] 19:30:36
+Me sigue
+
+[Alejandro Rey Corvalán] 19:30:37
+Entonces esto
+
+[Alejandro Rey Corvalán] 19:30:40
+Es complicado porque si alguien me hizo una ruta y se olvidó de mandar el header va a dejar de funcionar
+
+[Alejandro Rey Corvalán] 19:30:48
+Por ejemplo, vamos a ver el demo, este
+
+[Alejandro Rey Corvalán] 19:30:50
+Acá
+
+[Alejandro Rey Corvalán] 19:30:52
+Recuerden con el Jason Web Token que el JSON web token tiene una fecha de expiración. Acá dice
+
+[Alejandro Rey Corvalán] 19:31:00
+A ver si lo ampliamos esto.
+
+[Alejandro Rey Corvalán] 19:31:07
+Vamos a ir por acá porque con el teclado tengo varios teclados
+
+[Alejandro Rey Corvalán] 19:31:14
+En el JSON todo esto la parte está verde que está en base 10
+
+[Alejandro Rey Corvalán] 19:31:20
+Tiene esta última sección que dice el pay load
+
+[Alejandro Rey Corvalán] 19:31:23
+Entonces es perdon
+
+[Alejandro Rey Corvalán] 19:31:26
+Este es el algoritmo, es este, la parte está
+
+[Alejandro Rey Corvalán] 19:31:31
+Está Violeta tiene
+
+[Alejandro Rey Corvalán] 19:31:33
+Esta parte de acá
+
+[Alejandro Rey Corvalán] 19:31:35
+Y el token manda cuando fue
+
+[Alejandro Rey Corvalán] 19:31:40
+Usted at, es decir, cuando se otorgó este token que es a las 19:26
+
+[Alejandro Rey Corvalán] 19:31:46
+Y cuando expira
+
+[Alejandro Rey Corvalán] 19:31:48
+Fíjense cuando expira se otorgó a las 19:26
+
+[Alejandro Rey Corvalán] 19:31:55
+y 29 y expira el 19 26:41 así que expira a los 15 segundos, esto está hecho para los fines didácticos vieron que ustedes se lo hagan a un banco y el banco cuánto dura el token
+
+[Alejandro Rey Corvalán] 19:32:14
+Pregunte en el aire
+
+[Alejandro Rey Corvalán] 19:32:16
+30 minutos en algunos no me parece demasiado 15 muchísimo
+
+[Alejandro Rey Corvalán] 19:32:21
+Marcia.
+
+[Alejandro Rey Corvalán] 19:32:26
+un minuto demasiado poco
+
+[Alejandro Rey Corvalán] 19:32:27
+5 minutos en general
+
+[Alejandro Rey Corvalán] 19:32:32
+5 minutos, así que, ¿qué pasa? Vamos a ver eso, que si no expira y que me puso unos 5 minutos, pero si yo estoy
+
+[Alejandro Rey Corvalán] 19:32:40
+interactuando y estoy haciendo operación en el banco, estoy yendo un lugar para otro, puedo estar más de cinco minutos
+
+[Alejandro Rey Corvalán] 19:32:48
+Entonces esa
+
+[Alejandro Rey Corvalán] 19:32:50
+Mayor duración es, vamos a ver después cómo está hecho, pero yo tengo acá la fecha de expiración
+
+[Alejandro Rey Corvalán] 19:32:56
+para que esta fecha de expiración me dice cuando el token ese deje deja de ser válido
+
+[Alejandro Rey Corvalán] 19:33:02
+Así que dejó de ser válido.
+
+[Alejandro Rey Corvalán] 19:33:05
+Y este token lo sacamos nosotros aquí
+
+[Alejandro Rey Corvalán] 19:33:07
+Y dice token vencido
+
+[Alejandro Rey Corvalán] 19:33:10
+Si yo me desloguear, esto
+
+[Alejandro Rey Corvalán] 19:33:17
+Esto ven ahí dura
+
+[Alejandro Rey Corvalán] 19:33:20
+x cantidad de segundos 10 o 15 segundos creo que está
+
+[Alejandro Rey Corvalán] 19:33:24
+Vamos a emplear esto
+
+[Alejandro Rey Corvalán] 19:33:39
+No lo puedo ampliar, no sé por qué no me aparece la lupa
+
+[Alejandro Rey Corvalán] 19:33:43
+No, este modo ya
+
+[Alejandro Rey Corvalán] 19:33:45
+Bueno, entonces, si yo tengo el token y está válido el token, yo puedo hacer
+
+[Alejandro Rey Corvalán] 19:33:53
+en GET o consumir esta ruta
+
+[Alejandro Rey Corvalán] 19:33:56
+Mientras sea válida, fíjense, yo voy consumiendo la ruta
+
+[Alejandro Rey Corvalán] 19:34:01
+Y cuando el token venció, si yo quiero consumir esta ruta del back end, el back end me va a decir código de error 401
+
+[Alejandro Rey Corvalán] 19:34:09
+¿Qué es el código de error 401
+
+[Alejandro Rey Corvalán] 19:34:15
+A ver qué opinan
+
+[Alejandro Rey Corvalán] 19:34:22
+Error de autenticación.
+
+[Alejandro Rey Corvalán] 19:34:26
+Bueno
+
+[Alejandro Rey Corvalán] 19:34:28
+No está autenticado
+
+[Alejandro Rey Corvalán] 19:34:43
+unauthorize it
+
+[Alejandro Rey Corvalán] 19:34:46
+han autorizado, o sea, que no está autorizado. Entonces, si yo me vuelvo al obviar este token y este token es válido porque entonces vamos a ver si no me desblogueo
+
+[Alejandro Rey Corvalán] 19:34:57
+El así que la duración del token quién se la da
+
+[Alejandro Rey Corvalán] 19:35:02
+¿Quién se la da al servidor o el cliente?
+
+[Alejandro Rey Corvalán] 19:35:06
+A ver qué me contestan
+
+[Alejandro Rey Corvalán] 19:35:08
+The key independent token del servidor
+
+[Alejandro Rey Corvalán] 19:35:10
+Muy bien, entonces, si vamos a ver
+
+[Alejandro Rey Corvalán] 19:35:15
+Nuestro backend
+
+[Alejandro Rey Corvalán] 19:35:27
+Vamos a ver a nuestro backend
+
+[Alejandro Rey Corvalán] 19:35:30
+Está todo acá en server
+
+[Alejandro Rey Corvalán] 19:35:42
+Fíjense el login, el login que es cuando el usuario presiona login en la ventana, va a venir
+
+[Alejandro Rey Corvalán] 19:35:52
+con,
+
+[Alejandro Rey Corvalán] 19:35:57
+El usuario lo paga, vamos a ver si lo puedo interro.
+
+[Alejandro Rey Corvalán] 19:36:00
+Interceptar acá, login
+
+[Alejandro Rey Corvalán] 19:36:03
+No fue y volvió
+
+[Alejandro Rey Corvalán] 19:36:05
+Tengo que ejecutar el backend
+
+[Alejandro Rey Corvalán] 19:36:10
+En, así lo vemos
+
+[Alejandro Rey Corvalán] 19:36:14
+Entonces vamos a
+
+[Alejandro Rey Corvalán] 19:36:18
+A detener la ejecución
+
+[Alejandro Rey Corvalán] 19:36:24
+Lo vamos a ejecutar en modo debug
+
+[Alejandro Rey Corvalán] 19:36:28
+conozyes?
+
+[Alejandro Rey Corvalán] 19:36:30
+entonces.
+
+[Alejandro Rey Corvalán] 19:36:34
+Si vamos de nuevo a nuestro frontend
+
+[Alejandro Rey Corvalán] 19:36:40
+Y le decimos login
+
+[Alejandro Rey Corvalán] 19:36:42
+el login cuando viene aquí en nuestra ruta en el backend va a llegar
+
+[Alejandro Rey Corvalán] 19:36:50
+El, el usuario y la password vienen dentro del body, entonces lo vamos a recuperar dentro del body, tenemos el usuario alumno y la password
+
+[Alejandro Rey Corvalán] 19:36:58
+Un, dos, tres cuatro
+
+[Alejandro Rey Corvalán] 19:37:02
+En acá elegweight latencia emulamos una, una demora y tenemos el usuario va a buscar el usuario teóricamente acá esto emularía como el acceso a la base de datos, pero nosotros tenemos el usuario que lo tenemos
+
+[Alejandro Rey Corvalán] 19:37:17
+En hard codeado así que tenemos los usuarios están
+
+[Alejandro Rey Corvalán] 19:37:23
+donde tengo la RAI de usuario
+
+[Alejandro Rey Corvalán] 19:37:30
+Acá está
+
+[Alejandro Rey Corvalán] 19:37:33
+No lo tengo esto para fines didácticos lo tengo en una radio entonces tengo el usuario 1 alumno le pago entonces lo que va a hacer es cuando ingresó el usuario lo password lo va a buscar en el array
+
+[Alejandro Rey Corvalán] 19:37:45
+Acá lo buscaría el caso de ese cool light con
+
+[Alejandro Rey Corvalán] 19:37:50
+Y
+
+[Alejandro Rey Corvalán] 19:37:51
+Una vez que obtiene el usuario, lo que va a hacer se va a fijar si el usuario lo encontró, si el usuario lo encontró, significa que existe
+
+[Alejandro Rey Corvalán] 19:38:01
+Y si existe en lo que vamos a hacer es construir el toke
+
+[Alejandro Rey Corvalán] 19:38:07
+Y aquí mandamos
+
+[Alejandro Rey Corvalán] 19:38:09
+El access token
+
+[Alejandro Rey Corvalán] 19:38:12
+que tenemos en el access token, un refresh token y el usuario, que sería
+
+[Alejandro Rey Corvalán] 19:38:18
+los objetos que estamos mandando a nuestro frontend, básicamente aquí cuando dice generar access, tendríamos el token este que sería el token este de acá
+
+[Alejandro Rey Corvalán] 19:38:31
+Así que vamos a tener por ahora quedense que vamos a tener 2 toquen y un objeto
+
+[Alejandro Rey Corvalán] 19:38:37
+El token porque se lo tenemos que dar? Porque cada vez que después nuestro frontend vaya y consume el back end va a tener que pasar
+
+[Alejandro Rey Corvalán] 19:38:43
+Y en el general tokens y vamos a ver
+
+[Alejandro Rey Corvalán] 19:38:46
+Acá es donde indicamos
+
+[Alejandro Rey Corvalán] 19:38:49
+que genere un token con JSON web token
+
+[Alejandro Rey Corvalán] 19:38:53
+Y la duración del token
+
+[Alejandro Rey Corvalán] 19:38:56
+And
+
+[Alejandro Rey Corvalán] 19:38:58
+Es de 12 segundos
+
+[Alejandro Rey Corvalán] 19:39:01
+Entonces esa duración de token se la estamos dando el secret es una palabra clave que le vamos con la cual nosotros vamos a hacer la firma
+
+[Alejandro Rey Corvalán] 19:39:11
+Y cuánto tiempo que aspira entonces para fines didácticos para que ustedes vean que se vence el token, pero acá debería ser cada 5 minutos
+
+[Alejandro Rey Corvalán] 19:39:22
+O si no es una aplicación bancaria podría ser cada noventa minutos dependiendo la criticidad de la informacion que ustedes estén dándole al cliente.
+
+[Alejandro Rey Corvalán] 19:39:31
+Y después va a devolver otro token que se llama refresh token
+
+[Alejandro Rey Corvalán] 19:39:36
+Que
+
+[Alejandro Rey Corvalán] 19:39:38
+En
+
+[Alejandro Rey Corvalán] 19:39:40
+que si lo vimos acá, a ver.
+
+[Alejandro Rey Corvalán] 19:39:45
+Si lo vimos acá en el F12 tenemos DDS Refresh que es otro token que con un token de mayor duración que se implementa para cuando el usuario sigue interactuando, que ya lo vamos a ver un poquito más adelante.
+
+[Alejandro Rey Corvalán] 19:39:58
+Pero básicamente con Jason Weird token, las aplicaciones web mandan 2 tokens, un token de corta duración y un token de larga duración. El token de corta duración, el que voy a usar
+
+[Alejandro Rey Corvalán] 19:40:09
+Para todos los endpoint que esté mandando
+
+[Alejandro Rey Corvalán] 19:40:12
+Cuando esté consumiendo datos del servidor y los voy a mandar ahí con hitters entonces esto es lo que va a estar mandando, lo que vimos acá
+
+[Alejandro Rey Corvalán] 19:40:22
+en el servidor lo vamos a dejar que termine de ejecutar
+
+[Alejandro Rey Corvalán] 19:40:27
+con f10
+
+[Alejandro Rey Corvalán] 19:40:31
+Y
+
+[Alejandro Rey Corvalán] 19:40:34
+devolvimos el token ese qué problema que el token yo demoré un montón, así que el token se lo dice ha vencido porque me quedo ahí en un punto de interrupción.
+
+[Alejandro Rey Corvalán] 19:40:44
+Así que acá le vamos a sacar esto y que lo ejecute
+
+[Alejandro Rey Corvalán] 19:40:50
+Y,
+
+[Alejandro Rey Corvalán] 19:40:51
+tenemos el token este y podría hacer las llamadas estas llamadas de las peticiones que tenemos acá
+
+[Alejandro Rey Corvalán] 19:40:58
+Some peticiones que voy a hacer que
+
+[Alejandro Rey Corvalán] 19:41:06
+Si vamos a ver la petición en esta una petición que estoy haciendo
+
+[Alejandro Rey Corvalán] 19:41:11
+Desde nuestro front end entonces en el frontend si vamos al código del frontend
+
+[Alejandro Rey Corvalán] 19:41:17
+Y
+
+[Alejandro Rey Corvalán] 19:41:19
+Vamos
+
+[Alejandro Rey Corvalán] 19:41:23
+Acá tenemos nuestro código frontend sin interceptor, lo que vamos a hacer es lo siguiente, este es un componente de ría que tiene toda la lógica esta
+
+[Alejandro Rey Corvalán] 19:41:34
+Que acá tiene para lobiarme y tiene para mandar los toquen entonces cada vez que yo consuma la API
+
+[Alejandro Rey Corvalán] 19:41:41
+Fíjense esto como está interactuado, definimos una variable global que va a ser en la ruta donde estan los back end
+
+[Alejandro Rey Corvalán] 19:41:49
+Nuestros endpoint y después
+
+[Alejandro Rey Corvalán] 19:41:52
+Cada vez que yo busque
+
+[Alejandro Rey Corvalán] 19:41:55
+Y que traiga, voy a tener
+
+[Alejandro Rey Corvalán] 19:41:59
+que recuperar el token este que está en donde
+
+[Alejandro Rey Corvalán] 19:42:04
+en el
+
+[Alejandro Rey Corvalán] 19:42:05
+El token el que voy a recuperar es el que está
+
+[Alejandro Rey Corvalán] 19:42:11
+aquí en el storage
+
+[Alejandro Rey Corvalán] 19:42:14
+And the local storage.
+
+[Alejandro Rey Corvalán] 19:42:16
+Así que voy a tener que recuperar este token de acceso
+
+[Alejandro Rey Corvalán] 19:42:21
+Y ese token de acceso lo voy a tener que mandar el API
+
+[Alejandro Rey Corvalán] 19:42:25
+que si lo vemos acá, este token de acceso, cuando decimos get access y vamos a ver la definición
+
+[Alejandro Rey Corvalán] 19:42:31
+get access, acá yo tengo, el get access
+
+[Alejandro Rey Corvalán] 19:42:36
+tenga una función anónima que devuelve del local storage el local storage es el objeto de JavaScript con el cual puedo acceder
+
+[Alejandro Rey Corvalán] 19:42:47
+a estos valores
+
+[Alejandro Rey Corvalán] 19:42:48
+y qué le voy a pasar con el local lectorage?
+
+[Alejandro Rey Corvalán] 19:42:51
+El identificador del elemento que está guardado ahí, entonces en el caso nuestro de token, ¿qué le voy a pasar como parámetro del DDS access
+
+[Alejandro Rey Corvalán] 19:43:01
+Entonces, este DDS access que está acá
+
+[Alejandro Rey Corvalán] 19:43:06
+Harpodeado es lo que me va a traer y esto que me va a traer el local storage, el laxes token, me va a traer el value
+
+[Alejandro Rey Corvalán] 19:43:15
+Me va a devolver qué cosa este value
+
+[Alejandro Rey Corvalán] 19:43:18
+Este value
+
+[Alejandro Rey Corvalán] 19:43:22
+Qué lástima que no grave
+
+[Alejandro Rey Corvalán] 19:43:29
+Entonces el toque me va a devolver el value con el access y este access
+
+[Alejandro Rey Corvalán] 19:43:34
+Este, get access token voy a tener el token que está guardado ahí en ese valor y lo que voy a hacer cada vez que consuma con el actions el get voy a pasarle que voy a consumir la ruta desde el frontend y
+
+[Alejandro Rey Corvalán] 19:43:48
+Y le vamos a pasar
+
+[Alejandro Rey Corvalán] 19:43:49
+La cabecera con
+
+[Alejandro Rey Corvalán] 19:43:51
+El token de
+
+[Alejandro Rey Corvalán] 19:43:53
+autorización
+
+[Alejandro Rey Corvalán] 19:43:55
+Y esto
+
+[Alejandro Rey Corvalán] 19:43:57
+Es lo que voy a mandar al backend, así que si yo voy al backend
+
+[Alejandro Rey Corvalán] 19:44:02
+Y vamos a verle nuestro backend
+
+[Alejandro Rey Corvalán] 19:44:05
+En alguna ruta
+
+[Alejandro Rey Corvalán] 19:44:07
+Supongamos
+
+[Alejandro Rey Corvalán] 19:44:08
+E
+
+[Alejandro Rey Corvalán] 19:44:13
+Una ruta para ver el perfil, voy a poner un punto de interrupción acá
+
+[Alejandro Rey Corvalán] 19:44:18
+y me voy al
+
+[Alejandro Rey Corvalán] 19:44:20
+Acá para ver el perfil, ¿qué pasa? El perfil acá
+
+[Alejandro Rey Corvalán] 19:44:29
+Como en token es inválido, directamente nos llega ahí, pero si yo me lo veo me vuelvo loguear
+
+[Alejandro Rey Corvalán] 19:44:34
+Y el token es válido y hago un geta llega.
+
+[Alejandro Rey Corvalán] 19:44:38
+Y acá por qué llega?
+
+[Alejandro Rey Corvalán] 19:44:40
+¿Y por qué antes no llegaba
+
+[Alejandro Rey Corvalán] 19:44:43
+Porque
+
+[Alejandro Rey Corvalán] 19:44:44
+Ustedes ven en esta sintaxis que hay algún middleware
+
+[Alejandro Rey Corvalán] 19:44:50
+¿Se acuerdan los conceptos de middleware?
+
+[Alejandro Rey Corvalán] 19:44:54
+ven algún middleware aquí
+
+[Alejandro Rey Corvalán] 19:45:00
+Beja me dice que no.
+
+[Alejandro Rey Corvalán] 19:45:03
+El resto
+
+[Alejandro Rey Corvalán] 19:45:04
+Valentina, que no
+
+[Alejandro Rey Corvalán] 19:45:09
+¿Quién más?
+
+[Alejandro Rey Corvalán] 19:45:11
+¿Quién más
+
+[Alejandro Rey Corvalán] 19:45:13
+Lucía
+
+[Alejandro Rey Corvalán] 19:45:15
+Vamos, muchachos, muchachas
+
+[Alejandro Rey Corvalán] 19:45:17
+Sí, no, sí, no, ven ahí algún
+
+[Alejandro Rey Corvalán] 19:45:23
+Bueno, van a tener que estudiar por el parcial, ¿e
+
+[Alejandro Rey Corvalán] 19:45:30
+Ramiro, te demoraste, pero sí, es el out. Entonces, como me doy cuenta que esto es un middleware? Porque yo tengo la ruta
+
+[Alejandro Rey Corvalán] 19:45:38
+Y si no tuviese middleware no tendría nada acá después del rec al res, pero acá tengo
+
+[Alejandro Rey Corvalán] 19:45:46
+Una llamada antes de la ruta que
+
+[Alejandro Rey Corvalán] 19:45:51
+Sería el middle word, yo podría tener varios middleware acá, podría tener un middle word de login
+
+[Alejandro Rey Corvalán] 19:45:57
+podría tener otro tipo de middleware
+
+[Alejandro Rey Corvalán] 19:46:01
+Pero acá
+
+[Alejandro Rey Corvalán] 19:46:03
+lo que está haciendo es le está indicando
+
+[Alejandro Rey Corvalán] 19:46:05
+a que antes de
+
+[Alejandro Rey Corvalán] 19:46:10
+se invoque
+
+[Alejandro Rey Corvalán] 19:46:12
+Este método primero invoque
+
+[Alejandro Rey Corvalán] 19:46:15
+Al de autenticación
+
+[Alejandro Rey Corvalán] 19:46:17
+Y si en mí el guardia autenticación determina que esté autenticado
+
+[Alejandro Rey Corvalán] 19:46:21
+Recién aquí pasa ya el usuario que yo se que está autenticado. Si este dice que no está autenticado, falla y vuelve y directamente retorna, pero si no, va al próximo
+
+[Alejandro Rey Corvalán] 19:46:34
+que sería este entonces vamos a ver qué tiene el de autenticación
+
+[Alejandro Rey Corvalán] 19:46:40
+El de autenticación que va a ser y lo que vamos a hacer es primero va a tener tres parámetros y ahí me doy cuenta que este también es un middle web porque middleware tiene el reques, el objeto reques, el objeto de response
+
+[Alejandro Rey Corvalán] 19:46:52
+Que si mando response
+
+[Alejandro Rey Corvalán] 19:46:54
+Yo le podría mandar algo
+
+[Alejandro Rey Corvalán] 19:46:57
+Directamente este middleware sin que pase el próximo y si quiero que la autenticaciones sea válida voy a tener que llamar next entonces vamos a ver el funcionamiento de esto rápidamente porque esto ya lo vimos, ¿no?
+
+[Alejandro Rey Corvalán] 19:47:08
+Entonces voy a obtener el rey que voy a obtener para saber si un token es válido como viajaba dentro de la cabecera, voy a obtener de la sección de la cabecera del reques
+
+[Alejandro Rey Corvalán] 19:47:19
+Él
+
+[Alejandro Rey Corvalán] 19:47:22
+la autorización
+
+[Alejandro Rey Corvalán] 19:47:23
+que la autorización lo tengo así autorización que viaja el toke
+
+[Alejandro Rey Corvalán] 19:47:30
+Este vídeo token viaje con la palabra better y el token de JSON web token. Entonces, ¿qué voy a hacer? Voy a extraer
+
+[Alejandro Rey Corvalán] 19:47:37
+El token de ese vídeo entonces si comienza con esto lo que hace es con Hidar slides que lo que el slice
+
+[Alejandro Rey Corvalán] 19:47:46
+And saco una tajada y le digo que saque de los primeros siete de los que hay en ese cadena que va a servir, así que va a ser
+
+[Alejandro Rey Corvalán] 19:47:54
+1
+
+[Alejandro Rey Corvalán] 19:47:58
+1 2 3 4 5 6 7 esos 7 caracteres que los saque y
+
+[Alejandro Rey Corvalán] 19:48:03
+de la cadena de caracteres porque la cadena de caracteres viene así
+
+[Alejandro Rey Corvalán] 19:48:06
+Así que, y que voy a obtener de ahí? Yo voy a tener el token. ¿Y ahora qué tengo que hacer con la librería
+
+[Alejandro Rey Corvalán] 19:48:12
+Ehm
+
+[Alejandro Rey Corvalán] 19:48:15
+the JSON web token, que esto ya está configurado, si el token
+
+[Alejandro Rey Corvalán] 19:48:20
+No viene, si no viene el token significa que falta el token, así que da un error, entonces el res status 241 directamente le dice, mira.
+
+[Alejandro Rey Corvalán] 19:48:30
+No, no existís, no podés entrar y no vas a ingresar a la ruta que vos queres
+
+[Alejandro Rey Corvalán] 19:48:35
+Directamente el media war está al tener una
+
+[Alejandro Rey Corvalán] 19:48:38
+Al invocar al objeto res
+
+[Alejandro Rey Corvalán] 19:48:41
+Interrumpe todas las llamadas siguientes que hayan despues de la ruta, asi que, en este caso
+
+[Alejandro Rey Corvalán] 19:48:48
+Que yo tenía la ruta esta y tengo acá en este autenticación el objeto RES la invocación
+
+[Alejandro Rey Corvalán] 19:48:57
+Hace que esto nos invoque
+
+[Alejandro Rey Corvalán] 19:48:59
+Él da la respuesta
+
+[Alejandro Rey Corvalán] 19:49:01
+Y ahora bien
+
+[Alejandro Rey Corvalán] 19:49:02
+Sí el token viene el token puede estar vencido
+
+[Alejandro Rey Corvalán] 19:49:07
+Entonces como voy a hacer para saber si está vencido y bueno voy a llamar del objeto de esta librería tengo el método verify que lo que va a hacer validar si el token tiene la firma válida, si no ha sido adulterado
+
+[Alejandro Rey Corvalán] 19:49:19
+Y si no mención, si no venció, no está adulterado y es válido, ¿qué me va?
+
+[Alejandro Rey Corvalán] 19:49:26
+Un ok.
+
+[Alejandro Rey Corvalán] 19:49:27
+Así que
+
+[Alejandro Rey Corvalán] 19:49:29
+Va
+
+[Alejandro Rey Corvalán] 19:49:30
+No me iba a disparar ninguna excepción, así que voy a poder llamar al next
+
+[Alejandro Rey Corvalán] 19:49:35
+que es la función que me va a llamar al otro igual si es que hay
+
+[Alejandro Rey Corvalán] 19:49:40
+En este caso next cuál sería y esto
+
+[Alejandro Rey Corvalán] 19:49:44
+Así que entraría recién ahí a perfil, por eso yo estoy pudiendo entrar acá. Y si no
+
+[Alejandro Rey Corvalán] 19:49:49
+Si hay un error porque yo lo adulteré al token, le cambié algo, le quise cambiar la fecha, vencimiento, qué sé yo, que sé cuánto, qué pasa? Salta por error porque esta librería va a verificar con una, con la firma que tiene
+
+[Alejandro Rey Corvalán] 19:50:03
+Recuerden que la firma de esto en donde está
+
+[Alejandro Rey Corvalán] 19:50:06
+La firma de esto del token está en esta sección
+
+[Alejandro Rey Corvalán] 19:50:09
+Entonces con esa firma
+
+[Alejandro Rey Corvalán] 19:50:13
+va a determinar si
+
+[Alejandro Rey Corvalán] 19:50:15
+todo esto es válido
+
+[Alejandro Rey Corvalán] 19:50:17
+Y si no es válido, salta y si salta, ¿qué va a ser el código nuestro
+
+[Alejandro Rey Corvalán] 19:50:23
+Va a devolver un error de token que está expirado o inválido acá
+
+[Alejandro Rey Corvalán] 19:50:31
+Me voy a fijar si viene en el name va a venir token expiry error y si no me va a devolver otro error
+
+[Alejandro Rey Corvalán] 19:50:39
+Entonces
+
+[Alejandro Rey Corvalán] 19:50:41
+Yo quiero únicamente saber si toca en esta espirado o el token es inválido si yo lo adulteré sería token inválido entonces
+
+[Alejandro Rey Corvalán] 19:50:50
+De acuerdo a eso va a devolver el código de error y lo voy a estar mandando el código 401 que sería
+
+[Alejandro Rey Corvalán] 19:50:57
+No autorizado y en el JSON voy a mandar una descripción del error
+
+[Alejandro Rey Corvalán] 19:51:03
+con el código específico interno, este, que sería token expired o token vale
+
+[Alejandro Rey Corvalán] 19:51:11
+Y entonces, como el token este acá con la llamada next se desencadenó que
+
+[Alejandro Rey Corvalán] 19:51:19
+Pasara por acá
+
+[Alejandro Rey Corvalán] 19:51:21
+Y ahora, ¿qué va a hacer y bueno, este, directamente el JSON con algún dato para
+
+[Alejandro Rey Corvalán] 19:51:28
+para que veamos nomas como es que funciona, ¿no?
+
+[Alejandro Rey Corvalán] 19:51:32
+Así que esto ya está y ahora toca está vencido si yo hago un gate de nuevo
+
+[Alejandro Rey Corvalán] 19:51:39
+Me da el cuatrocientos uno y no paso bien
+
+[Alejandro Rey Corvalán] 19:51:43
+Entonces si vamos a ver el
+
+[Alejandro Rey Corvalán] 19:51:47
+El middleware, este, de autenticación
+
+[Alejandro Rey Corvalán] 19:51:51
+que era
+
+[Alejandro Rey Corvalán] 19:51:53
+de perfil acá vamos a ir
+
+[Alejandro Rey Corvalán] 19:51:56
+Vamos a ponerle en un
+
+[Alejandro Rey Corvalán] 19:52:02
+Un punto de interrupción, pero no me deja ahora
+
+[Alejandro Rey Corvalán] 19:52:07
+Cancelar
+
+[Alejandro Rey Corvalán] 19:52:08
+Opponent
+
+[Alejandro Rey Corvalán] 19:52:20
+Entonces acá si yo le mando de nuevo, ¿qué pasa? Viene el reques, el reques
+
+[Alejandro Rey Corvalán] 19:52:27
+Me fijo del reques del headers, del headers
+
+[Alejandro Rey Corvalán] 19:52:32
+O tengo autorization, la variable autorization del hidden me va a devolver el meter tick, el better token
+
+[Alejandro Rey Corvalán] 19:52:40
+Ehm
+
+[Alejandro Rey Corvalán] 19:52:42
+acá obtengo el token, el token existe porque sí, pero ¿qué pasa? Este token está vencido, entonces cuando lo quiere verificar, esta funcion me devuelve un error
+
+[Alejandro Rey Corvalán] 19:52:51
+Que si lo capturo me dice ahí
+
+[Alejandro Rey Corvalán] 19:52:53
+Toquen spider me da el mensaje de la librería todo del error que se produjo y
+
+[Alejandro Rey Corvalán] 19:52:58
+Y establezco el código ahí y directamente vuelvo devuelvo el 401 y al devolver el error ya no se invoca más lo que hay en el otro middleware
+
+[Alejandro Rey Corvalán] 19:53:15
+Se entendió no chicos, chicas?
+
+[Alejandro Rey Corvalán] 19:53:17
+quedó claro esto entonces que vamos a hacer nosotros?
+
+[Alejandro Rey Corvalán] 19:53:21
+Vamos a ir con interceptores
+
+[Alejandro Rey Corvalán] 19:53:26
+Entonces vamos a usar esto, sería sin interceptores con lo que hemos visto hasta ahora, si ustedes no hubiesen visto hasta ahora y sabe que tiene que mandar la cabeza, siempre la cabecera desde el front end se manda así cogidas. Ahora, para evitar cada vez que tengamos que nosotros mandar la cabecera.
+
+[Alejandro Rey Corvalán] 19:53:42
+En esto se
+
+[Alejandro Rey Corvalán] 19:53:44
+Puede optimizar utilizando un interceptor, que un interceptor que es
+
+[Alejandro Rey Corvalán] 19:53:52
+And
+
+[Alejandro Rey Corvalán] 19:53:53
+Desgraciadamente voy a hacer una analogía con la guerra, ¿vieron en la guerra ahora entre
+
+[Alejandro Rey Corvalán] 19:53:59
+Irán
+
+[Alejandro Rey Corvalán] 19:54:01
+Israel
+
+[Alejandro Rey Corvalán] 19:54:02
+que los iraníes lanzan un misil y los israelíes que lanzan un misil como se denomina ese misil
+
+[Alejandro Rey Corvalán] 19:54:14
+Un misil interceptor, ese misil interceptor va a interceptar antes de que, de que el misil iraní caiga
+
+[Alejandro Rey Corvalán] 19:54:22
+en tierra
+
+[Alejandro Rey Corvalán] 19:54:23
+Ese es el objetivo
+
+[Alejandro Rey Corvalán] 19:54:25
+Bueno, esto es lo mismo, nada más que no es un misil, pero es una petición, asi que es una petición que va a ir del frontend al back end, entonces lo que hace el interceptor dice, es como una barrera que le ponemos al
+
+[Alejandro Rey Corvalán] 19:54:39
+Galaxios
+
+[Alejandro Rey Corvalán] 19:54:41
+¿Qué nos permite que toda petición cuando va a viajar al backend que haya un objeto que lo intercepta, independientemente de dónde es generada en la aplicación, siempre lo va a interceptar y al interceptarla, ¿qué puedo hacer? ¿La puede modificar
+
+[Alejandro Rey Corvalán] 19:54:57
+la puede denegar o la puede dejar que pase sin hacer nada, así que podemos manipular completamente esa petition http
+
+[Alejandro Rey Corvalán] 19:55:07
+Antes de que salga desde nuestro frontend al backend
+
+[Alejandro Rey Corvalán] 19:55:15
+Entonces corre antes que el handler, entonces va el reques, vamos a ver esto en la práctica, ¿me siguen lo que es
+
+[Alejandro Rey Corvalán] 19:55:23
+Entonces, este interceptor lo que vamos a hacer es lo siguiente
+
+[Alejandro Rey Corvalán] 19:55:30
+Yo tengo el login acá
+
+[Alejandro Rey Corvalán] 19:55:34
+Yo me lo veo, entonces
+
+[Alejandro Rey Corvalán] 19:55:37
+este login ahí me dice y puedo
+
+[Alejandro Rey Corvalán] 19:55:40
+Vamos a sacarle los puntos de interrupción, si no, no vamos a
+
+[Alejandro Rey Corvalán] 19:55:45
+Después lo vemos
+
+[Alejandro Rey Corvalán] 19:55:48
+este ya está vencido, al estar ya vencido, dice que dice acá el interceptor cerró la sesión
+
+[Alejandro Rey Corvalán] 19:55:55
+En una aplicación real sería esto que tenía que navegar hasta el login, así que yo me fijo en lo intercepto
+
+[Alejandro Rey Corvalán] 19:56:05
+Y yo pudo interceptar tanto la respuesta
+
+[Alejandro Rey Corvalán] 19:56:09
+El rey que es así que puedo interceptar
+
+[Alejandro Rey Corvalán] 19:56:11
+Ambas señales el reques y el response
+
+[Alejandro Rey Corvalán] 19:56:15
+Entonces, de acuerdo a eso, hacer alguna acción
+
+[Alejandro Rey Corvalán] 19:56:19
+Cuando el login es válido que va a ser
+
+[Alejandro Rey Corvalán] 19:56:23
+cuando vas a enviar esta API este endpoint, este endpoint
+
+[Alejandro Rey Corvalán] 19:56:29
+le va a interceptar para ver si está autenticado, si no tiene giganticación, se lo va a mandar
+
+[Alejandro Rey Corvalán] 19:56:37
+Entonces vamos a ver eso ahora
+
+[Alejandro Rey Corvalán] 19:56:40
+Me siguen, chicos, chicas
+
+[Alejandro Rey Corvalán] 19:56:42
+Entonces si vemos acá en el frontend y vamos a ver que es con interceptor que vamos a hacer
+
+[Alejandro Rey Corvalán] 19:56:51
+Vamos a tener que, en axios
+
+[Alejandro Rey Corvalán] 19:56:54
+Indicarle que queremos al axio le tenemos que decir, mira, quiero que interceptes
+
+[Alejandro Rey Corvalán] 19:57:00
+Así que, básicamente
+
+[Alejandro Rey Corvalán] 19:57:03
+Vamos a crear
+
+[Alejandro Rey Corvalán] 19:57:06
+una un objeto de acción
+
+[Alejandro Rey Corvalán] 19:57:09
+Y a ese objeto de axios que lo vamos a hacer con este método create le vamos a pasar la URL base donde van a estar los backend y lo guardamos en API. Esta API es una variable global de del proyecto.
+
+[Alejandro Rey Corvalán] 19:57:26
+Un proxy es parecido a un tipo de interceptor, no, un proxy no es un interceptor. El proxy es
+
+[Alejandro Rey Corvalán] 19:57:33
+El proxy está en otro equipo así que vos tenés tu aplicación de frontend
+
+[Alejandro Rey Corvalán] 19:57:37
+En tu aplicación del back end, en el medio tienes un montón de dispositivos de comunicaciones y aquí en la mitad te pueden poner
+
+[Alejandro Rey Corvalán] 19:57:45
+Un equipo que se denomina un proxy entonces pero esta en otro equipo, así que, pero
+
+[Alejandro Rey Corvalán] 19:57:52
+Básicamente también podríamos, sería un interceptor, pero de otras características, no es un interceptor que captura desde el mismo browser que es lo que estamos necesitando
+
+[Alejandro Rey Corvalán] 19:58:04
+Pero para el concepto es similar, pero está en otros equipos separados
+
+[Alejandro Rey Corvalán] 19:58:13
+Entonces, bueno, definimos lápiz con este API tenemos un objeto de acción y este objeto de acción le vamos a configurar interceptor y se configuran así, api punto interceptors
+
+[Alejandro Rey Corvalán] 19:58:24
+Y yo puedo interceptarlos tanto a Enriques
+
+[Alejandro Rey Corvalán] 19:58:28
+Así que el rique que era la petición que viaja desde donde viaja desde el cliente al servidor o desde el servidor al cliente.
+
+[Alejandro Rey Corvalán] 19:58:47
+Bueno, perfecto, desde el cliente al servidor. Entonces, ¿qué vamos a hacer antes de que salga del navegador, lo que vamos a hacer es, vamos
+
+[Alejandro Rey Corvalán] 19:58:55
+Le decimos que
+
+[Alejandro Rey Corvalán] 19:58:57
+E
+
+[Alejandro Rey Corvalán] 19:58:59
+Establecemos use aquí le decimos vamos a recibir en config, esto es parte de
+
+[Alejandro Rey Corvalán] 19:59:06
+de cómo maneje interceptores
+
+[Alejandro Rey Corvalán] 19:59:11
+axios
+
+[Alejandro Rey Corvalán] 19:59:12
+Entonces, en config voy a tener
+
+[Alejandro Rey Corvalán] 19:59:15
+La configuración interna de axios y lo que vamos a ver es
+
+[Alejandro Rey Corvalán] 19:59:21
+del objeto de autenticación que del objeto de autenticación que esta definido en
+
+[Alejandro Rey Corvalán] 19:59:29
+Vamos a decir que va a ser del get access, esto que vimos de local storage, vamos a ver si
+
+[Alejandro Rey Corvalán] 19:59:36
+en el local storage
+
+[Alejandro Rey Corvalán] 19:59:38
+está el token, si está el token lo guardamos en token y si existe el token, ¿qué vamos a hacer? Le vamos a decir
+
+[Alejandro Rey Corvalán] 19:59:45
+A la configuración de
+
+[Alejandro Rey Corvalán] 19:59:48
+Accios que en la parte de la cabecera en la sección de autorización, me agregué el token
+
+[Alejandro Rey Corvalán] 19:59:56
+Y esto
+
+[Alejandro Rey Corvalán] 19:59:58
+Lo que va a hacer es
+
+[Alejandro Rey Corvalán] 19:59:59
+Cada vez que nosotros hagamos una petición a nuestro backend
+
+[Alejandro Rey Corvalán] 20:00:03
+Siempre le va a agregar
+
+[Alejandro Rey Corvalán] 20:00:06
+el token de autorización, esto lo ven, lo hace acá de otra manera, porque lo hace otra manera y porque ahí estamos usando la librería de acción
+
+[Alejandro Rey Corvalán] 20:00:14
+Y en el, en la, en esta estamos usando axios, pero no estamos usando interceptores, por eso se manda de esta otra manera el virus, eso es lo que veíamos hace un rato, sin interceptor y acá con interceptor sería de esta manera.
+
+[Alejandro Rey Corvalán] 20:00:28
+Entonces, este es un token de riques
+
+[Alejandro Rey Corvalán] 20:00:31
+Ahora bien, vamos a ver el token de response
+
+[Alejandro Rey Corvalán] 20:00:35
+Porque
+
+[Alejandro Rey Corvalán] 20:00:40
+El response que vamos a hacer, y podremos decir que si nosotros queremos consumir algo que este en una ruta, que no tenga autorizacion, que tendremos que hacer en la respuesta?
+
+[Alejandro Rey Corvalán] 20:00:50
+Y mandarlo al usuario e informarle, mira, no estás autenticado, lo voy a tener nuevamente porque venció.
+
+[Alejandro Rey Corvalán] 20:00:55
+Entonces, este, tendríamos el interceptor
+
+[Alejandro Rey Corvalán] 20:00:59
+Por response, así que cada vez que vuelva algo, antes de que sea algo llegue
+
+[Alejandro Rey Corvalán] 20:01:07
+a la, al método get postputo delete del propio acción de esta parte
+
+[Alejandro Rey Corvalán] 20:01:13
+Y esta parte que se va a fijar
+
+[Alejandro Rey Corvalán] 20:01:15
+Se fija en la respuesta, si la respuesta
+
+[Alejandro Rey Corvalán] 20:01:19
+E
+
+[Alejandro Rey Corvalán] 20:01:21
+Es válida lo manda directamente acá si la respuesta me va a mandar el objeto RES si hay un 200
+
+[Alejandro Rey Corvalán] 20:01:31
+o 201 cualquier código de 200 si me devuelve un 400 me lo va a mandar como error
+
+[Alejandro Rey Corvalán] 20:01:38
+El objeto en response y en este error lo que voy a fijar es si el error es 401 porque podría ser otro error 500
+
+[Alejandro Rey Corvalán] 20:01:47
+Entonces, si es el 401 que no está autenticado, ¿qué voy a hacer? voy a guardar en la consola, decir que no está autenticado
+
+[Alejandro Rey Corvalán] 20:01:55
+Ehm voy a limpiar la sesión
+
+[Alejandro Rey Corvalán] 20:01:59
+que este, esta limpieza de sesión lo que va a hacer es
+
+[Alejandro Rey Corvalán] 20:02:04
+Todo lo que está guardado dentro de
+
+[Alejandro Rey Corvalán] 20:02:09
+de
+
+[Alejandro Rey Corvalán] 20:02:11
+del
+
+[Alejandro Rey Corvalán] 20:02:13
+application
+
+[Alejandro Rey Corvalán] 20:02:15
+Lo va a limpiar, es decir, todo lo vuelve inválido
+
+[Alejandro Rey Corvalán] 20:02:18
+Y
+
+[Alejandro Rey Corvalán] 20:02:19
+Aquí lo que va a hacer
+
+[Alejandro Rey Corvalán] 20:02:22
+Es en avisar un cuatrocientos uno, pero lo que tenemos que hacer es indicarle navigator login, es decir, que se vaya a la ventana de autenticación. Acá no está hecho el login, ¿por qué? Porque quiero mostrar
+
+[Alejandro Rey Corvalán] 20:02:35
+En este error
+
+[Alejandro Rey Corvalán] 20:02:37
+Pero si no tendría que ir a la ventana del hoy, acá está todo integrado para ver como un ejemplo
+
+[Alejandro Rey Corvalán] 20:02:42
+Entonces vamos a hacer el log out
+
+[Alejandro Rey Corvalán] 20:02:45
+En, cuando hacemos el get perfil
+
+[Alejandro Rey Corvalán] 20:02:48
+Ehm
+
+[Alejandro Rey Corvalán] 20:02:49
+Esto
+
+[Alejandro Rey Corvalán] 20:02:53
+Esto va a viajar, lo va a interceptar en nuestro frontend que vamos a ver si acá lo podemos hacer, lo intercepte para que vean
+
+[Alejandro Rey Corvalán] 20:03:03
+And...
+
+[Alejandro Rey Corvalán] 20:03:28
+estaba esto.
+
+[Alejandro Rey Corvalán] 20:03:36
+And
+
+[Alejandro Rey Corvalán] 20:03:49
+No sé si viene por acá
+
+[Alejandro Rey Corvalán] 20:03:53
+O viene por acá
+
+[Alejandro Rey Corvalán] 20:03:59
+Bueno, a ver, veamos
+
+[Alejandro Rey Corvalán] 20:04:04
+En aquí que la will get
+
+[Alejandro Rey Corvalán] 20:04:06
+Fíjense en el gate viene acá el interceptor
+
+[Alejandro Rey Corvalán] 20:04:10
+Interrumpió aquí
+
+[Alejandro Rey Corvalán] 20:04:12
+El interceptor con reques acá para poder ver esto que está ocurriendo, estoy en el propio navegador, así que
+
+[Alejandro Rey Corvalán] 20:04:20
+con la limite esta azul lo establezco los puntos de interrupción.
+
+[Alejandro Rey Corvalán] 20:04:24
+Y con F diez voy al siguiente, obtengo el token, fíjense, el token lo obtuve de donde
+
+[Alejandro Rey Corvalán] 20:04:31
+de lo que está guardado en qué parte
+
+[Alejandro Rey Corvalán] 20:04:34
+En la parte está
+
+[Alejandro Rey Corvalán] 20:04:38
+Andilas
+
+[Alejandro Rey Corvalán] 20:04:41
+Obviamente usando la librería, ¿no? La librería esta que estábamos viendo
+
+[Alejandro Rey Corvalán] 20:04:49
+Entonces obtiene el token
+
+[Alejandro Rey Corvalán] 20:04:51
+El token este va a devolver el token
+
+[Alejandro Rey Corvalán] 20:04:56
+Y lo vamos a hacer acá que intercepte la respuesta, este token
+
+[Alejandro Rey Corvalán] 20:05:01
+¿Qué va a hacer?
+
+[Alejandro Rey Corvalán] 20:05:03
+Se lo voy a estar modificando y
+
+[Alejandro Rey Corvalán] 20:05:06
+E
+
+[Alejandro Rey Corvalán] 20:05:07
+Va a estar mandándose la petición esta donde
+
+[Alejandro Rey Corvalán] 20:05:13
+Al backend
+
+[Alejandro Rey Corvalán] 20:05:15
+El back end va a recibir
+
+[Alejandro Rey Corvalán] 20:05:19
+El token y le va a indicar, no, este token es inválido
+
+[Alejandro Rey Corvalán] 20:05:24
+Entonces, como consecuencia de eso
+
+[Alejandro Rey Corvalán] 20:05:37
+Acá por positivo no entró y así que por error entraría por acá. ¿Me siguen todo el ciclo de vida, chicos?
+
+[Alejandro Rey Corvalán] 20:05:44
+Chicas
+
+[Alejandro Rey Corvalán] 20:05:46
+Veamos
+
+[Alejandro Rey Corvalán] 20:05:50
+Buffa.
+
+[Alejandro Rey Corvalán] 20:05:51
+Me pierdo con tantas ventanas, entonces yo voy acá, el token está vencido, cuando le doy acá, get
+
+[Alejandro Rey Corvalán] 20:05:57
+Este es el
+
+[Alejandro Rey Corvalán] 20:05:59
+Interceptor
+
+[Alejandro Rey Corvalán] 20:06:01
+riqueza
+
+[Alejandro Rey Corvalán] 20:06:02
+Lo vamos a pasar, que ya lo vimos y la respuesta que hago? La capturo acá. Esta respuesta, ¿quién me lo manda? El back end y el back end me dice
+
+[Alejandro Rey Corvalán] 20:06:11
+unauthorize it.
+
+[Alejandro Rey Corvalán] 20:06:12
+41
+
+[Alejandro Rey Corvalán] 20:06:13
+La capturo ahí
+
+[Alejandro Rey Corvalán] 20:06:17
+limpio
+
+[Alejandro Rey Corvalán] 20:06:20
+Si me voy al clear, ven, el clear que hizo, limpio el token, no hay más token acá.
+
+[Alejandro Rey Corvalán] 20:06:30
+Y en aviso del 401 que lo que hace el aviso del 401
+
+[Alejandro Rey Corvalán] 20:06:41
+Si lo continuamos la ejecución
+
+[Alejandro Rey Corvalán] 20:06:45
+Esto
+
+[Alejandro Rey Corvalán] 20:06:51
+Bueno, entonces básicamente tenemos que hacer esa petición y esa respuesta en el trabajo practico, creo que se llega hasta ahí.
+
+[Alejandro Rey Corvalán] 20:07:02
+que tienen que van a tener que ustedes
+
+[Alejandro Rey Corvalán] 20:07:09
+Modo de autenticación completo con registro, ta ta y lo que van a tener que mandar tambien es algún rol de ahí
+
+[Alejandro Rey Corvalán] 20:07:15
+Y lo van a persistir en persistencia de sesión en el front end, asi que lo persisten en el local storage
+
+[Alejandro Rey Corvalán] 20:07:22
+Ahora bien.
+
+[Alejandro Rey Corvalán] 20:07:23
+Yo le voy a dar un poquitito más de esto
+
+[Alejandro Rey Corvalán] 20:07:28
+que sería
+
+[Alejandro Rey Corvalán] 20:07:30
+Hasta ahí me siguieron entonces en cómo sería con el token, cómo viajaría
+
+[Alejandro Rey Corvalán] 20:07:36
+Esto del back end y el frontend
+
+[Alejandro Rey Corvalán] 20:07:39
+¿alguna pregunta tienen de esto?
+
+[Alejandro Rey Corvalán] 20:07:51
+Bueno, ahora veríamos algo más robusto
+
+[Alejandro Rey Corvalán] 20:07:55
+porque, ¿qué pasaría cada vez que se vence este token acá lo pusimos al token que vencía cada
+
+[Alejandro Rey Corvalán] 20:08:02
+Ehm
+
+[Alejandro Rey Corvalán] 20:08:04
+15 segundos pero si nosotros ponemos 3 minutos 10 minutos, 3 días en algún lugar, en algún momento el token va a vencer, ¿no?
+
+[Alejandro Rey Corvalán] 20:08:16
+Y ahí qué vamos a hacer
+
+[Alejandro Rey Corvalán] 20:08:20
+como acá
+
+[Alejandro Rey Corvalán] 20:08:21
+Vamos a mandarlo de nuevo a la ventana de login
+
+[Alejandro Rey Corvalán] 20:08:25
+Ustedes cuando están trabajando en Gmail
+
+[Alejandro Rey Corvalán] 20:08:29
+Gmail los hace loguearse todos los días
+
+[Alejandro Rey Corvalán] 20:08:32
+Cuando entran a verlo o no?
+
+[Alejandro Rey Corvalán] 20:08:39
+The token de Gmail, ¿cuánto tiempo durará?
+
+[Alejandro Rey Corvalán] 20:08:45
+The token the Gmail dura poco
+
+[Alejandro Rey Corvalán] 20:08:47
+intervalo corto no tengo tiempo ahora para verlo, pero podremos verlo y sacarle ahí cuántas horas nos da de duración.
+
+[Alejandro Rey Corvalán] 20:08:54
+Pero, ¿qué pasa?
+
+[Alejandro Rey Corvalán] 20:08:55
+¿Qué sería más o menos como una aplicación bancaria
+
+[Alejandro Rey Corvalán] 20:08:58
+Entonces el token siempre vence, cuando vence no sirve más
+
+[Alejandro Rey Corvalán] 20:09:02
+Y si no sirve más, ¿qué tenemos que hacer? Volver al gobierno, como estoy haciendo cada vez que yo le quiero hacer lemo a ustedes
+
+[Alejandro Rey Corvalán] 20:09:08
+Cada vez me tengo que bueno acaba tengo que hacer el, como el de los video
+
+[Alejandro Rey Corvalán] 20:09:13
+Espérenme acá que saco todo esto porque
+
+[Alejandro Rey Corvalán] 20:09:18
+Todos los puntos de interrupción porque están imposible salir
+
+[Alejandro Rey Corvalán] 20:09:23
+Entonces me tengo que loguear y para poder y lo voy a poder consumir
+
+[Alejandro Rey Corvalán] 20:09:30
+Entonces esa pitiene
+
+[Alejandro Rey Corvalán] 20:09:32
+¿Qué pasa cuando vencion? Vence ahora
+
+[Alejandro Rey Corvalán] 20:09:36
+Me tendría que volver a lobear, entonces me tengo que lobear detener eso que sería un incordio para una aplicación
+
+[Alejandro Rey Corvalán] 20:09:53
+A ver qué me decís, Faco, y en el ejemplo de la V en el que estás inactivo por un tiempo
+
+[Alejandro Rey Corvalán] 20:10:00
+Te dice seguir en sesión. Si tardas mucho, te saca directamente
+
+[Alejandro Rey Corvalán] 20:10:05
+Es un paso intermedio, ¿no?
+
+[Alejandro Rey Corvalán] 20:10:10
+Esto sería lo que vamos a ver, que sería el refresh token
+
+[Alejandro Rey Corvalán] 20:10:15
+Entonces el refresh token sería un token adicional que se les da a las aplicaciones, le damos dos token, ¿se acuerda que yo les dije? Tenemos un token de autenticación y un token de refresco.
+
+[Alejandro Rey Corvalán] 20:10:26
+El token de autenticación se debe guardar ahí
+
+[Alejandro Rey Corvalán] 20:10:29
+Dentro de
+
+[Alejandro Rey Corvalán] 20:10:33
+En si vamos acá a, vamos a ver en application, vamos a ver en el local storage
+
+[Alejandro Rey Corvalán] 20:10:39
+Este es el token que se guarda ahí
+
+[Alejandro Rey Corvalán] 20:10:41
+El otro token es un token de refresco de la autenticación que en vez de guardarse ahí por un tema de seguridad, porque esto está expuesto, así que yo podría robarme el token de
+
+[Alejandro Rey Corvalán] 20:10:52
+De autenticación de
+
+[Alejandro Rey Corvalán] 20:10:55
+de la API que tengo bancaria, por ejemplo, por más que yo soy el banco, pero podría hacer algo
+
+[Alejandro Rey Corvalán] 20:11:00
+Entonces, para evitar eso.
+
+[Alejandro Rey Corvalán] 20:11:03
+o evitar que a través de sentencias de JavaScript puedan acceder porque, ¿qué pasa con esto?
+
+[Alejandro Rey Corvalán] 20:11:09
+Este token yo puedo acceder a través de código JavaScrip
+
+[Alejandro Rey Corvalán] 20:11:14
+no.
+
+[Alejandro Rey Corvalán] 20:11:16
+Sí,
+
+[Alejandro Rey Corvalán] 20:11:17
+Porque cómo accedí con código JavaScript con el código que se ejecuta en JavaScript acá
+
+[Alejandro Rey Corvalán] 20:11:22
+E
+
+[Alejandro Rey Corvalán] 20:11:24
+en el.
+
+[Alejandro Rey Corvalán] 20:11:32
+En el código del frontend, entonces, si es código frontend que se ejecuta con código JavaScript, yo podría hacer un ataque cross side
+
+[Alejandro Rey Corvalán] 20:11:38
+scripting, inyectarle un código JavaScript y robarme todos los tokens que estén en el navegador.
+
+[Alejandro Rey Corvalán] 20:11:45
+Entonces para evitar eso, se guarda este en el servido, en el
+
+[Alejandro Rey Corvalán] 20:11:50
+local storage y este token de refresh se debería guardar en la cookie, nada más que para guardar una cookie se nos va mucho más allá, pero
+
+[Alejandro Rey Corvalán] 20:12:00
+Por ahora, para esto que estamos viendo, los conceptos
+
+[Alejandro Rey Corvalán] 20:12:04
+token y de ref token es totalmente válido así, pero para hacerlo una aplicación de en producción de manera segura, este token debería estar guardado en la cookie, entonces el token que está guardado en la cookie evitamos el ataque a través de cross size scripting y que alguien de manera maliciosa me saque el refresh token. Y si alguien me llevo el access token, ese ese access token
+
+[Alejandro Rey Corvalán] 20:12:27
+Es válido por muy poco tiempo cinco minutos y en esos cinco minutos cuando venza ya no va a poder hacer más nada, así que prácticamente no va a poder hacer
+
+[Alejandro Rey Corvalán] 20:12:34
+Nada
+
+[Alejandro Rey Corvalán] 20:12:37
+A la cookie no se puede acceder con
+
+[Alejandro Rey Corvalán] 20:12:42
+Con JavaScript no podrías acceder para mandárselo a otro
+
+[Alejandro Rey Corvalán] 20:12:49
+A otro sitio
+
+[Alejandro Rey Corvalán] 20:12:50
+Cosa que esto sí lo podés
+
+[Alejandro Rey Corvalán] 20:12:54
+Ya vamos a ver en la última y tenemos la seguridad
+
+[Alejandro Rey Corvalán] 20:12:57
+Entonces, este refresh token va a manejar 2
+
+[Alejandro Rey Corvalán] 20:13:03
+Por lo tanto.
+
+[Alejandro Rey Corvalán] 20:13:06
+Fíjense si yo estoy logeado
+
+[Alejandro Rey Corvalán] 20:13:09
+Y este token expira en 8 segundos
+
+[Alejandro Rey Corvalán] 20:13:13
+cada vez lo voy haciendo
+
+[Alejandro Rey Corvalán] 20:13:15
+La, el login tengo el get cuando expiró dice token vencido y qué pasa con el token vencido
+
+[Alejandro Rey Corvalán] 20:13:24
+pudo seguir haciendo peticiones, ven acá pero de nuevo
+
+[Alejandro Rey Corvalán] 20:13:29
+Y el token venció
+
+[Alejandro Rey Corvalán] 20:13:31
+Entonces ese token cuando vence
+
+[Alejandro Rey Corvalán] 20:13:35
+¿Qué hace la aplicación? Debería tomar
+
+[Alejandro Rey Corvalán] 20:13:38
+El refresh token
+
+[Alejandro Rey Corvalán] 20:13:41
+y decirle, mira, el token del usuario en alumno de DDS venció, pero yo tengo el token, un token
+
+[Alejandro Rey Corvalán] 20:13:49
+que en válido de ese usuario que está guardado de una manera segura, con lo cual yo garantizo que este usuario está a un lado, así que yo quiero que me des un nuevo token para estar interactuando con la API
+
+[Alejandro Rey Corvalán] 20:14:04
+por
+
+[Alejandro Rey Corvalán] 20:14:04
+El intervalo de tiempo definido, entonces esto sería lo que haría
+
+[Alejandro Rey Corvalán] 20:14:09
+El refresh token que si vamos a ver
+
+[Alejandro Rey Corvalán] 20:14:13
+En la diapositiva lo vamos a tener un poquito más acá
+
+[Alejandro Rey Corvalán] 20:14:23
+A ver, espéreme
+
+[Alejandro Rey Corvalán] 20:14:26
+Okay.
+
+[Alejandro Rey Corvalán] 20:14:34
+Vamos a ver, Valentina, este diagrama de máquina de estado, entonces tengo una solicitud, esa solicitud lo manda al servidor
+
+[Alejandro Rey Corvalán] 20:14:44
+Si el token ha inspirado en el servidor que hace
+
+[Alejandro Rey Corvalán] 20:14:51
+Se fija
+
+[Alejandro Rey Corvalán] 20:14:53
+Si hay
+
+[Alejandro Rey Corvalán] 20:14:55
+E
+
+[Alejandro Rey Corvalán] 20:14:56
+Refresh token
+
+[Alejandro Rey Corvalán] 20:14:59
+en curso
+
+[Alejandro Rey Corvalán] 20:15:02
+que le diga que hay alguien que esté en el otro token
+
+[Alejandro Rey Corvalán] 20:15:08
+Si hay una petition, espera a que si en un token expiró al otro token a ver si este primer token
+
+[Alejandro Rey Corvalán] 20:15:16
+Está
+
+[Alejandro Rey Corvalán] 20:15:18
+Refrescando el token original, si está refrescando el token original
+
+[Alejandro Rey Corvalán] 20:15:22
+En si hay alguien que está refrescando va y se pone en cola esa petición así que si yo tengo varias peticiones vieron que una aplicación web puede tener múltiples peticiones de manera simultánea, no voy a tener una sola.
+
+[Alejandro Rey Corvalán] 20:15:34
+y después otro y después otra vez si puedo tener cinco aplicaciones, cinco endpoint que uno me va a cargar los países, otro me va a cargar los clientes, otro me va a cargar otras cosas, fotos, etcétera, etcétera, que viajan de manera simultánea al servidor. Entonces.
+
+[Alejandro Rey Corvalán] 20:15:47
+Cuando el token ha expirado, se fija en esto, si el token
+
+[Alejandro Rey Corvalán] 20:15:53
+hay alguien que ya pidió un token que está expirado, sino que va a ser
+
+[Alejandro Rey Corvalán] 20:16:00
+le va a
+
+[Alejandro Rey Corvalán] 20:16:02
+a pedir
+
+[Alejandro Rey Corvalán] 20:16:04
+En
+
+[Alejandro Rey Corvalán] 20:16:06
+que el frontend tiene que hacer un refresh del token que ha expirado. Si el refresh del token
+
+[Alejandro Rey Corvalán] 20:16:15
+En falla, entonces se lo va a mandar a la ventana de logout si el refresh de token
+
+[Alejandro Rey Corvalán] 20:16:21
+And
+
+[Alejandro Rey Corvalán] 20:16:22
+Eso que hay de decir que el token que tenía para renovar su
+
+[Alejandro Rey Corvalán] 20:16:27
+token principal del usuario está activado, entonces se le manda el reques original y con eso
+
+[Alejandro Rey Corvalán] 20:16:34
+Se le da un doscientos ok y con ese token original todos aquellos pedidos que estaban encolado se le asigne ese token y se vuelve a ejecutar
+
+[Alejandro Rey Corvalán] 20:16:44
+A ver, veamos, Valentina, profe, disculpe, pero no termino de entender esto, es renovación de toque
+
+[Alejandro Rey Corvalán] 20:16:49
+vos tenés dos tokens
+
+[Alejandro Rey Corvalán] 20:16:51
+Un token. Así de cuenta que vos vas a
+
+[Alejandro Rey Corvalán] 20:16:56
+A ver, no sé, sos hincha de algún club de fútbol de acá de Córdoba y vos vas a la cancha
+
+[Alejandro Rey Corvalán] 20:17:04
+A ver el partido de fútbol, entonces que tenés que tener
+
+[Alejandro Rey Corvalán] 20:17:07
+El, la entrada
+
+[Alejandro Rey Corvalán] 20:17:10
+que sería tu refresh token
+
+[Alejandro Rey Corvalán] 20:17:13
+Y tu carne de socia
+
+[Alejandro Rey Corvalán] 20:17:16
+Del club, entonces vos vas con eso, ¿y qué, qué te sirve esto
+
+[Alejandro Rey Corvalán] 20:17:21
+El refres token que sería tu entrada
+
+[Alejandro Rey Corvalán] 20:17:25
+te permite ir a ese espectáculo y por equis cantidad de horas
+
+[Alejandro Rey Corvalán] 20:17:30
+Pero, ¿qué pasa? ¿Vos querés ir a ver después el próximo partido
+
+[Alejandro Rey Corvalán] 20:17:34
+Y el próximo partido como acreditas vos que sos socia
+
+[Alejandro Rey Corvalán] 20:17:38
+Y con el carne entonces sería tu refres token entonces vas con tu refresh token y decir mira quiero una entrada para el partido dentro de dos semanas
+
+[Alejandro Rey Corvalán] 20:17:47
+Y te dan el token entonces ese token
+
+[Alejandro Rey Corvalán] 20:17:50
+si lo llevas en vez de llevarlo de 2 semanas los llevas a minutos, sería el equivalente, no sé si lo entendés valen
+
+[Alejandro Rey Corvalán] 20:17:57
+Entonces
+
+[Alejandro Rey Corvalán] 20:17:59
+el.
+
+[Alejandro Rey Corvalán] 20:18:00
+Refres token es quien acredita que vos sos socia
+
+[Alejandro Rey Corvalán] 20:18:04
+Y el access token que decís bueno para este espectáculo, sí, que dura tantas horas
+
+[Alejandro Rey Corvalán] 20:18:10
+Entonces, ese sería tu
+
+[Alejandro Rey Corvalán] 20:18:12
+token de autenticación. Cuando venció ese token, porque el espectáculo ya terminó
+
+[Alejandro Rey Corvalán] 20:18:16
+Y te quería anotar el próximo espectáculo, vas a tener que presentar
+
+[Alejandro Rey Corvalán] 20:18:20
+token o tu refs token nuevamente y ahí te van a dar otra entrada y si no tenés ninguno de los dos, ¿qué va a pasar? Y no va a poder sacar ni la entrada ni va a poder entrar
+
+[Alejandro Rey Corvalán] 20:18:31
+No sé si quedó un poquito más claro valen
+
+[Alejandro Rey Corvalán] 20:18:44
+Bueno, a ver, veamos, o sea, que el reflex token es el que se usa después, claro, vos lo usaste, vos fuiste al partido de fútbol y pasaron las 2 horas o pasó una semana y querés ir de nuevo al
+
+[Alejandro Rey Corvalán] 20:19:01
+Al club que va a tener que hacer
+
+[Alejandro Rey Corvalán] 20:19:03
+Va a tener que ir con tu carne, que sería tu red stock en decirle dame la entrada para el próximo partido
+
+[Alejandro Rey Corvalán] 20:19:09
+Listo, te van a dar la entrada que va a ir el partido
+
+[Alejandro Rey Corvalán] 20:19:12
+Y va a ir con los dos, con el token y con el, vas a ver el partido, después el partido terminó,
+
+[Alejandro Rey Corvalán] 20:19:18
+que va a tener que hacer? De nuevo vas a tener que presentar tu refristocker.
+
+[Alejandro Rey Corvalán] 20:19:23
+Entonces en vez de tener que enviar el usuario paz de nuevo para el login
+
+[Alejandro Rey Corvalán] 20:19:27
+Pasa al ref toquen, claro, exactamente, entonces eso qué te garantiza y no tener que estar mandándole al login y que ponga usuario y contraseña, que sería algo
+
+[Alejandro Rey Corvalán] 20:19:36
+Un infierno, ¿no? Para el usuario que cada cinco minutos, 10, 15, o cada una hora, che, la ventana de la te voy a decir usuario, este sistema es una porquería.
+
+[Alejandro Rey Corvalán] 20:19:48
+Estamos
+
+[Alejandro Rey Corvalán] 20:19:51
+Se entendió así con la entrada de un partido de fútbol, vale, Nico.
+
+[Alejandro Rey Corvalán] 20:19:56
+Benja y los demás que están en clase
+
+[Alejandro Rey Corvalán] 20:20:06
+¿Qué otra cosa tenemos? Bueno, esto
+
+[Alejandro Rey Corvalán] 20:20:12
+Y en la V, en donde se vería a eso
+
+[Alejandro Rey Corvalán] 20:20:17
+en la universidad virtual acá
+
+[Alejandro Rey Corvalán] 20:20:19
+Y no sé, a ver, aquí sí tengo
+
+[Alejandro Rey Corvalán] 20:20:22
+No sé cómo está planificado esto, yo tengo acá, hay que ver de esto cuál es el access token
+
+[Alejandro Rey Corvalán] 20:20:28
+Puede ser otro mecanismo de seguridad, ¿no?
+
+[Alejandro Rey Corvalán] 20:20:39
+Así que en todo depende cómo sea
+
+[Alejandro Rey Corvalán] 20:20:42
+Hay varias formas de hacer esto, no es una
+
+[Alejandro Rey Corvalán] 20:20:45
+Esta que estamos viendo nosotros con Jason Web Token es la comúnmente aceptada, pero hay sistemas que son
+
+[Alejandro Rey Corvalán] 20:20:52
+más viejos como esto, fíjate en la V
+
+[Alejandro Rey Corvalán] 20:20:57
+Que te das cuenta en la V en qué tecnología está hecho esto
+
+[Alejandro Rey Corvalán] 20:21:04
+Con ver la URL
+
+[Alejandro Rey Corvalán] 20:21:06
+PHP
+
+[Alejandro Rey Corvalán] 20:21:07
+PHP, ustedes saben cuántos años tiene?
+
+[Alejandro Rey Corvalán] 20:21:11
+como treinta años tiene P H P
+
+[Alejandro Rey Corvalán] 20:21:13
+Así que veinte ano facil, quince anos seguro
+
+[Alejandro Rey Corvalán] 20:21:19
+Así que está el sitio de la V debe tener como 25 años, entonces los mecanismos de autenticación son diferentes y aquí seguramente como este HPM mecanismo de autenticación es a través de cookie
+
+[Alejandro Rey Corvalán] 20:21:31
+Y aquí en la cookie tienen un montón de info
+
+[Alejandro Rey Corvalán] 20:21:34
+Toda esta info es info de sesión, que es como maneja
+
+[Alejandro Rey Corvalán] 20:21:40
+PHP la autentication. En nuestro caso, como es una aplicación moderna, es una aplicación escalable, es una aplicación que ustedes el día de manana podrían poner múltiples servidores
+
+[Alejandro Rey Corvalán] 20:21:53
+Prestando el mismo servicio
+
+[Alejandro Rey Corvalán] 20:21:57
+porque están usando una tecnología moderna y escalable
+
+[Alejandro Rey Corvalán] 20:22:00
+El JSON web token
+
+[Alejandro Rey Corvalán] 20:22:02
+Encaja como anillo al dedo, así que esa es la tecnología si van con una tecnología vieja como esta php guarda la cookie en esta cookie se guarda un montón de información que es dependiente de un servidor, asi que
+
+[Alejandro Rey Corvalán] 20:22:17
+con
+
+[Alejandro Rey Corvalán] 20:22:18
+esta tecnología ustedes básicamente sería muy complicado de escalar
+
+[Alejandro Rey Corvalán] 20:22:23
+Y decir bueno voy a tener veinte servidores simultáneos que estén haciendo lo mismo no van a poder tener uno solo
+
+[Alejandro Rey Corvalán] 20:22:28
+Le van a poner pone más memoria más ramas procesador sí pero es uno solo
+
+[Alejandro Rey Corvalán] 20:22:35
+No sé si quedó claro
+
+[Alejandro Rey Corvalán] 20:22:42
+¿qué token se guarda?
+
+[Alejandro Rey Corvalán] 20:22:42
+Y la cuqui no se guarda ningún token se guarda esto de sesiones
+
+[Alejandro Rey Corvalán] 20:22:47
+Que estas sesiones que están ahí
+
+[Alejandro Rey Corvalán] 20:22:49
+Es lo que se le va a mandar al servidor pero tiene que ser del mismo equipo y un montón de mecanismos seguridad y esa sesión ID va en el servidor aquí las sesiones
+
+[Alejandro Rey Corvalán] 20:23:01
+En, primero tienes una aplicación full stack porque acá todo viaja al servidor
+
+[Alejandro Rey Corvalán] 20:23:07
+No es una aplicación con llamadas JavaScritas sincrónica porque es tecnología vieja
+
+[Alejandro Rey Corvalán] 20:23:13
+Y en la cookie keto que se guarda es
+
+[Alejandro Rey Corvalán] 20:23:16
+Otra forma de almacenamiento es otra mecanismo de seguridad, así que no hay ningún JSON web token
+
+[Alejandro Rey Corvalán] 20:23:24
+En este caso
+
+[Alejandro Rey Corvalán] 20:23:30
+Bueno, para terminar esto
+
+[Alejandro Rey Corvalán] 20:23:39
+bueno el problema de los tutoriales, esto, ¿qué nos cuentan los tutoriales cuando ustedes ven en internet
+
+[Alejandro Rey Corvalán] 20:23:44
+En
+
+[Alejandro Rey Corvalán] 20:23:45
+Esto, que la aplicación no hace nunca una red que iba, tiene varias
+
+[Alejandro Rey Corvalán] 20:23:49
+en simultáneos, varias peticiones simultáneas, esto como yo le dije, para cargar los barrios, cargar los clientes, mostrar la factura, etcétera, van todas en simultáneos. Entonces, si ustedes tienen un código
+
+[Alejandro Rey Corvalán] 20:24:02
+que cuando no autentica
+
+[Alejandro Rey Corvalán] 20:24:04
+Eso que no autentica, le mando un, un error y al frontend, el frontend tiene que mandar el refresh token, actualizar el token y después volver a mandar. Si yo tengo
+
+[Alejandro Rey Corvalán] 20:24:16
+Diez peticiones simultáneas voy a tener diez
+
+[Alejandro Rey Corvalán] 20:24:19
+Errores
+
+[Alejandro Rey Corvalán] 20:24:20
+Y esos 10 errores ocasionan que estoy generando token en el servidor
+
+[Alejandro Rey Corvalán] 20:24:26
+Porque cada petición que va a ir va a ir con un toque nuevo y con un refritó que nuevo que voy a tener un montón de cosas
+
+[Alejandro Rey Corvalán] 20:24:32
+Entonces, ehm, el problema es que
+
+[Alejandro Rey Corvalán] 20:24:36
+E
+
+[Alejandro Rey Corvalán] 20:24:38
+Esto se genera un montón de notificaciones y
+
+[Alejandro Rey Corvalán] 20:24:42
+se reciben simultáneos y muchos backend rotan las refer token, el primer refrigervalida, los otros dos fallan y quedan esto
+
+[Alejandro Rey Corvalán] 20:24:50
+Ocupando memoria en el servidor
+
+[Alejandro Rey Corvalán] 20:24:53
+Para hacer todo el procesamiento de generación token que un proceso complejo porque hay que hacer una firma digital y en vez de hacer todo eso se hace esto de colocar una lista.
+
+[Alejandro Rey Corvalán] 20:25:01
+Entonces hay que hacer una pila para que si el primero falla en ninguno de los otros se manden
+
+[Alejandro Rey Corvalán] 20:25:08
+B
+
+[Alejandro Rey Corvalán] 20:25:09
+And
+
+[Alejandro Rey Corvalán] 20:25:11
+And
+
+[Alejandro Rey Corvalán] 20:25:12
+Entonces, cuando el primero falla, si se debe marcar que hay un refresh token
+
+[Alejandro Rey Corvalán] 20:25:19
+And colados y que todos los otros que vean cuando hay un refresh token que esperen a que ese refresh token
+
+[Alejandro Rey Corvalán] 20:25:26
+Generen nuevo token para que todos podamos mandar el token
+
+[Alejandro Rey Corvalán] 20:25:29
+En final entonces que se hace esto se hace un solo reflex y con cola de espera, entonces
+
+[Alejandro Rey Corvalán] 20:25:37
+Cuando
+
+[Alejandro Rey Corvalán] 20:25:39
+Vamos a ver acá
+
+[Alejandro Rey Corvalán] 20:25:41
+When the token está vencido.
+
+[Alejandro Rey Corvalán] 20:25:44
+Se hace en
+
+[Alejandro Rey Corvalán] 20:25:48
+un retrail
+
+[Alejandro Rey Corvalán] 20:25:50
+Que el retrail lo que va a hacer es va a establecer
+
+[Alejandro Rey Corvalán] 20:25:55
+Un reintento
+
+[Alejandro Rey Corvalán] 20:25:57
+Y este reintento
+
+[Alejandro Rey Corvalán] 20:26:00
+cuando esté vencido, ¿qué va a tener que esperar a que el refresh token se va a fijar si hay algo
+
+[Alejandro Rey Corvalán] 20:26:05
+que está refrescando, acá refrescando el valor inicial, ¿cuál es el que tiene?
+
+[Alejandro Rey Corvalán] 20:26:11
+E false
+
+[Alejandro Rey Corvalán] 20:26:12
+Entonces, si es false no entra y
+
+[Alejandro Rey Corvalán] 20:26:15
+Y si entra, ¿qué va a hacer?
+
+[Alejandro Rey Corvalán] 20:26:21
+Si está refrescando
+
+[Alejandro Rey Corvalán] 20:26:23
+va a generar una promesa nueva, va a generar un token nuevo y
+
+[Alejandro Rey Corvalán] 20:26:28
+en lo que va a hacer es
+
+[Alejandro Rey Corvalán] 20:26:31
+Lo va a establecer a, a, acá, perdón
+
+[Alejandro Rey Corvalán] 20:26:34
+Si no está refrescando bien acá y lo que va a hacer va a ser
+
+[Alejandro Rey Corvalán] 20:26:39
+post al refresh va a obtener un token nuevo, ese token nuevo lo va a guardar
+
+[Alejandro Rey Corvalán] 20:26:45
+En sets con
+
+[Alejandro Rey Corvalán] 20:26:48
+Pasándole el access token que devolvió el back end y se va a guardar en donde en el local storage
+
+[Alejandro Rey Corvalán] 20:26:55
+Entonces eso que está en el local storage después los va a usar todos, ¿y qué va a hacer acá? Vamos a llamar si hay algunos encolados y le va a pasar el access token, entonces todos los
+
+[Alejandro Rey Corvalán] 20:27:06
+en el despertar a todos, todo lo que va a ser, todos los que están encolados, todas las peti
+
+[Alejandro Rey Corvalán] 20:27:12
+que vienen con la se van encolando en una cola en un array
+
+[Alejandro Rey Corvalán] 20:27:15
+Y ese array qué va a hacer? Eso quedan esperando, así que todas las peticiones que hay se recuerden que esto es asíncrono, así que van a quedar todas esperando.
+
+[Alejandro Rey Corvalán] 20:27:24
+Hasta que esté el token nuevo, y cuando este token nuevo se van a mandar todas. Así que esta al ser llamadas asincronas, no hay
+
+[Alejandro Rey Corvalán] 20:27:33
+De manera predeterminada un orden lógico de ejecución
+
+[Alejandro Rey Corvalán] 20:27:38
+Entonces de esta manera con este artilugio muy simple
+
+[Alejandro Rey Corvalán] 20:27:43
+1 puede hacer un solo refresh y una sola cola de espera para evitar tener múltiples
+
+[Alejandro Rey Corvalán] 20:27:52
+verbos que viajan a los que estén fallando.
+
+[Alejandro Rey Corvalán] 20:27:56
+Aparte de usar en los interceptores para mandar este tema de la autenticación podríamos usarlo para
+
+[Alejandro Rey Corvalán] 20:28:04
+un loading global o login gratis que
+
+[Alejandro Rey Corvalán] 20:28:07
+Me serviría para mantener y saber cuánto
+
+[Alejandro Rey Corvalán] 20:28:11
+Supongamos
+
+[Alejandro Rey Corvalán] 20:28:16
+auditar todo entonces
+
+[Alejandro Rey Corvalán] 20:28:20
+Acá puedo mandar 3 reques juntos y acá me va a ir indicando la cantidad de reques y ven acá
+
+[Alejandro Rey Corvalán] 20:28:28
+En
+
+[Alejandro Rey Corvalán] 20:28:33
+Acá reques en vuelo, entonces lo puedes disparar, fíjense
+
+[Alejandro Rey Corvalán] 20:28:37
+PayPal.
+
+[Alejandro Rey Corvalán] 20:28:38
+know about login
+
+[Alejandro Rey Corvalán] 20:28:41
+Y puedo dispararle, ven hasta 13 y se van haciendo las peticiones a medida, entonces yo puedo ir monitoreando, puedo hacer eso.
+
+[Alejandro Rey Corvalán] 20:28:48
+Esto es una pavada, pero
+
+[Alejandro Rey Corvalán] 20:28:51
+Si alguien
+
+[Alejandro Rey Corvalán] 20:28:52
+Necesito saber cuántas peticiones están yendo al servidor y están en coladas podría tenerlo así, pero principalmente para el contenido de lo que ustedes necesitan es
+
+[Alejandro Rey Corvalán] 20:29:03
+con Jason Webtock
+
+[Alejandro Rey Corvalán] 20:29:09
+Bueno.
+
+[Alejandro Rey Corvalán] 20:29:12
+Veamos
+
+[Alejandro Rey Corvalán] 20:29:14
+Preguntas sobre esto y si no vemos
+
+[Alejandro Rey Corvalán] 20:29:18
+Muy poquito tiempo nos queda para ver con la I A
+
+[Alejandro Rey Corvalán] 20:29:21
+Y
+
+[Alejandro Rey Corvalán] 20:29:24
+Y hacemos alguna demo
+
+[Alejandro Rey Corvalán] 20:29:34
+No hay preguntas
+
+[Alejandro Rey Corvalán] 20:29:36
+Preguntas a la hora
+
+[Alejandro Rey Corvalán] 20:29:45
+Bueno, vamos a ver
+
+[Alejandro Rey Corvalán] 20:29:53
+En clase DDS no
+
+[Alejandro Rey Corvalán] 20:29:58
+Yo voy a entrar
+
+[Alejandro Rey Corvalán] 20:30:00
+Para hacer un desarrollo con guía
+
+[Alejandro Rey Corvalán] 20:30:14
+Vamos a llamarle demo clase
+
+[Alejandro Rey Corvalán] 20:30:22
+Bueno, yo hasta ahora estoy todo en una ventana de terminal
+
+[Alejandro Rey Corvalán] 20:30:29
+tengo una Mac, un Linux es igual en
+
+[Alejandro Rey Corvalán] 20:30:33
+Windows van a tener diferencia y pero
+
+[Alejandro Rey Corvalán] 20:30:39
+podemos usar
+
+[Alejandro Rey Corvalán] 20:30:43
+El con
+
+[Alejandro Rey Corvalán] 20:30:47
+Onco de espacio punto me va a abrir
+
+[Alejandro Rey Corvalán] 20:30:52
+Y tengo acá las sesiones
+
+[Alejandro Rey Corvalán] 20:30:55
+chat
+
+[Alejandro Rey Corvalán] 20:30:58
+And a ver, acá tenemos para elegir
+
+[Alejandro Rey Corvalán] 20:31:04
+La gente
+
+[Alejandro Rey Corvalán] 20:31:09
+Si queremos usar
+
+[Alejandro Rey Corvalán] 20:31:15
+Copilot
+
+[Alejandro Rey Corvalán] 20:31:18
+Y la cantidad de token
+
+[Alejandro Rey Corvalán] 20:31:21
+De la ventana de token y el esfuerzo del
+
+[Alejandro Rey Corvalán] 20:31:24
+De la guía
+
+[Alejandro Rey Corvalán] 20:31:30
+Puedo hacerlo
+
+[Alejandro Rey Corvalán] 20:31:33
+Y yo le podría decir acá estoy en este proyecto
+
+[Alejandro Rey Corvalán] 20:31:40
+Entonces le puedo decir acá crear
+
+[Alejandro Rey Corvalán] 20:31:43
+un proyecto
+
+[Alejandro Rey Corvalán] 20:31:46
+Crear el backend
+
+[Alejandro Rey Corvalán] 20:31:49
+para que sea compatible
+
+[Alejandro Rey Corvalán] 20:31:53
+gone. Now, yes.
+
+[Alejandro Rey Corvalán] 20:31:58
+basically go light.
+
+[Alejandro Rey Corvalán] 20:32:03
+Y sí
+
+[Alejandro Rey Corvalán] 20:32:05
+¿Cuál
+
+[Alejandro Rey Corvalán] 20:32:09
+Y
+
+[Alejandro Rey Corvalán] 20:32:11
+Es una ruta
+
+[Alejandro Rey Corvalán] 20:32:16
+una ruta hola
+
+[Alejandro Rey Corvalán] 20:32:22
+Llamada
+
+[Alejandro Rey Corvalán] 20:32:23
+Saludar
+
+[Alejandro Rey Corvalán] 20:32:25
+que devuelva
+
+[Alejandro Rey Corvalán] 20:32:28
+Un
+
+[Alejandro Rey Corvalán] 20:32:30
+Jason
+
+[Alejandro Rey Corvalán] 20:32:36
+entonces esto me va a estar
+
+[Alejandro Rey Corvalán] 20:32:42
+Acá me va a crear la aplicación directamente con el backend
+
+[Alejandro Rey Corvalán] 20:32:46
+Y con estas condiciones que yo les puse, así que me va a crear el archivo package.json
+
+[Alejandro Rey Corvalán] 20:32:58
+Me va a crear en los archivos server.js, me
+
+[Alejandro Rey Corvalán] 20:33:04
+Acá me está pensando porque esto de acuerdo al modelo que yo vaya a elegir, ¿no?
+
+[Alejandro Rey Corvalán] 20:33:11
+Entonces acá me va a preguntar si en
+
+[Alejandro Rey Corvalán] 20:33:15
+Esto de la sesión, le digo que
+
+[Alejandro Rey Corvalán] 20:33:18
+permita y
+
+[Alejandro Rey Corvalán] 20:33:32
+Ya que va a ir pensando
+
+[Alejandro Rey Corvalán] 20:33:37
+Acá cree la.
+
+[Alejandro Rey Corvalán] 20:33:40
+Cree el archivo package.json
+
+[Alejandro Rey Corvalán] 20:33:45
+y me iba a crear los archivos necesarios, acá tengo el NP install, acá le tengo que ir dando los permisos
+
+[Alejandro Rey Corvalán] 20:33:59
+ahí me hace la instalacion, me hace con el instalación, así que ya me está guardando en los módulos todos los paquetes
+
+[Alejandro Rey Corvalán] 20:34:08
+And server yo le pedí la ruta
+
+[Alejandro Rey Corvalán] 20:34:13
+saludar a ver.
+
+[Alejandro Rey Corvalán] 20:34:14
+Acá tengo la ruta saludar, ¿lo ven ahí?
+
+[Alejandro Rey Corvalán] 20:34:24
+Me hizo el módulo export
+
+[Alejandro Rey Corvalán] 20:34:29
+Acá
+
+[Alejandro Rey Corvalán] 20:34:33
+Fíjense, no me utilizó los import ven
+
+[Alejandro Rey Corvalán] 20:34:36
+Me hizo con la forma vieja
+
+[Alejandro Rey Corvalán] 20:34:41
+de
+
+[Alejandro Rey Corvalán] 20:34:43
+de módulos
+
+[Alejandro Rey Corvalán] 20:34:45
+de
+
+[Alejandro Rey Corvalán] 20:34:46
+No, yes
+
+[Alejandro Rey Corvalán] 20:34:47
+Podríamos decirle que la con la fórmula nueva, también todo eso, todo eso lo tenemos que ir especificando
+
+[Alejandro Rey Corvalán] 20:34:57
+Acá tenemos que ir básicamente viendo lo que nos va a ir pidiendo, así que tenemos que saber, pero todo código de este código enteramente lo que nosotros sabemos manejar
+
+[Alejandro Rey Corvalán] 20:35:07
+Y lo sabemos leer, ¿no?
+
+[Alejandro Rey Corvalán] 20:35:09
+Así que cualquier cosa de este código, yo lo tengo que saber interpretar
+
+[Alejandro Rey Corvalán] 20:35:14
+Así que ya tenemos ahí una función asíncrona, esto
+
+[Alejandro Rey Corvalán] 20:35:19
+tenemos
+
+[Alejandro Rey Corvalán] 20:35:22
+El método este que levanta acá tenemos importación de los Equaláis
+
+[Alejandro Rey Corvalán] 20:35:28
+Ehm
+
+[Alejandro Rey Corvalán] 20:35:31
+El puerto por el que va a escuchar con el app listen está definido aqui
+
+[Alejandro Rey Corvalán] 20:35:40
+Y
+
+[Alejandro Rey Corvalán] 20:35:42
+Podemos decir que permite todo o algo al salón le podemos decir que permita todo y que no
+
+[Alejandro Rey Corvalán] 20:35:49
+¿Cuál sería la forma de que lo haga nos pide la cátedra
+
+[Alejandro Rey Corvalán] 20:35:55
+bueno, tenés que armarte de tu buen prom, ¿viste que yo, mi prom fue algo muy rápido, ¿no?
+
+[Alejandro Rey Corvalán] 20:36:00
+Le puse acá, no sé si alcanzan a ver, a ver, vamos a ver si
+
+[Alejandro Rey Corvalán] 20:36:05
+que le puse, crear el backend para que sea combate nos diez, bueno, aca esto es algo elemental que yo te mostré para
+
+[Alejandro Rey Corvalán] 20:36:12
+Para que la I A no se demore tanto pero
+
+[Alejandro Rey Corvalán] 20:36:15
+Vos después que tengas, supongamos que tenés esto
+
+[Alejandro Rey Corvalán] 20:36:20
+Entonces,
+
+[Alejandro Rey Corvalán] 20:36:24
+Lo voy a achicar porque no veo nada, me pierdo con esto
+
+[Alejandro Rey Corvalán] 20:36:28
+Si lo tengo muy grande
+
+[Alejandro Rey Corvalán] 20:36:30
+Cuando acá terminó
+
+[Alejandro Rey Corvalán] 20:36:37
+la guía de trabajar
+
+[Alejandro Rey Corvalán] 20:36:40
+Ya tengo la ruta, me dice la ruta que ya me permite saludar, asi que si yo ejecuto
+
+[Alejandro Rey Corvalán] 20:36:46
+El código
+
+[Alejandro Rey Corvalán] 20:36:50
+Me voy a la ventana de terminal
+
+[Alejandro Rey Corvalán] 20:36:54
+Y en la ventana en esta terminal le hago
+
+[Alejandro Rey Corvalán] 20:37:05
+NPM start
+
+[Alejandro Rey Corvalán] 20:37:09
+Acá se levantó, servidor en el 5000 tengo
+
+[Alejandro Rey Corvalán] 20:37:14
+Me parece ahí lo que el
+
+[Alejandro Rey Corvalán] 20:37:16
+A 3000 en el 3000 barra saludar
+
+[Alejandro Rey Corvalán] 20:37:22
+Me dice hola desde el back end, así que me está consumiendo la ruta, si vamos a ver
+
+[Alejandro Rey Corvalán] 20:37:29
+Este, saludar, yo ahora le podría decir bueno quiero
+
+[Alejandro Rey Corvalán] 20:37:37
+En una base de datos
+
+[Alejandro Rey Corvalán] 20:37:42
+the seccolite
+
+[Alejandro Rey Corvalán] 20:37:44
+Guardes
+
+[Alejandro Rey Corvalán] 20:37:46
+en los datos
+
+[Alejandro Rey Corvalán] 20:37:50
+de los alumnos
+
+[Alejandro Rey Corvalán] 20:37:52
+Ehm
+
+[Alejandro Rey Corvalán] 20:37:54
+tales
+
+[Alejandro Rey Corvalán] 20:37:55
+como legajo
+
+[Alejandro Rey Corvalán] 20:37:57
+Apellido nombre
+
+[Alejandro Rey Corvalán] 20:38:03
+en sexo, fecha de nacimiento
+
+[Alejandro Rey Corvalán] 20:38:12
+En una tabla
+
+[Alejandro Rey Corvalán] 20:38:17
+Que tenga
+
+[Alejandro Rey Corvalán] 20:38:19
+Un campo
+
+[Alejandro Rey Corvalán] 20:38:22
+Y de
+
+[Alejandro Rey Corvalán] 20:38:25
+que se ha auto incremental
+
+[Alejandro Rey Corvalán] 20:38:28
+Incremental y primari key.
+
+[Alejandro Rey Corvalán] 20:38:37
+Le podría decir crea la base de datos
+
+[Alejandro Rey Corvalán] 20:38:42
+con 20 datos demo
+
+[Alejandro Rey Corvalán] 20:38:46
+Y,
+
+[Alejandro Rey Corvalán] 20:38:49
+A este proyecto
+
+[Alejandro Rey Corvalán] 20:38:52
+Agrega las rutas
+
+[Alejandro Rey Corvalán] 20:38:55
+And necesarias
+
+[Alejandro Rey Corvalán] 20:38:57
+Del back end
+
+[Alejandro Rey Corvalán] 20:39:00
+Para poder interactuar
+
+[Alejandro Rey Corvalán] 20:39:04
+O la misma
+
+[Alejandro Rey Corvalán] 20:39:07
+con operaciones
+
+[Alejandro Rey Corvalán] 20:39:10
+de alta A BMC alta modificación consulta
+
+[Alejandro Rey Corvalán] 20:39:16
+Siempre
+
+[Alejandro Rey Corvalán] 20:39:18
+utilizando en, supongamos en psicoalize
+
+[Alejandro Rey Corvalán] 20:39:27
+Y define
+
+[Alejandro Rey Corvalán] 20:39:30
+Ehm
+
+[Alejandro Rey Corvalán] 20:39:33
+y define los módulos
+
+[Alejandro Rey Corvalán] 20:39:36
+Según la vez
+
+[Alejandro Rey Corvalán] 20:39:40
+practices
+
+[Alejandro Rey Corvalán] 20:39:42
+de para trabajar
+
+[Alejandro Rey Corvalán] 20:39:47
+con en rutas
+
+[Alejandro Rey Corvalán] 20:39:49
+por entidad
+
+[Alejandro Rey Corvalán] 20:39:54
+Y,
+
+[Alejandro Rey Corvalán] 20:39:56
+Go
+
+[Alejandro Rey Corvalán] 20:40:01
+le podemos decir
+
+[Alejandro Rey Corvalán] 20:40:04
+Siempre es bueno
+
+[Alejandro Rey Corvalán] 20:40:08
+Esto como tip
+
+[Alejandro Rey Corvalán] 20:40:10
+And then
+
+[Alejandro Rey Corvalán] 20:40:13
+Siempre es bueno
+
+[Alejandro Rey Corvalán] 20:40:16
+que hacer esta pregunta final.
+
+[Alejandro Rey Corvalán] 20:40:20
+Las preguntas
+
+[Alejandro Rey Corvalán] 20:40:24
+necesarias
+
+[Alejandro Rey Corvalán] 20:40:25
+Para
+
+[Alejandro Rey Corvalán] 20:40:28
+llevar a cabo
+
+[Alejandro Rey Corvalán] 20:40:31
+esta actividad
+
+[Alejandro Rey Corvalán] 20:40:35
+Si hay algo
+
+[Alejandro Rey Corvalán] 20:40:37
+no queda claro
+
+[Alejandro Rey Corvalán] 20:40:39
+And near it from.
+
+[Alejandro Rey Corvalán] 20:40:41
+And there you are.
+
+[Alejandro Rey Corvalán] 20:40:43
+Todas las rutas
+
+[Alejandro Rey Corvalán] 20:40:45
+Deberían
+
+[Alejandro Rey Corvalán] 20:40:49
+estar
+
+[Alejandro Rey Corvalán] 20:40:50
+barra api
+
+[Alejandro Rey Corvalán] 20:40:52
+Barra
+
+[Alejandro Rey Corvalán] 20:40:53
+No
+
+[Alejandro Rey Corvalán] 20:40:55
+Entonces le dan ese prompt y bueno acá que me va a hacer eso, me va a crear una base de datos, me va a crear la tabla
+
+[Alejandro Rey Corvalán] 20:41:03
+Por supuesto, acá podemos ser, acá lo estoy haciendo muy rápido, ¿no? Pero
+
+[Alejandro Rey Corvalán] 20:41:08
+Podríamos indicarle precisamente cuáles son los nombres, los atributos de las tablas
+
+[Alejandro Rey Corvalán] 20:41:14
+Así que lo que primero ustedes deberían hacer es
+
+[Alejandro Rey Corvalán] 20:41:19
+Diseñar
+
+[Alejandro Rey Corvalán] 20:41:21
+la base de datos
+
+[Alejandro Rey Corvalán] 20:41:23
+La base de datos que va a contenerlo una vez que la base de datos
+
+[Alejandro Rey Corvalán] 20:41:29
+porque ustedes están viendo también base de datos de manera simultánea, que esta bien normalizada, estan bien definida los nombres, los atributos, los tipos de datos y tienen con datos que pueden ir probando. Una vez que tienen definido eso, esa, esa base de datos que la van a armar con la I A, que la van a completar con la IA, que la van a chequear.
+
+[Alejandro Rey Corvalán] 20:41:48
+Una vez que ustedes la chequean que la tienen chequear manualmente recién ahí pasarían a hacer todo este desarrollo, yo aquí empecé a hacer el desarrollo
+
+[Alejandro Rey Corvalán] 20:41:55
+De una manera
+
+[Alejandro Rey Corvalán] 20:42:00
+improlija, llamémosle, porque yo empecé diciendo
+
+[Alejandro Rey Corvalán] 20:42:04
+que me dan un endpoint de saludar y después le dije de base de datos, así que estoy haciendo
+
+[Alejandro Rey Corvalán] 20:42:09
+No estoy trabajando de la mejor manera, pero si se fijan
+
+[Alejandro Rey Corvalán] 20:42:15
+And
+
+[Alejandro Rey Corvalán] 20:42:21
+The cool pan me?
+
+[Alejandro Rey Corvalán] 20:42:22
+Le llama la efectatera
+
+[Alejandro Rey Corvalán] 20:43:41
+Bueno, perdón chicos, chicas.
+
+[Alejandro Rey Corvalán] 20:43:45
+Me siguen o no?
+
+[Alejandro Rey Corvalán] 20:43:50
+Entonces, bueno, ahí está trabajando esto
+
+[Alejandro Rey Corvalán] 20:43:57
+ya tenemos, fíjense
+
+[Alejandro Rey Corvalán] 20:43:58
+tenemos definidas las rutas
+
+[Alejandro Rey Corvalán] 20:44:03
+los
+
+[Alejandro Rey Corvalán] 20:44:05
+Los módulos que tengo en los controller
+
+[Alejandro Rey Corvalán] 20:44:11
+En, para manejar todo lo que es
+
+[Alejandro Rey Corvalán] 20:44:15
+gone
+
+[Alejandro Rey Corvalán] 20:44:16
+si cualáis toda la interaccion de los alumnos
+
+[Alejandro Rey Corvalán] 20:44:20
+Que tengo las distintas funciones get
+
+[Alejandro Rey Corvalán] 20:44:23
+tenemos los models que tienen la definición de la tabla
+
+[Alejandro Rey Corvalán] 20:44:28
+En la base de datos tenemos en la parte de las rutas
+
+[Alejandro Rey Corvalán] 20:44:32
+para cada uno de las rutas que tendria para invocar
+
+[Alejandro Rey Corvalán] 20:44:38
+listar los alumnos obtener un alumno etcétera etcétera
+
+[Alejandro Rey Corvalán] 20:44:45
+tengo para
+
+[Alejandro Rey Corvalán] 20:44:46
+Acá
+
+[Alejandro Rey Corvalán] 20:44:46
+Para llenar el C I D o inicializarlo la base de datos y tengo el servicio
+
+[Alejandro Rey Corvalán] 20:44:52
+que me va a proveer
+
+[Alejandro Rey Corvalán] 20:44:57
+en poder utilizarlo en las rutas
+
+[Alejandro Rey Corvalán] 20:44:59
+Si se fijan acá en estas rutas, como están armados, no es a lo mejor de la manera que hemos estado nosotros trabajando la asi que podríamos separar esto y tener por un lado
+
+[Alejandro Rey Corvalán] 20:45:08
+todo lo que son controladores por otro lado, todo lo que son servicios, por otro lado todo lo que son modelos, y si le tengo armado así es porque mi prom
+
+[Alejandro Rey Corvalán] 20:45:16
+No era lo suficientemente claro para eso
+
+[Alejandro Rey Corvalán] 20:45:29
+Bueno, a ver, veamos acá en qué quedó
+
+[Alejandro Rey Corvalán] 20:45:33
+Acá lo que está haciendo, estoy dando permisos para ejecución y ver esto me está verificando si está todo ahí, me levanto, fíjense.
+
+[Alejandro Rey Corvalán] 20:45:41
+Hizo un P M Start
+
+[Alejandro Rey Corvalán] 20:45:45
+Así que barra alumnos me traería
+
+[Alejandro Rey Corvalán] 20:45:49
+que si yo lo ejecuto, ven, fíjense, ya le ejecuto ella me está trayendo
+
+[Alejandro Rey Corvalán] 20:45:55
+En los endpoint
+
+[Alejandro Rey Corvalán] 20:45:56
+de alumnos y yo le podría decir también a esto decir que mira quiero que ya estén definidos los alumnos le decimos el proyecto.
+
+[Alejandro Rey Corvalán] 20:46:05
+Y quiero que me armes el front end con r i con utilizando Axios
+
+[Alejandro Rey Corvalán] 20:46:12
+O
+
+[Alejandro Rey Corvalán] 20:46:13
+lo que sea
+
+[Alejandro Rey Corvalán] 20:46:15
+En otro proyecto para que interactúe con este backend y lo tenemos andando, ¿no?
+
+[Alejandro Rey Corvalán] 20:46:36
+Ehm preguntas hasta aquí
+
+[Alejandro Rey Corvalán] 20:47:00
+No hay ninguna pregunta, chicos, chicas, ¿están algunos o no?
+
+[Alejandro Rey Corvalán] 20:47:05
+We'll see me han ido a dormir
+
+[Alejandro Rey Corvalán] 20:47:16
+¿Cómo trabajaban ustedes con la I A
+
+[Alejandro Rey Corvalán] 20:47:19
+estaban trabajando así parecido a lo que trabajo yo
+
+[Alejandro Rey Corvalán] 20:47:25
+Acá en.
+
+[Alejandro Rey Corvalán] 20:47:28
+No, el trabajo, Benja
+
+[Alejandro Rey Corvalán] 20:47:32
+Por fuera de BS Code que ibas a
+
+[Alejandro Rey Corvalán] 20:47:36
+A Studio
+
+[Alejandro Rey Corvalán] 20:47:38
+Hoy vas al chat
+
+[Alejandro Rey Corvalán] 20:47:44
+Contame Benja, ¿cómo trabajaba si te ayudo
+
+[Alejandro Rey Corvalán] 20:47:49
+Meaning chicos
+
+[Alejandro Rey Corvalán] 20:47:50
+E
+
+[Alejandro Rey Corvalán] 20:47:56
+Chicos y chicas.
+
+[Alejandro Rey Corvalán] 20:47:59
+Los chats
+
+[Alejandro Rey Corvalán] 20:48:01
+aquí que está usando chat
+
+[Alejandro Rey Corvalán] 20:48:05
+But
+
+[Alejandro Rey Corvalán] 20:48:11
+A aquel que está viniendo
+
+[Alejandro Rey Corvalán] 20:48:13
+a un código parecido a este
+
+[Alejandro Rey Corvalán] 20:48:16
+y le está diciendo quiero
+
+[Alejandro Rey Corvalán] 20:48:21
+que me genere es una ruta en
+
+[Alejandro Rey Corvalán] 20:48:27
+Now, GS
+
+[Alejandro Rey Corvalán] 20:48:29
+gone
+
+[Alejandro Rey Corvalán] 20:48:30
+expres
+
+[Alejandro Rey Corvalán] 20:48:32
+But
+
+[Alejandro Rey Corvalán] 20:48:35
+lo que sea.
+
+[Alejandro Rey Corvalán] 20:48:37
+está trabajando en la
+
+[Alejandro Rey Corvalán] 20:48:40
+En la prehistoria
+
+[Alejandro Rey Corvalán] 20:48:43
+Listo no se usa
+
+[Alejandro Rey Corvalán] 20:48:46
+Esto está muy bueno en los comienzos de la en los comienzos del chat GPT
+
+[Alejandro Rey Corvalán] 20:48:52
+Pero esto es trabajar
+
+[Alejandro Rey Corvalán] 20:48:54
+A mano si uno tiene, nos da el código, copiamos, pegamos, emparchamos nosotros con todo el error humano que puede haber en el copiado y pegado y en la lentitud cuando, fíjense.
+
+[Alejandro Rey Corvalán] 20:49:05
+Yo armé acá con dos prompt que hice, ya tengo armado todos los endpoint del backend
+
+[Alejandro Rey Corvalán] 20:49:12
+Con las rutas y, este, yo le podría indicar bueno ahora quiero
+
+[Alejandro Rey Corvalán] 20:49:17
+Quiero que implementes
+
+[Alejandro Rey Corvalán] 20:49:21
+implemente JSON web token
+
+[Alejandro Rey Corvalán] 20:49:25
+And para todas las rutas
+
+[Alejandro Rey Corvalán] 20:49:29
+que accedan
+
+[Alejandro Rey Corvalán] 20:49:32
+a la base de datos
+
+[Alejandro Rey Corvalán] 20:49:35
+And
+
+[Alejandro Rey Corvalán] 20:49:36
+para que estén autenticados
+
+[Alejandro Rey Corvalán] 20:49:43
+los usuarios
+
+[Alejandro Rey Corvalán] 20:49:48
+Y aquí le va a implementar el Jason Web Token, entonces no tengo que estar yo pidiéndole en el chat
+
+[Alejandro Rey Corvalán] 20:49:55
+Y marcándolos, a ver no esto, Facu, no, no se trabaja así
+
+[Alejandro Rey Corvalán] 20:50:04
+Si vos queréis darle un contexto
+
+[Alejandro Rey Corvalán] 20:50:08
+Te recomiendo
+
+[Alejandro Rey Corvalán] 20:50:10
+copiar el PDF, supongamos lo bajo el PDF acá
+
+[Alejandro Rey Corvalán] 20:50:14
+Y
+
+[Alejandro Rey Corvalán] 20:50:15
+cuando escribís aquel modelo decís utiliza él ya que le escribís con la tecla @
+
+[Alejandro Rey Corvalán] 20:50:22
+Y en, y le adjuntas el documento o puedes ir acá en sí no más
+
+[Alejandro Rey Corvalán] 20:50:28
+y elegí el archivo, entonces utiliza
+
+[Alejandro Rey Corvalán] 20:50:33
+Entonces acá te quedan los archivitos que vos querés subirle, entonces si vos tenés un PDF algo, le puedes decir ahí, utilices el PDF para hacer algo
+
+[Alejandro Rey Corvalán] 20:50:42
+Benja a ver, uso distintas guía para cada proyecto. Una la uso para entender el dominio, otra para entender la visión macroproyecto, otra me hace la base de datos y otra desarrolla
+
+[Alejandro Rey Corvalán] 20:50:55
+porque no es un entorno
+
+[Alejandro Rey Corvalán] 20:50:57
+Como sí lo es en Visual Studio Co
+
+[Alejandro Rey Corvalán] 20:51:00
+Mira, en Benja
+
+[Alejandro Rey Corvalán] 20:51:03
+Esta es una de las formas de trabajar que yo creo que la mayoría trabaja con esto. Yo personalmente
+
+[Alejandro Rey Corvalán] 20:51:12
+Pero en mi caso
+
+[Alejandro Rey Corvalán] 20:51:15
+Utilizo
+
+[Alejandro Rey Corvalán] 20:51:17
+en que no hay una mejor, la mejor es la que ustedes utilicen y dominen, ¿no
+
+[Alejandro Rey Corvalán] 20:51:26
+En mi caso, yo utilizo
+
+[Alejandro Rey Corvalán] 20:51:29
+And
+
+[Alejandro Rey Corvalán] 20:51:31
+Cloud Code, entonces yo acá levanto cloud
+
+[Alejandro Rey Corvalán] 20:51:37
+Y, pero claro es pago y no es barato
+
+[Alejandro Rey Corvalán] 20:51:42
+Yo tengo una suscripción de
+
+[Alejandro Rey Corvalán] 20:51:47
+Porque lo uso para mi trabajo, el Cloud Code Max
+
+[Alejandro Rey Corvalán] 20:51:50
+Y yo aquí le puedo indicar, este, analiza
+
+[Alejandro Rey Corvalán] 20:51:55
+El proyecto
+
+[Alejandro Rey Corvalán] 20:51:58
+Y en
+
+[Alejandro Rey Corvalán] 20:52:06
+e indica
+
+[Alejandro Rey Corvalán] 20:52:07
+las mejoras
+
+[Alejandro Rey Corvalán] 20:52:10
+Y se pueden realiza
+
+[Alejandro Rey Corvalán] 20:52:13
+O
+
+[Alejandro Rey Corvalán] 20:52:16
+En
+
+[Alejandro Rey Corvalán] 20:52:17
+teniendo
+
+[Alejandro Rey Corvalán] 20:52:20
+en cuenta las
+
+[Alejandro Rey Corvalán] 20:52:23
+Practicings para desarrollo
+
+[Alejandro Rey Corvalán] 20:52:27
+And now, yes.
+
+[Alejandro Rey Corvalán] 20:52:31
+And
+
+[Alejandro Rey Corvalán] 20:52:33
+Express
+
+[Alejandro Rey Corvalán] 20:52:38
+Y se cuales.
+
+[Alejandro Rey Corvalán] 20:52:45
+Entonces, esta es otra forma
+
+[Alejandro Rey Corvalán] 20:52:48
+yo personalmente utilizo muchísimo
+
+[Alejandro Rey Corvalán] 20:52:54
+En cloud y mi entorno de desarrollo
+
+[Alejandro Rey Corvalán] 20:52:59
+este de cloud
+
+[Alejandro Rey Corvalán] 20:53:00
+Junto
+
+[Alejandro Rey Corvalán] 20:53:03
+con el Visual Studio Code que yo puedo ver el código que me va a escribir
+
+[Alejandro Rey Corvalán] 20:53:09
+Entonces esto, esta forma de trabajo que yo tengo aquí
+
+[Alejandro Rey Corvalán] 20:53:17
+Si vamos a ver cloudcode que me está leyendo, me está leyendo todo el proyecto y me va a decir que mejoras hay para hacerlo
+
+[Alejandro Rey Corvalán] 20:53:26
+Claucode hace todo
+
+[Alejandro Rey Corvalán] 20:53:29
+Pero también hace todo Codex también puede ser con Gemini, uso antigravity con el modelo Klaus sonnet
+
+[Alejandro Rey Corvalán] 20:53:37
+Para hacer resúmenes materias ejecutando el PDF, sí, perfectamente
+
+[Alejandro Rey Corvalán] 20:53:42
+Esto está bien, Nico, ¿cómo estás trabajando
+
+[Alejandro Rey Corvalán] 20:53:48
+es bueno, es gratuito el modelo, yo también uso notebo
+
+[Alejandro Rey Corvalán] 20:53:51
+En KLM sí, pero es no es vocal m te va a salir para los apuntes
+
+[Alejandro Rey Corvalán] 20:53:56
+And no sé cuál es
+
+[Alejandro Rey Corvalán] 20:54:01
+No sé si podemos usar Gemini en con antigravity es parecido al IDE del Visual Studio porque es
+
+[Alejandro Rey Corvalán] 20:54:08
+Un hijo así que podrías usarlo ahí
+
+[Alejandro Rey Corvalán] 20:54:13
+En
+
+[Alejandro Rey Corvalán] 20:54:15
+Hay un archivo llamado repo mix
+
+[Alejandro Rey Corvalán] 20:54:17
+Que se puede generar que es una foto actual de un proyecto me ayuda a darle un pantaloso proyecto
+
+[Alejandro Rey Corvalán] 20:54:24
+La verdad no reconoz no no conozco repo mix pero bueno está está bueno que te sirva
+
+[Alejandro Rey Corvalán] 20:54:29
+En tenía entendido que no leer muy bien los PDF le muy bien los PDF lee muy bien los videos lee muy bien las fotos, lee muy bien los Excel, lee muy bien los borle muy bien absolutamente
+
+[Alejandro Rey Corvalán] 20:54:39
+todo lo que tenés que hacer trabajar con archivos markdo
+
+[Alejandro Rey Corvalán] 20:54:45
+Ehm
+
+[Alejandro Rey Corvalán] 20:54:45
+Porque es el estándar para trabajar este
+
+[Alejandro Rey Corvalán] 20:54:51
+Desarrollador
+
+[Alejandro Rey Corvalán] 20:54:54
+A ver, en.
+
+[Alejandro Rey Corvalán] 20:54:57
+Cloud Code hace documentación, sí, eso ya lo respondí, no sé, ¿alguna otra pregunta? Bueno, acá está esto trabajando y acá me dice
+
+[Alejandro Rey Corvalán] 20:55:05
+Mejoras que puedo hacer de los test podemos correr los test, loguear, este, bueno, acá me saca un montón de mejoras y yo le puedo decir que haga todas las mejoras que quiero que haga
+
+[Alejandro Rey Corvalán] 20:55:26
+Pero bueno, estas son pagas y así que a mí me preguntaron cuál usaba, pero esta que estuve mostrándole yo con el
+
+[Alejandro Rey Corvalán] 20:55:37
+con el Visual Studio
+
+[Alejandro Rey Corvalán] 20:55:43
+Esto de ChatGPT en 5 4, este es de Copilot, así que esa es la que tiene la mayoría
+
+[Alejandro Rey Corvalán] 20:55:51
+que,
+
+[Alejandro Rey Corvalán] 20:55:56
+que tiene la cuenta acá de la facu, entonces lo que es importante es configurarle el modo agente
+
+[Alejandro Rey Corvalán] 20:56:03
+En para planificación inicial podrian usar el plan mode, que ahí lo que tiene es otro problem interno que trabaja de manera distinta, y si quiere hacer una pregunta puntual usarás
+
+[Alejandro Rey Corvalán] 20:56:15
+Pero el agente lo que tendría es para trabajar casi de manera autónoma
+
+[Alejandro Rey Corvalán] 20:56:24
+A ver, venga.
+
+[Alejandro Rey Corvalán] 20:56:25
+Para cuando quiere trabajar algo aparte o hacer consultas sobre un proyecto, pero no ir directamente desarrollar, le pregunta a cloud o va a
+
+[Alejandro Rey Corvalán] 20:56:33
+afuera
+
+[Alejandro Rey Corvalán] 20:56:35
+And sí, yo le pregunto a Clauco.
+
+[Alejandro Rey Corvalán] 20:56:37
+Yo uso todo, casi todo con cloud code. Después está el proyecto open source que se llama open code, que sería similar a cloud code
+
+[Alejandro Rey Corvalán] 20:56:47
+Y no necesariamente tener que desarrollar, sino que
+
+[Alejandro Rey Corvalán] 20:56:51
+en podés preguntarle, es más, fíjate que
+
+[Alejandro Rey Corvalán] 20:56:54
+Si vamos a ver este que yo le pregunté qué mejoras hay para realizar, a ver si me respondió, no sé si se lo mostré a ustedes
+
+[Alejandro Rey Corvalán] 20:57:03
+Ahí les muestro
+
+[Alejandro Rey Corvalán] 20:57:08
+Okay.
+
+[Alejandro Rey Corvalán] 20:57:09
+Yo les pregunté acá con cloud code, que no sé si estaba esto, yo lo levanté, no sé si lo levante ahí, sino
+
+[Alejandro Rey Corvalán] 20:57:15
+Bueno, acá le dije en el proyecto que estaba
+
+[Alejandro Rey Corvalán] 20:57:19
+Le dice que analiza, indica las mejoras que se pueden realizar. Acá no está programando nada
+
+[Alejandro Rey Corvalán] 20:57:25
+And acá empezó a analizar
+
+[Alejandro Rey Corvalán] 20:57:27
+Se me analizó todos los módulos que había escrito con
+
+[Alejandro Rey Corvalán] 20:57:33
+colleagues, sería?
+
+[Alejandro Rey Corvalán] 20:57:34
+Y después quiso el análisis, me dijo esto, bueno, a ver, listo
+
+[Alejandro Rey Corvalán] 20:57:40
+Leí todo el proyecto crítico
+
+[Alejandro Rey Corvalán] 20:57:44
+En Siqualaisy en el arranque, nunca en producción, bueno estas son cosas, entonces hay que leer todo esto. El Cid corre en cada arranque importante, best practices se paran un junior un semior, entonces ahí tengo la configuración de variables
+
+[Alejandro Rey Corvalán] 20:57:59
+Y me da todas las consideraciones, en este caso, si ustedes ven
+
+[Alejandro Rey Corvalán] 20:58:03
+And yo ya aquí no estoy usando el Visual Studio Code, sino que estoy usando toda la herramienta
+
+[Alejandro Rey Corvalán] 20:58:09
+Y puedo decirle que haga absolutamente todas las mejoras, entonces le digo
+
+[Alejandro Rey Corvalán] 20:58:14
+en todas las mejoras
+
+[Alejandro Rey Corvalán] 20:58:17
+Y ahí sí se va a poner a programar
+
+[Alejandro Rey Corvalán] 20:58:20
+Ehm
+
+[Alejandro Rey Corvalán] 20:58:23
+puede usar antigravity y d es igual aviso estudio de code, sí, sí, puede usarlo, bueno, no sé si le estaba respondiendo Valentina
+
+[Alejandro Rey Corvalán] 20:58:32
+En el caso que no tengamos la IA de Visual Studio en Copilot
+
+[Alejandro Rey Corvalán] 20:58:37
+es limitado y algunos no tenemos el plan de la facu mira Valentina, si no tenés el plan de la facu, hay algunas IAC de uso gratuito
+
+[Alejandro Rey Corvalán] 20:58:46
+que vos podés
+
+[Alejandro Rey Corvalán] 20:58:49
+en configurarle
+
+[Alejandro Rey Corvalán] 20:58:51
+Entonces, supongamos que
+
+[Alejandro Rey Corvalán] 20:58:54
+Utilizas
+
+[Alejandro Rey Corvalán] 20:58:56
+did sick
+
+[Alejandro Rey Corvalán] 20:58:57
+Entonces, o alguna que esté dando vuelta por ahí, te fijas deep, ¿cómo lo integras con el Visual Studio Code y usas dipsy
+
+[Alejandro Rey Corvalán] 20:59:07
+Podéis usar open code
+
+[Alejandro Rey Corvalán] 20:59:10
+Debía escribir acá
+
+[Alejandro Rey Corvalán] 20:59:13
+O les voy a poner proyecto
+
+[Alejandro Rey Corvalán] 20:59:17
+Yo la verdad que no lo di porque me parecía quedar
+
+[Alejandro Rey Corvalán] 20:59:21
+Lo manejaban, pero open code
+
+[Alejandro Rey Corvalán] 20:59:23
+Pero
+
+[Alejandro Rey Corvalán] 20:59:25
+En bajarla está
+
+[Alejandro Rey Corvalán] 20:59:26
+En la gente codificación ahí tenes para bajarla en general casi todo esto, mi recomendación es que ustedes tengan Linux. No recomiendo Microsoft
+
+[Alejandro Rey Corvalán] 20:59:36
+ni Windows subsystem Linux
+
+[Alejandro Rey Corvalán] 20:59:39
+para Windows lo mejor es tener
+
+[Alejandro Rey Corvalán] 20:59:43
+Linux
+
+[Alejandro Rey Corvalán] 20:59:44
+En lo instalan y esto es similar a utilizar en cloud code y tienen varias guías gratuitas de manera preconfigurada, así que directamente la descargan y la usan
+
+[Alejandro Rey Corvalán] 20:59:55
+Tal cual como yo estoy usando en cloud
+
+[Alejandro Rey Corvalán] 21:00:00
+Esto
+
+[Alejandro Rey Corvalán] 21:00:01
+Bueno, acá me está haciendo algunas preguntas
+
+[Alejandro Rey Corvalán] 21:00:06
+En librería de testing
+
+[Alejandro Rey Corvalán] 21:00:10
+En si quiero alguna librería de testing cualquiera no se podría usar
+
+[Alejandro Rey Corvalán] 21:00:14
+Validacion de
+
+[Alejandro Rey Corvalán] 21:00:18
+Le podría decir haz la validación
+
+[Alejandro Rey Corvalán] 21:00:22
+con JavaScript
+
+[Alejandro Rey Corvalán] 21:00:25
+En las librerías de testing podríamos usar Zest
+
+[Alejandro Rey Corvalán] 21:00:31
+Y para el login podríamos usar
+
+[Alejandro Rey Corvalán] 21:00:37
+login
+
+[Alejandro Rey Corvalán] 21:00:38
+A mano
+
+[Alejandro Rey Corvalán] 21:00:47
+O podríamos usar esa librería desde arriba
+
+[Alejandro Rey Corvalán] 21:00:50
+Y le doy todo eso y empieza en la I a trabajar
+
+[Alejandro Rey Corvalán] 21:00:55
+Por mí, a ver qué más, a ver eso sí, eso sí lo que tiene Copilot es que hay que ver bien cuánto te queda disponible, eso sí es cierto.
+
+[Alejandro Rey Corvalán] 21:01:05
+Pero por eso pueden bajar esa open code que trabajen de una manera similar a esto y pueden hacer.
+
+[Alejandro Rey Corvalán] 21:01:12
+E
+
+[Alejandro Rey Corvalán] 21:01:17
+Baltasar Coco, no la estaba subiendo a las clases porque son presenciales, pero podría subir esta última
+
+[Alejandro Rey Corvalán] 21:01:25
+E
+
+[Alejandro Rey Corvalán] 21:01:27
+Bueno.
+
+[Alejandro Rey Corvalán] 21:01:30
+Entonces
+
+[Alejandro Rey Corvalán] 21:01:32
+Bueno, ahí está
+
+[Alejandro Rey Corvalán] 21:01:37
+haciendo así que, bueno, este es paga, así que en realidad yo estoy usando
+
+[Alejandro Rey Corvalán] 21:01:42
+un Opus 4 8 que este una de las mejores mejores modelos de I A para programar
+
+[Alejandro Rey Corvalán] 21:01:49
+Así que pueden ser diferentes, pero en este caso nosotros no estamos pidiendo a ustedes que sea lo mejor, sino que ande. Así que con cualquier guía
+
+[Alejandro Rey Corvalán] 21:01:57
+en gratuita van a poder programar y hacen todo
+
+[Alejandro Rey Corvalán] 21:02:02
+El
+
+[Alejandro Rey Corvalán] 21:02:03
+Ehm
+
+[Alejandro Rey Corvalán] 21:02:06
+Y aquí esto va programando
+
+[Alejandro Rey Corvalán] 21:02:09
+En qué fecha sería el parcial o todavía siguen fechas tentativas? No, el parcial es
+
+[Alejandro Rey Corvalán] 21:02:15
+El jueves de la semana que viene, el lunes feriado
+
+[Alejandro Rey Corvalán] 21:02:20
+Así que, por ende, es el jueves
+
+[Alejandro Rey Corvalán] 21:02:22
+De la semana que viene
+
+[Alejandro Rey Corvalán] 21:02:24
+A las en dieciocho horas estén puntualmente ahí, si bien largamos 18, pero vamos a tratar de largar antes para que
+
+[Alejandro Rey Corvalán] 21:02:33
+puedan reunir todos, así que aquel que pueda estar en las dieciocho va entrando y el aula a medida que se va llenando, se va rindiendo
+
+[Alejandro Rey Corvalán] 21:02:44
+Ehm
+
+[Alejandro Rey Corvalán] 21:02:45
+Bueno.
+
+[Alejandro Rey Corvalán] 21:02:46
+Preguntas alguna pregunta adicional que haya quedado que lo pueda ir respondiendo?
+
+[Alejandro Rey Corvalán] 21:02:57
+Si no hay preguntas, chicos, les sirvió la clase de hoy
+
+[Alejandro Rey Corvalán] 21:03:11
+Bueno, acá esto va trabajando de esto podríamos seguir trabajando, podemos trabajar con las dos ya también a veces manera simultánea, así que podría ir armando con otra ya que me haga el
+
+[Alejandro Rey Corvalán] 21:03:21
+And el enuncio del parcial ya estatico.
+
+[Alejandro Rey Corvalán] 21:03:27
+El anuncio del trabajo practico me avisó la jefe cátedra que ya esta disponible, así que debería estar
+
+[Alejandro Rey Corvalán] 21:03:40
+And
+
+[Alejandro Rey Corvalán] 21:03:46
+cuestionario a ver evaluaciones tienen que estar por acá
+
+[Alejandro Rey Corvalán] 21:03:58
+Evaluaciones
+
+[Alejandro Rey Corvalán] 21:04:22
+Okay, enunciado TP integrado, a ver
+
+[Alejandro Rey Corvalán] 21:04:26
+enunciado
+
+[Alejandro Rey Corvalán] 21:04:28
+Acá está
+
+[Alejandro Rey Corvalán] 21:04:30
+Fíjense
+
+[Alejandro Rey Corvalán] 21:04:33
+Lo tienen en evaluaciones
+
+[Alejandro Rey Corvalán] 21:04:36
+In la ficha de evaluaciones
+
+[Alejandro Rey Corvalán] 21:04:46
+parcial semana 14, acá dice parcial 3K4 enunciado TP integrador
+
+[Alejandro Rey Corvalán] 21:04:53
+¿Lo alcanzan a ver ustedes
+
+[Alejandro Rey Corvalán] 21:04:59
+y acá tienen el enunciado
+
+[Alejandro Rey Corvalán] 21:05:05
+Así que van a tener que ustedes inventar el dominio, así que también con esto
+
+[Alejandro Rey Corvalán] 21:05:10
+Problema exige coordinar proyectos responsables así que en esto van a ustedes que esté la guía que nosotros le damos
+
+[Alejandro Rey Corvalán] 21:05:17
+Y ustedes van a tener que rellenar con los conocimientos que saben para gestión de proyectos
+
+[Alejandro Rey Corvalán] 21:05:24
+Así que un proyecto tiene responsables, tiene tareas, prioridades, estados, permisos
+
+[Alejandro Rey Corvalán] 21:05:30
+y van a tener un project manager y podrían tener como roles en
+
+[Alejandro Rey Corvalán] 21:05:35
+Un usuario de proyecto, así que tendrían dos roles distintos y los roles tendrían que guardarlos en
+
+[Alejandro Rey Corvalán] 21:05:45
+Profe, pero yo aún no estoy en el K cuatro en el V, sí estoy en el
+
+[Alejandro Rey Corvalán] 21:05:51
+Nicolas, bono.
+
+[Alejandro Rey Corvalán] 21:05:54
+Bueno, a ver, vamos a ver, Nico, quédate antes de que terminemos, a ver si te agredo dentro de 3x4
+
+[Alejandro Rey Corvalán] 21:06:04
+No te vas a ir, Nico.
+
+[Alejandro Rey Corvalán] 21:06:06
+Bueno, chicos y chicas, mientras yo dormico, le respondo, les resuelve el problema
+
+[Alejandro Rey Corvalán] 21:06:14
+And aquí esto es lo que ustedes tienen que desarrolla
+
+[Alejandro Rey Corvalán] 21:06:19
+Y
+
+[Alejandro Rey Corvalán] 21:06:22
+Lo que deben construir
+
+[Alejandro Rey Corvalán] 21:06:25
+And acá tienen lo que significan los proyectos, todo, léanlo bien
+
+[Alejandro Rey Corvalán] 21:06:30
+Al enunciado no se lo den a la guía
+
+[Alejandro Rey Corvalán] 21:06:32
+No se lo den en la idea sin que ustedes lean, así que acá el que le da la IA y pide y hace cualquier cosa la IA, nosotros
+
+[Alejandro Rey Corvalán] 21:06:40
+tenemos en cuenta
+
+[Alejandro Rey Corvalán] 21:06:42
+Eso
+
+[Alejandro Rey Corvalán] 21:06:48
+Así que acá, bueno, están las tablas también
+
+[Alejandro Rey Corvalán] 21:06:52
+Las reglas que deben cumplir, complejidad
+
+[Alejandro Rey Corvalán] 21:06:57
+Acá están todas las preguntas porque todo esto al tener ustedes la guía así como yo hice en 2 segundos de ese backend
+
+[Alejandro Rey Corvalán] 21:07:04
+Yo creo que esto
+
+[Alejandro Rey Corvalán] 21:07:06
+En una tarde tendría que estar listo
+
+[Alejandro Rey Corvalán] 21:07:10
+Así que con cada una de estas preguntas ustedes deberían y de los requisitos deberían poder responder.
+
+[Alejandro Rey Corvalán] 21:07:18
+No, Facu, vos tenés que analizarlo
+
+[Alejandro Rey Corvalán] 21:07:22
+Y por cada una de estas cosas, bueno, puedes tirar esto y que la idea te lo haga
+
+[Alejandro Rey Corvalán] 21:07:27
+Porque lo que va a tener que hacer por cada uno de los
+
+[Alejandro Rey Corvalán] 21:07:30
+de lo que te va pidiendo
+
+[Alejandro Rey Corvalán] 21:07:33
+Esto vos va a tener que armar un problem porque si le da esto a la guía va a ser como ella quiere y a lo mejor no es con lo que estás necesitando vos
+
+[Alejandro Rey Corvalán] 21:07:42
+Entonces, por eso es que tenés que armar un prom súper grande y complejo que no estaría mal, pero
+
+[Alejandro Rey Corvalán] 21:07:51
+O lo vas dividiendo por etapas 
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+yo personalmente esto lo dividiría por etapas. Primero, diseñar bien la base de datos
+
+Después, una vez que diseñas bien la base de datos, ¿qué haríamos? Diseñar todo lo que es
+
+to back in con los servicios, con los endpoints, con
+
+And y que vos veas que el código que está
+
+Es un código que cumple los requisitos que te pide el enunciado y que vos lo puedas entender
+
+Porque si esto no lo pueden entender.
+
+Después no van a poder tener tampoco el parcial
+
+Y en, y una vez que hiciste todo el back end recién ahí hacer el frontend porque el frontend se va a basar en los que tiene definido en el back end
+
+Asi que no te pongas desarrollar el frontend antes del back end
+
+una vez tenga el backend desarrollas el frontend y con el frontend con
+
+Interfaz que vaya a definir
+
+Bueno, chicos, chicas.
+
+que tengan una buena noche y cualquier cosa está el profe Diego el jueves para aclarar
+
+¿alguna duda que ustedes tengan sobre el TP?
+
+Bueno.
+
+El trabajo practico lo hace cada uno en su repositorio porque la realización es individual, pero la corrección es grupal, así que vos tendrás tu trabajo practico y al que le vas a corregir tendrás tu trabajo practico en otros repos y vos vas a corregir el de tu compañero
+
+quedó claro 
