@@ -1,4 +1,5 @@
 // Punto de entrada del backend: conecta la base y levanta el servidor.
+import 'dotenv/config';
 import app from './app.js';
 import { sequelize } from './models/index.js';
 

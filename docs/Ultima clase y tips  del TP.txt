@@ -1,0 +1,5841 @@
+[Diego Serrano] 18:53:35
+lo que tengo
+
+[Diego Serrano] 18:53:36
+contarla y aparte se van a seguramente ustedes se van a avisar entre ustedes
+
+[Diego Serrano] 18:53:42
+E
+
+[Diego Serrano] 18:53:45
+El asunto es, este.
+
+[Diego Serrano] 18:53:47
+Tengo
+
+[Diego Serrano] 18:53:56
+Pero en que no escucho casi nada y no es volumen
+
+[Diego Serrano] 18:54:02
+Está bien, esto
+
+[Diego Serrano] 18:54:04
+A ver.
+
+[Diego Serrano] 18:54:23
+But
+
+[Diego Serrano] 18:54:26
+La cosa, la cosa es así
+
+[Diego Serrano] 18:54:28
+obviamente lo han hablado con el profe del lunes, pero
+
+[Diego Serrano] 18:54:33
+a refrescar un poco.
+
+[Diego Serrano] 18:54:36
+El tema que tenemos nosotros es este
+
+[Diego Serrano] 18:54:39
+El parcial
+
+[Diego Serrano] 18:54:40
+Parcial va a contar de 2 partes
+
+[Diego Serrano] 18:54:43
+Sí, por un lado, una parte que se llama trabajo práctico, que viene a ser una suerte, es un, es una suerte de trabajo práctico
+
+[Diego Serrano] 18:54:53
+Va a ser que es una tarea de programación que es grupal
+
+[Diego Serrano] 18:54:57
+Sí, una tarea de programación larguita, tiene
+
+[Diego Serrano] 18:55:01
+Ya le deberían haber bajado, está desde el lunes al terminar la clase del lunes, el profe le avisó que ya estaba para que la descarguen
+
+[Diego Serrano] 18:55:06
+Entiendo que todos la tienen que haber descargado para ver de qué se trata
+
+[Diego Serrano] 18:55:10
+larguita pero no es nada loco pensando que va a ser un trabajo grupal
+
+[Diego Serrano] 18:55:16
+Sí grupos grupos incluso creo que dice hasta cinco tres a cinco
+
+[Diego Serrano] 18:55:20
+Entonces
+
+[Diego Serrano] 18:55:25
+Entre 2 y 5 si grupos de
+
+[Diego Serrano] 18:55:28
+entre 2 y 5 inclusive obviamente
+
+[Diego Serrano] 18:55:31
+E
+
+[Diego Serrano] 18:55:33
+But again, esta tarea de programación
+
+[Diego Serrano] 18:55:35
+Como les digo, es larguita.
+
+[Diego Serrano] 18:55:37
+pero no no no es la gran cosa
+
+[Diego Serrano] 18:55:41
+Because, es larga, pero son
+
+[Diego Serrano] 18:55:45
+A ver.
+
+[Diego Serrano] 18:55:48
+4 tablas
+
+[Diego Serrano] 18:55:53
+Alright.
+
+[Diego Serrano] 18:55:57
+Son 4 tablas no más en la base de datos
+
+[Diego Serrano] 18:56:00
+Y tienen
+
+[Diego Serrano] 18:56:07
+15 endpoints, ¿sí?
+
+[Diego Serrano] 18:56:10
+15 endpoint, no es nada loco
+
+[Diego Serrano] 18:56:16
+Comparado con todo lo que hemos haciendo
+
+[Diego Serrano] 18:56:17
+Materia, la única dificultad que tiene que hay que unir, unir todo lo que hemos visto, especialmente los últimos 2 meses
+
+[Diego Serrano] 18:56:23
+Pero no
+
+[Diego Serrano] 18:56:25
+No, no es, no es súper loco, no está súper difícil
+
+[Diego Serrano] 18:56:29
+incluso el el el
+
+[Diego Serrano] 18:56:31
+La consigna está bastante detallada de todo lo que tienen que tener les da libertad para cambiar algunas cosas si quieren, si bien dice
+
+[Diego Serrano] 18:56:39
+La base de datos está ustedes pueden agregar una tabla o crear un atributo, o si
+
+[Diego Serrano] 18:56:44
+Por algún motivo dice no este atributo lo saqué o esta columna la saqué,
+
+[Diego Serrano] 18:56:47
+Y documentan bien porque la sacaron o si un endpoint lo hace diferente
+
+[Diego Serrano] 18:56:52
+Va a estar bien
+
+[Diego Serrano] 18:56:53
+Como les digo no es nada super loco es larguito hay que ponerse programarlo a llevar un rato, tienen que
+
+[Diego Serrano] 18:56:59
+Va a tener que que renegar quizás un poco
+
+[Diego Serrano] 18:57:03
+Con la parte de autenticación, que lo han visto bien, bien visto en clase, pero no lo
+
+[Diego Serrano] 18:57:09
+No lo han sido practicar ni a programar, pero tiene ejemplos el profe le ha dejado ejemplos
+
+[Diego Serrano] 18:57:13
+Yo no les mostré nada de autenticación porque no tocó los días
+
+[Diego Serrano] 18:57:16
+Los días jueves, pero
+
+[Diego Serrano] 18:57:18
+Lo vieron con el profes le ha dejado material
+
+[Diego Serrano] 18:57:22
+Está bien en los apuntes no es nada que no puedan seguíamos con internet y
+
+[Diego Serrano] 18:57:27
+Lo que es autenticación
+
+[Diego Serrano] 18:57:29
+generación de tokens validación de tokens jwt
+
+[Diego Serrano] 18:57:33
+es igual en todo sistema de todo el mundo de cualquier lenguaje, así que tiene información de sobra
+
+[Diego Serrano] 18:57:38
+Por todos lados no hay nada que los pueda
+
+[Diego Serrano] 18:57:41
+Complica
+
+[Diego Serrano] 18:57:42
+Sí,
+
+[Diego Serrano] 18:57:43
+Les podrá resultar
+
+[Diego Serrano] 18:57:44
+Sorprender alguna cosa un poquito más difícil, un poquito menos pero no es nada
+
+[Diego Serrano] 18:57:49
+que los
+
+[Diego Serrano] 18:57:50
+Vas a a tener que asustar lo que sí les tienen que asustar
+
+[Diego Serrano] 18:57:56
+es que la entrega es hasta el sábado a la noche y hoy ya es jueves, o sea, tienen mañana y pasado para terminar el programa
+
+[Diego Serrano] 18:58:05
+Eso es lo único que tiene que preocuparles si la entrega y la entrega sí es estricta hasta el sábado de la noche
+
+[Diego Serrano] 18:58:11
+El asunto es que
+
+[Diego Serrano] 18:58:13
+Para poder hacer esto tienen que hacer 2 cosas
+
+[Diego Serrano] 18:58:17
+Primero, ahí les dejé en la V un selector de grupos, tienen que ir a informar qué grupo
+
+[Diego Serrano] 18:58:24
+conformaron tienen que informar cómo conformaron el grupo todo el mundo tiene que ir y
+
+[Diego Serrano] 18:58:30
+elegir un número de grupo obviamente
+
+[Diego Serrano] 18:58:33
+de cada grupo uno entra
+
+[Diego Serrano] 18:58:36
+A
+
+[Diego Serrano] 18:58:37
+Toma un grupo vacío y les aviso a sus compañeros
+
+[Elian Victoria Lopez Repoma-1067836] 18:58:40
+El
+
+[Diego Serrano] 18:58:41
+¿Qué número de grupo le tocó y todo el mundo va y se agrega ese grupo
+
+[Diego Serrano] 18:58:44
+Eso algo tiene que hacer sí o sí hoy
+
+[Diego Serrano] 18:58:47
+you know, importa.
+
+[Diego Serrano] 18:58:48
+Cualquier lado
+
+[Diego Serrano] 18:58:49
+De cualquier momento antes del sábado porque lo van a necesitar para entregar la ta la entrega de la tarea
+
+[Diego Serrano] 18:58:55
+We fíjense el sábado como aparece en la uve si va a ser con, aún no está a la vista, seguramente sea con
+
+[Diego Serrano] 18:59:03
+Con una actividad de tipo tarea
+
+[Diego Serrano] 18:59:05
+Sí, donde ustedes adjuntan el código
+
+[Diego Serrano] 18:59:09
+ya exacto ahí está Rodrigo como dice Lucas
+
+[Diego Serrano] 18:59:12
+En la parte de evaluaciones van a tener una solapa que dice parcial 2 semana catorce
+
+[Diego Serrano] 18:59:17
+El la la etiqueta dice
+
+[Diego Serrano] 18:59:19
+A ver.
+
+[Diego Serrano] 18:59:21
+But
+
+[Diego Serrano] 18:59:30
+ah, no sé si voy a poder verlo.
+
+[Diego Serrano] 18:59:32
+Como
+
+[Diego Serrano] 18:59:35
+No, claro.
+
+[Diego Serrano] 19:00:02
+Miren.
+
+[Diego Serrano] 19:00:04
+No, claro, no, no está a la vista quienes integran cada grupo, por eso les digo, uno entra y le avisa a sus compañeros que número eligió
+
+[Diego Serrano] 19:00:14
+Igual eso sí, yo sí lo puedo ver. Están viendo ahí la web
+
+[Diego Serrano] 19:00:18
+Pueden prender los micrófonos
+
+[Diego Serrano] 19:00:22
+Bueno, a que está, ¿no?
+
+[Diego Serrano] 19:00:25
+Entonces, evaluaciones semana 14
+
+[Diego Serrano] 19:00:29
+Y acá entran
+
+[Diego Serrano] 19:00:31
+acá están viendo aquí lo que ha dos horas se que acabe en la vista de un profe si me pongo como alumno
+
+[Diego Serrano] 19:00:37
+no me muestra nada porque yo no estoy en ningún curso como alumno entonces no no veo nada
+
+[Diego Serrano] 19:00:42
+Ustedes van a entrar acá
+
+[Diego Serrano] 19:00:43
+Buscan tres K cuatro, solo van a ver
+
+[Diego Serrano] 19:00:46
+Esta sección de 3x4
+
+[Diego Serrano] 19:00:49
+Ya que dice selector de grupo trabajo integrador parcial 2
+
+[Diego Serrano] 19:00:52
+Entran ahí
+
+[Diego Serrano] 19:00:53
+Insisto, traten de ser esto bien
+
+[Diego Serrano] 19:00:56
+que un integrante del grupo entre, busque un grupo vacío y le avise a los compañeros que numero de grupo eligió
+
+[Diego Serrano] 19:01:02
+Y los demás van y entran.
+
+[401590 Federico Ortiz] 19:01:03
+Profe.
+
+[401590 Federico Ortiz] 19:01:04
+Pero, ¿cómo sabemos si está vacío?
+
+[401590 Federico Ortiz] 19:01:06
+Si no muestran
+
+[Diego Serrano] 19:01:07
+Y porque cuando
+
+[Diego Serrano] 19:01:08
+Y pero les dice la cantidad de lugares que hay disponibles
+
+[401590 Federico Ortiz] 19:01:08
+los integrantes
+
+[Diego Serrano] 19:01:13
+No les dice la cantidad de lugares disponibles?
+
+[Valentina Celiz] 19:01:16
+Parece que no, profe.
+
+[98475 Moreno Joaquín] 19:01:17
+No te dice, pero
+
+[Diego Serrano] 19:01:20
+Bueno.
+
+[Diego Serrano] 19:01:21
+Les digo.
+
+[Diego Serrano] 19:01:24
+Yo sí puedo ver quién que marcaron.
+
+[Diego Serrano] 19:01:31
+están ocupados el 4, el 2
+
+[Diego Serrano] 19:01:37
+E
+
+[Diego Serrano] 19:01:42
+El 4, el 2
+
+[Diego Serrano] 19:01:57
+It
+
+[Diego Serrano] 19:02:00
+El 20 está ocupado, ven ahí, ahí se marcaron ustedes 4
+
+[Diego Serrano] 19:02:05
+Entiendo que están, deben estar en clase los que marcaron porque lo habilité recién, o sea que deben estar todos presentes
+
+[92549 Páez Nahuel Agustín] 19:02:11
+Y tamaga profe.
+
+[Diego Serrano] 19:02:11
+están avisando, ¿ven?
+
+[Diego Serrano] 19:02:17
+El grupo veinte es de Páez
+
+[Diego Serrano] 19:02:21
+Si grupo veinte está pa eso
+
+[Diego Serrano] 19:02:23
+Vais días Cardela Riges
+
+[Diego Serrano] 19:02:27
+El veintidós es el día anterior y ya se agregó de este
+
+[Diego Serrano] 19:02:33
+El uno
+
+[Diego Serrano] 19:02:35
+El quince miren, mire, es más fácil cómo se organizaron ustedes sí
+
+[Diego Serrano] 19:02:39
+El grupo dieza tiene un par de integrantes, sí, Carrera y Orti
+
+[Diego Serrano] 19:02:44
+El grupo ocho Medina el grupo siete Celis
+
+[Diego Serrano] 19:02:48
+Y el grupo uno quizá lo agarró Facundo que hay aviso por el
+
+[Diego Serrano] 19:02:53
+Por el chat o sea
+
+[Diego Serrano] 19:02:54
+Se avisan así listo
+
+[Diego Serrano] 19:02:56
+E
+
+[Diego Serrano] 19:02:59
+Me parece que estaría a ver
+
+[Diego Serrano] 19:03:01
+Parece que no voy a poner que sí lo puedan ver, si no es un lio
+
+[Diego Serrano] 19:03:33
+A ver si le pongo mostrar
+
+[Diego Serrano] 19:03:35
+Y si les pongo
+
+[Diego Serrano] 19:03:38
+Right there.
+
+[Diego Serrano] 19:03:39
+A ver.
+
+[Diego Serrano] 19:03:54
+¿Cómo lo ven
+
+[Diego Serrano] 19:03:56
+¿Y qué pasa con esto
+
+[Diego Serrano] 19:04:18
+Pero sí puede
+
+[Diego Serrano] 19:04:23
+E
+
+[92549 Páez Nahuel Agustín] 19:04:31
+Profe, no se puede eliminar la respuesta
+
+[Diego Serrano] 19:04:34
+No, no, por eso y se confunden, me avisan y listo.
+
+[Diego Serrano] 19:04:38
+E
+
+[Diego Serrano] 19:04:47
+Bueno, yo creo que está bien lo que dice, vamos a poner guardar cambios y mostrar
+
+[Diego Serrano] 19:04:54
+Ahí está bien, no completo dice
+
+[Diego Serrano] 19:04:59
+ehm
+
+[Diego Serrano] 19:05:06
+But
+
+[Diego Serrano] 19:05:10
+A ver.
+
+[Francisco Farquharson] 19:05:17
+Superbit of.
+
+[Francisco Farquharson] 19:05:18
+A mí me parece la cantidad de miembros que tiene cada grupo el profe ahora.
+
+[Diego Serrano] 19:05:22
+A ustedes les aparece? ¿Por qué me dice completo, le voy a poner
+
+[Diego Serrano] 19:05:25
+Limitar el número
+
+[Diego Serrano] 19:05:29
+Esta limitación general 5
+
+[Diego Serrano] 19:05:34
+Ahí está.
+
+[Diego Serrano] 19:05:40
+Bueno.
+
+[Diego Serrano] 19:05:44
+Dice la composición de los grupos será visible después que haya hecho su elección
+
+[Diego Serrano] 19:05:51
+a ver
+
+[92549 Páez Nahuel Agustín] 19:05:52
+ahora sale cuando somos en cada grupo, profe.
+
+[92549 Páez Nahuel Agustín] 19:05:56
+No salen los nombres
+
+[Diego Serrano] 19:05:56
+Tal y cuántos son?
+
+[Diego Serrano] 19:05:58
+De eso, eso no quería
+
+[92549 Páez Nahuel Agustín] 19:05:58
+Sí, pero no salen los nombres
+
+[Diego Serrano] 19:05:59
+But
+
+[Diego Serrano] 19:06:03
+A mí no me deja
+
+[Francisco Farquharson] 19:06:03
+Creo que aparece si ya elegiste un grupo.
+
+[92549 Páez Nahuel Agustín] 19:06:06
+Eso mismo
+
+[Diego Serrano] 19:06:06
+Después que uno eligió, claro, puede ser eso.
+
+[Diego Serrano] 19:06:09
+Bueno, a ver, Alan
+
+[Diego Serrano] 19:06:13
+Alan, ¿a qué grupo tienes que ir
+
+[Diego Serrano] 19:06:17
+No, no deja cambiar, quieren que les ponga
+
+[Diego Serrano] 19:06:20
+Bueno.
+
+[Diego Serrano] 19:06:21
+Por un rato les pongo que los dejo cambiar, pero después se lo deshabilitó
+
+[Diego Serrano] 19:06:26
+Pues si no va a estar hasta el último momento cambiando
+
+[Diego Serrano] 19:06:31
+A ver.
+
+[Diego Serrano] 19:06:32
+Fíjense ahí
+
+[Diego Serrano] 19:06:35
+A esa, ya les dejé para cambiar
+
+[92549 Páez Nahuel Agustín] 19:06:40
+Sí, ahí está profa y deja
+
+[Diego Serrano] 19:06:40
+You don't tell that it?
+
+[Diego Serrano] 19:06:42
+Ahí deja
+
+[Diego Serrano] 19:06:43
+Claro, pero les dice la cantidad ocupados
+
+[Diego Serrano] 19:06:46
+Recién cuando
+
+[92549 Páez Nahuel Agustín] 19:06:46
+solamente la cantidad
+
+[Diego Serrano] 19:06:49
+Está bien, solo la cantidad, pero
+
+[Diego Serrano] 19:06:54
+ahí está, no, ahora sí
+
+[Diego Serrano] 19:06:57
+Ahí elegí la la opción
+
+[Diego Serrano] 19:07:01
+Ahora sí les hice la cantidad y ahí sí pueden ver los que los que predice todo es completo
+
+[Francisco Farquharson] 19:07:08
+De las limitaciones cero profe.
+
+[Diego Serrano] 19:07:10
+Lo dejé, volvió a hacer 5, se me volvió cero
+
+[92549 Páez Nahuel Agustín] 19:07:11
+Puso no la limitación, sí
+
+[92549 Páez Nahuel Agustín] 19:07:19
+But no aparecen los nombres por las dudas
+
+[Diego Serrano] 19:07:23
+No, le puse, sí, la cantidad
+
+[92549 Páez Nahuel Agustín] 19:07:23
+Solamente la cantidad
+
+[Diego Serrano] 19:07:29
+Bueno, espérense, Alan, Alan y Victoria
+
+[Diego Serrano] 19:07:34
+Aquí grupo querían cambiarse
+
+[Diego Serrano] 19:07:37
+O sea saben
+
+[Diego Serrano] 19:07:51
+Le voy a poner que vean los nombres y si no, no es ningún secreto.
+
+[Diego Serrano] 19:07:58
+Lo que sí igual
+
+[Diego Serrano] 19:08:03
+Ah, ven, vuelve a cero acá esto es lo que
+
+[Diego Serrano] 19:08:14
+I do.
+
+[Diego Serrano] 19:08:15
+Bueno, ahora sí pueden ver
+
+[Diego Serrano] 19:08:18
+así están seguros de de haber marcado bien, sí,
+
+[Diego Serrano] 19:08:22
+Bueno, la clave es que
+
+[Diego Serrano] 19:08:26
+Armen los grupos, sí,
+
+[Diego Serrano] 19:08:27
+La entrega de la tarea no esta puesta todavía en la V, ya va a aparecer seguramente hoy, mañana o pasado
+
+[Diego Serrano] 19:08:33
+La entrega de la V va a ser seguramente hacer
+
+[Diego Serrano] 19:08:36
+enviar un adjunto
+
+[Diego Serrano] 19:08:38
+con
+
+[Diego Serrano] 19:08:40
+Vino adjunto, obviamente el adjunto le borran las carpetas node modules, las dos carpetas módulos para que no ocupen demasiado
+
+[Diego Serrano] 19:08:47
+Ir comprimen todo y lo mandan
+
+[Diego Serrano] 19:08:50
+Sí o sí
+
+[Diego Serrano] 19:08:50
+We dos carpetas
+
+[Diego Serrano] 19:08:54
+Sí, sí, sí, sí, por raro está bien
+
+[Diego Serrano] 19:08:58
+entonces
+
+[Diego Serrano] 19:08:59
+Seguramente
+
+[Diego Serrano] 19:09:01
+no está a la vista todavía la configuración de la entrega, seguramente sea
+
+[Diego Serrano] 19:09:05
+con una entrega de tarea grupal, por eso les pedimos que carguen los grupos
+
+[Diego Serrano] 19:09:11
+igual
+
+[Diego Serrano] 19:09:11
+Por las dudas no les cuesta nada y nos puede llegar a beneficiar a nosotros
+
+[Diego Serrano] 19:09:17
+Súbanlo también al Gitlab de cada uno de ustedes y súbanlo a un repo dentro del Git lab de cada uno de ustedes personal para que también les queda archivado ahí
+
+[Diego Serrano] 19:09:25
+Porque probablemente para
+
+[Diego Serrano] 19:09:27
+Si tenemos corregir o revisarlo, abrirlo para verlo
+
+[Diego Serrano] 19:09:30
+Nos va a ser capaz que más fácil ver los del GitLab
+
+[Diego Serrano] 19:09:33
+que andar descargando descomprimiendo recompilando y todo eso
+
+[Diego Serrano] 19:09:37
+Entonces no no no no en el suban no cada uno al suyo
+
+[Diego Serrano] 19:09:42
+Si para que quede también
+
+[Valentina Celiz] 19:09:44
+Una consulta en la todos tuvimos el archivo comprimido o solamente un integrante del grupo
+
+[Diego Serrano] 19:09:48
+No, in that way
+
+[Diego Serrano] 19:09:50
+Yo creo
+
+[Diego Serrano] 19:09:51
+Que va si en la V seguramente sea entrega grupal, si entrega grupal entre uno solo y vale por todos
+
+[Diego Serrano] 19:10:06
+No, los desafíos no, los que sí traten de hacer, vieron que el profe le fue dejando el profe de los días lunes le fue dejando tareas para que hagan
+
+[Diego Serrano] 19:10:15
+paso a paso esa cosa traten más que nada de entregar eso sí subir esos
+
+[Diego Serrano] 19:10:19
+que lo entregaban por foro o por la o subiéndolo al git lab de ustedes
+
+[Diego Serrano] 19:10:23
+Más que nada eso, los desafíos, no sé, no, no sé ni que.
+
+[Diego Serrano] 19:10:27
+¿dónde están los desafíos?
+
+[84046 liaudat federico] 19:10:27
+Profe.
+
+[84046 liaudat federico] 19:10:29
+Disculpe, hecho, tengo una consulta también
+
+[84046 liaudat federico] 19:10:32
+con respecto a las actividades del profe, él había dicho que era suficiente con que estén subidos al foro por el hecho, no, perdón, con que estén subidos al repositorio, porque primero que no tenemos actualizado el foro y otra
+
+[Diego Serrano] 19:10:40
+Yeah.
+
+[84046 liaudat federico] 19:10:41
+The que el foro era para hacer una autocorreccion con otro compañero, por lo que tenía entendido
+
+[84046 liaudat federico] 19:10:46
+Así que, si no malentendí, teníamos que tener el repositorio completo únicamente
+
+[Diego Serrano] 19:10:46
+Sí, lo, lo mejor es que lo suban
+
+[Diego Serrano] 19:10:50
+Lo mejor es, lo mejor es que, que lo tengan en el Gitlab, sí
+
+[Diego Serrano] 19:10:54
+Sí, porque
+
+[Diego Serrano] 19:10:56
+Estando en el Gitlab nosotros lo tenemos centralizado para revisarlo
+
+[Diego Serrano] 19:11:03
+Entonces sí, sí, sí, sí, sí, seguro mejor en el guitar sí
+
+[92549 Páez Nahuel Agustín] 19:11:11
+But
+
+[Diego Serrano] 19:11:14
+Eso, ¿cómo es el parchel?
+
+[Diego Serrano] 19:11:16
+Uds. tienen que entregar esto
+
+[Diego Serrano] 19:11:18
+Es condición, esto es, esto es condición de, pero condición obligatoria
+
+[Diego Serrano] 19:11:22
+que entreguen el trabajo práctico
+
+[Diego Serrano] 19:11:24
+Nosotros vamos a revisar que lo entregan antes del sábado de la noche
+
+[Diego Serrano] 19:11:28
+que lo entreguen y que lo que suban sea el trabajo práctico, así que no suban una tarea de cualquier otra cosa
+
+[Diego Serrano] 19:11:35
+Sí, nosotros vamos a revisar qué es lo que
+
+[Diego Serrano] 19:11:38
+que lo que entregan sea efectivamente el trabajo práctico que esté si
+
+[Diego Serrano] 19:11:42
+La nota no va a salir de la entrega del trabajo práctico si no es que vamos a calificar a partir de lo que programen pero tiene que estar y tiene estar hecho, tiene que ser algo de sentido
+
+[Diego Serrano] 19:11:52
+Sí, o sea, nosotros
+
+[Diego Serrano] 19:11:53
+Ustedes seguramente
+
+[Diego Serrano] 19:11:56
+Van a ser
+
+[Diego Serrano] 19:11:59
+Ustedes seguramente van a ser 20 grupos sí
+
+[Diego Serrano] 19:12:02
+Más o menos.
+
+[Diego Serrano] 19:12:04
+Veinticinco grupo
+
+[Diego Serrano] 19:12:06
+Vamos a bajar los 25 tareas, vamos a compilarla y ver que realmente lo que entregaron sea
+
+[Diego Serrano] 19:12:12
+Lo que se pedía
+
+[Diego Serrano] 19:12:13
+Sí,
+
+[Diego Serrano] 19:12:16
+Con eso nosotros le vamos a
+
+[Diego Serrano] 19:12:19
+publicar no sé si una lista o qué, pero vamos, le vamos a dar una idea de quiénes son los que realmente pueden rendir en función de que haya entregado el trabajo
+
+[Diego Serrano] 19:12:27
+Sí o sea y condición de de para rendir el parcial condición obligatoria que entreguen trabajo práctico
+
+[Diego Serrano] 19:12:33
+Sí,
+
+[Diego Serrano] 19:12:35
+No va, la nota no va a salir el trabajo práctico no se maten si hay una pantalla que no le anda si
+
+[Diego Serrano] 19:12:41
+No es que van a tener menos puntos porque
+
+[Diego Serrano] 19:12:43
+Sí, pero que entreguen algo, que compile, que corra
+
+[Diego Serrano] 19:12:47
+I
+
+[Diego Serrano] 19:12:48
+con eso el jueves vienen y, y rinden el parcial. Les vamos a controlar
+
+[Diego Serrano] 19:12:54
+Vamos a tomar ciencia del parcial y van y que vamos a control
+
+[Diego Serrano] 19:12:57
+que realmente los que entren a rendir sean los que correctamente entrar al trabajo práctico
+
+[Diego Serrano] 19:13:04
+y el parcial va a tener la misma modalidad que el primero.
+
+[Diego Serrano] 19:13:07
+unas cuantas preguntas múltiple choice
+
+[Diego Serrano] 19:13:10
+But, con los temas
+
+[Diego Serrano] 19:13:13
+De los temas de la materia, los temas van a ser de la segunda parte, sí, de ficha 13 a ficha 24
+
+[Diego Serrano] 19:13:21
+E
+
+[Diego Serrano] 19:13:24
+Y va a haber dos
+
+[Diego Serrano] 19:13:25
+2, 3 preguntas a desarrollar donde les vamos a preguntar sobre el trabajo que entregar
+
+[Diego Serrano] 19:13:31
+Si o sea va a haber preguntas sobre donde ustedes van a tener que explicar qué es lo que programaron para entregar el trabajo práctico
+
+[Diego Serrano] 19:13:37
+Obviamente
+
+[Diego Serrano] 19:13:38
+Se ayuden con lo que quieran no o sea, al ser la parte del trabajo practico es domiciliario, se ayudan con lo tengan gana
+
+[Diego Serrano] 19:13:45
+Apunte el libro gente que sepa internet inteligencia artificial lo que sea ejercicio viejo
+
+[Diego Serrano] 19:13:51
+Se puede ayudar con lo que sea pero
+
+[Diego Serrano] 19:13:55
+soy responsable de ustedes lo que entregaron entonces
+
+[Diego Serrano] 19:13:57
+Cuando le digamos bueno y cómo resolvió la autenticación bueno ustedes tienen que saber
+
+[Diego Serrano] 19:14:02
+¿Cómo la resolvieron y por decir bueno hice la autenticación con la base de datos, tengo una tabla de usuarios cuando el usuario pide registración, valido los datos, entrego
+
+[Diego Serrano] 19:14:11
+Guardo en la tabla de usuarios
+
+[Diego Serrano] 19:14:14
+Le exijo que cargue una clave y guardo la clave para
+
+[Diego Serrano] 19:14:16
+Encriptada o no o como sea pero tienen que saber decir
+
+[Diego Serrano] 19:14:19
+La clave glosario cargo cuando se registró le grabé encriptada o no la grabé en plano como sea
+
+[Diego Serrano] 19:14:25
+tengo que poder explicar qué es lo que hicieron y cómo te indicaron, bueno, tengo el formulario de login, formulario de login.
+
+[Diego Serrano] 19:14:31
+Hoy
+
+[Diego Serrano] 19:14:31
+ah tengo un endpoint de login que consulta la base de datos, si la clave es usuario clave está bien puesto, armo el token JWT y lo respondo
+
+[Diego Serrano] 19:14:40
+El frontend agarra el token y lo guardan locatoras o donde sea
+
+[Diego Serrano] 19:14:44
+Tienen que poder explicar qué es lo que han hecho si no a nivel de línea por línea, nadie puede memorizar línea por línea que es lo que hizo, pero sí tengo una idea, decir bueno yo hice esto
+
+[Diego Serrano] 19:14:53
+Y esta consultas, o sea, que, que le podemos preguntar, y bueno, ¿cómo ha accedido una base de datos? Y usted tiene que saber si hicieron psicoelai, si hicieron consultas directas
+
+[Diego Serrano] 19:15:00
+Si grabaron los datos en una base de datos o en un archivo o qué es lo que hicieron
+
+[Diego Serrano] 19:15:05
+La idea es que ustedes
+
+[Diego Serrano] 19:15:07
+puedan
+
+[Diego Serrano] 19:15:08
+Que sean capaces de defender lo que han hecho
+
+[Diego Serrano] 19:15:10
+Sí
+
+[Diego Serrano] 19:15:11
+Como les digo no es porque va las preguntas no van a ser a ver
+
+[Diego Serrano] 19:15:15
+¿Cómo hizo en la Ulinea 5 del endpoint de carga para validar pero ustedes tienen que saber
+
+[Diego Serrano] 19:15:21
+Y validé valide esto con un if y si falla el IFT y de un 403
+
+[Diego Serrano] 19:15:26
+A ese nivel sí a nivel de que puedan poder explicar
+
+[Diego Serrano] 19:15:30
+Que pueden explicar pero
+
+[Diego Serrano] 19:15:32
+qué es lo que entregaron que es lo que programaron que lo quisieron
+
+[Diego Serrano] 19:15:35
+The
+
+[Diego Serrano] 19:15:36
+Generalmente artificial, obvio, y está perfecto que así sea, pero tienen que poder decir, bueno, lo que generó la inteligencia artificial, lo leí, sé que es lo que, lo que hizo
+
+[Diego Serrano] 19:15:46
+Sí,
+
+[Diego Serrano] 19:15:47
+Si yo le digo bueno a ver cómo filtraron
+
+[Diego Serrano] 19:15:50
+Como filtraron los listados? Bueno, tiene que saber qué quisieron, pusieron formularios.
+
+[Diego Serrano] 19:15:54
+formulario administrado Manuel
+
+[Diego Serrano] 19:15:57
+O es un formulario con React form
+
+[Diego Serrano] 19:16:01
+el formulario le manda los parámetros la con al backend y el back end hace una consulta
+
+[Diego Serrano] 19:16:06
+usando esos parámetros para filtrar qué es para cuánto cuales parámetros usaron para filtrar
+
+[Diego Serrano] 19:16:12
+Todo eso
+
+[Diego Serrano] 19:16:13
+La idea es que lo puedan explicar, explicar a nivel de
+
+[Diego Serrano] 19:16:16
+El lenguaje, digamos coloquial, lenguaje de una charla
+
+[Diego Serrano] 19:16:20
+No es para que escriban un libro, no es para que escriban 20 páginas, sí,
+
+[Diego Serrano] 19:16:25
+dos oraciones, tres oraciones donde puedan decir, mira, yo para resolver esto y apliqué esto, apliqué este patrón
+
+[Diego Serrano] 19:16:32
+Apliqué
+
+[Diego Serrano] 19:16:33
+lo lo que fuera
+
+[Diego Serrano] 19:16:36
+a ese nivel parecido a las preguntas de de de desarrollar
+
+[Diego Serrano] 19:16:41
+O quieres tomamos el primer parcial
+
+[Diego Serrano] 19:16:44
+la misma movilidad, la misma idea que pueden escribir un par de párrafos con eso ahí sí
+
+[Diego Serrano] 19:16:50
+I see sin ayuda, sin internet.
+
+[Diego Serrano] 19:16:52
+Sin material bibliográfico simplemente
+
+[Diego Serrano] 19:16:56
+Y sin esto, yo sé que esto es delicado, pero entiendo
+
+[Diego Serrano] 19:17:00
+A casi me van a matarme odiar
+
+[Diego Serrano] 19:17:03
+Pero es así
+
+[Diego Serrano] 19:17:05
+sin acceso al código fuente
+
+[Diego Serrano] 19:17:07
+Sí porque si tiene acceso al código fuente lo abren aunque lo haya hecho cualquier otro lo abren lo leen y me dicen que lo que está a la vista y listo entonces no programaron nada
+
+[Diego Serrano] 19:17:17
+Entonces no es una cuestión que tengan que ir
+
+[Diego Serrano] 19:17:20
+memorizado cada línea de código pero tienen que saber qué es lo que entregaron y qué lo quisiera
+
+[Diego Serrano] 19:17:25
+Nada más
+
+[Diego Serrano] 19:17:26
+y listo sí ahí pregunto Marcos la secuencia de acción
+
+[Diego Serrano] 19:17:32
+Sí, pero a nivel general, no piensen en un diagrama de secuencia paso a paso, hice un IF, hice un force
+
+[Diego Serrano] 19:17:38
+No, a nivel de y agarré los datos, hizo una consulta, les di forma, lo respondí con Jason
+
+[Diego Serrano] 19:17:45
+I didn't.
+
+[Diego Serrano] 19:17:48
+Pregunta está lindo esa pregunta, si podemos, si pueden guardar datos sensibles
+
+[Diego Serrano] 19:17:53
+Que hay en el código en un claro en realidad la única forma es así datos sensibles
+
+[Diego Serrano] 19:18:00
+El único dato sensible que ustedes pueden manejar en un software como el que van a programar
+
+[Diego Serrano] 19:18:06
+Es la, la
+
+[Diego Serrano] 19:18:08
+la password de la base de datos
+
+[Diego Serrano] 19:18:10
+Esa va en un barrio le entor
+
+[Diego Serrano] 19:18:12
+Y listo, y no hay nada más que discutir
+
+[Diego Serrano] 19:18:15
+En el archivo en el archivo de environment
+
+[Diego Serrano] 19:18:19
+Bala la la clave a la vista no le calienta nadie eso
+
+[Diego Serrano] 19:18:22
+En la vida real
+
+[Diego Serrano] 19:18:23
+Esa variable entorno va a estar cargada de alguna manera más segura
+
+[Diego Serrano] 19:18:28
+Para quien solamente la vea y que la cargó la primera vez y nadie más y el software de alguna manera consulta
+
+[Diego Serrano] 19:18:34
+A esa base de datos de secretos ese dato
+
+[Diego Serrano] 19:18:37
+Ustedes para entregar en el momento de desarrollo usan una variable de entorno, un archivo punto y listo y está perfecto.
+
+[Diego Serrano] 19:18:45
+Otros datos sensibles son los passwords de los usuarios, eso sí, tiene que estar guardado más o menos bien
+
+[Diego Serrano] 19:18:52
+Si en la tabla de usuarios fíjense que
+
+[Diego Serrano] 19:18:56
+el enunciado les recomienda que tal vez poner incluso
+
+[Diego Serrano] 19:19:01
+iba a tener que tener una clave
+
+[Diego Serrano] 19:19:04
+Una clave, perdón, una tabla de usuarios con nombre, mail, rol, qué sé yo
+
+[Diego Serrano] 19:19:10
+Even que acá dice password hash.
+
+[Diego Serrano] 19:19:13
+Esta columna va a guardar la, la, la.
+
+[Diego Serrano] 19:19:17
+La clave del usuario
+
+[Diego Serrano] 19:19:19
+Más o menos segura, ven que acá dice
+
+[Diego Serrano] 19:19:22
+Contraseña almacenada de forma segura o has simulado documentado
+
+[Diego Serrano] 19:19:28
+Vean la forma de encriptarlo con algo con alguna librería y si no con algún algoritmo con alguna
+
+[Diego Serrano] 19:19:34
+Chuchería como para que no quede guardada en plano la clave
+
+[Diego Serrano] 19:19:37
+nada más que eso
+
+[Diego Serrano] 19:19:38
+Otros datos sensibles no hay
+
+[Diego Serrano] 19:19:40
+No hay, no hay de ninguna manera no tendría que tener ningún otro dato sensible
+
+[Diego Serrano] 19:19:44
+Y respondiendo a la pregunta de Rodrigo
+
+[Diego Serrano] 19:19:46
+E
+
+[Diego Serrano] 19:19:48
+Ningún dato sensible debería estar en el código nunca
+
+[Diego Serrano] 19:19:52
+Porque
+
+[Diego Serrano] 19:19:53
+Cualquiera sensible por no importa
+
+[Diego Serrano] 19:19:56
+Si lo si es un dato que el equipo puede ver
+
+[Diego Serrano] 19:19:59
+No debería ir a parar nunca a un repositorio de Git, entonces no debería estar en el código
+
+[Diego Serrano] 19:20:05
+y los archivos.emv nos mandan al git.
+
+[Diego Serrano] 19:20:08
+Además.
+
+[Diego Serrano] 19:20:08
+Sí,
+
+[Diego Serrano] 19:20:09
+los archivos env cada programador tiene su local y son ignorados porque hay que configurar que el kit ignore para que no se suban
+
+[Diego Serrano] 19:20:19
+Luego
+
+[Diego Serrano] 19:20:20
+La otra pregunta, que esto es importante, que
+
+[Diego Serrano] 19:20:23
+Me sorprende que solamente Rodrigo lo preguntes
+
+[Diego Serrano] 19:20:27
+El enunciado habla de una tarea, una etapa de corrección entre pares
+
+[Diego Serrano] 19:20:32
+Esto no está del todo definido, vayan viendo en la V la semana que viene
+
+[Diego Serrano] 19:20:37
+¿Qué les pide en cuanto a corrección entre pares y respondan lo que diga y nada más
+
+[Diego Serrano] 19:20:41
+No está bien claro como el tema de la corrección entre pares porque en medio delicado la idea era que
+
+[Diego Serrano] 19:20:48
+Entiendo que la idea que plan habían planteado era que
+
+[Diego Serrano] 19:20:52
+Todos los grupos entregan
+
+[Diego Serrano] 19:20:53
+Y después de alguna manera
+
+[Diego Serrano] 19:20:56
+cada grupo corrige a otro
+
+[Diego Serrano] 19:20:58
+Corrige a nivel de que y a nivel de que vean que que entregó algo que compila y que corre
+
+[Diego Serrano] 19:21:03
+Nada más, digamos, la corrección y creo que entregaron coincide con trabajo práctico y no es un parcial del año pasado
+
+[Diego Serrano] 19:21:11
+a ese nivel pen se pensaba la corrección como una revisión
+
+[Diego Serrano] 19:21:16
+Pero no está definido qué pasa si un grupo no entrega y no corrige a otro y es
+
+[Diego Serrano] 19:21:22
+y uno que entregó se queda sin corrección, eso no está del todo definido.
+
+[Diego Serrano] 19:21:26
+Vayan viendo el foro de la, el foro de la materia o los avisos de autogestión
+
+[Diego Serrano] 19:21:31
+Si le habla de
+
+[Diego Serrano] 19:21:33
+De corrección entre pares, fíjense que les pide y nada más, no se vuelvan locos
+
+[Diego Serrano] 19:21:37
+No se van a quedar libres por una corrección entre pares, esto es muy importante
+
+[Diego Serrano] 19:21:42
+Sí porque sino se imaginan ustedes entregan y un compañero que no sabe programar les corrige no entendí nada el mundo y lo dejo libre
+
+[Diego Serrano] 19:21:51
+No va a pasar eso si no se asusten que esa corrección entre pares no es a nivel de de que de que baje la nota
+
+[Diego Serrano] 19:21:57
+Sí
+
+[Diego Serrano] 19:21:58
+No le den bola por ahora, fíjense que pasa cuando vayan a entregar si les dice
+
+[Diego Serrano] 19:22:03
+Como hacer la colección a quién hay que corregir
+
+[Diego Serrano] 19:22:06
+Y no se asusten por eso
+
+[Diego Serrano] 19:22:12
+Sí, pero no, no, no, no, porque no, no han puesto ni siquiera dónde, dónde cargar corrección
+
+[Diego Serrano] 19:22:17
+Así que no le den bolas y preocúpense
+
+[Diego Serrano] 19:22:20
+Marcos, Marcos.
+
+[Diego Serrano] 19:22:23
+Tienes razón
+
+[Diego Serrano] 19:22:23
+Se había hablado de que la corrección entre pares iba a ser hasta el lunes porque porque
+
+[Diego Serrano] 19:22:28
+Porque hay cursos que rinden el parcial el martes
+
+[Diego Serrano] 19:22:31
+Sí
+
+[Diego Serrano] 19:22:31
+Pero nosotros corregimos el partido el jueves, así que
+
+[Diego Serrano] 19:22:34
+Va a haber tiempo, no, no.
+
+[Diego Serrano] 19:22:36
+Y como no está cargado donde donde hacer la corrección
+
+[Diego Serrano] 19:22:39
+ni asignado cómo se va a corregir
+
+[Diego Serrano] 19:22:43
+no le den mala
+
+[Diego Serrano] 19:22:44
+Fíjense no más que aparece, que aparece por la uve y nada más
+
+[Diego Serrano] 19:22:48
+E
+
+[Diego Serrano] 19:22:55
+Y lo de la corrupción entre pares era más que nada como para
+
+[Diego Serrano] 19:22:57
+Más que nada para no tener que poner nosotros a bajar 200 trabajos prácticos porque todo sea entregado sólo para ver
+
+[Diego Serrano] 19:23:04
+porque como no afecta la nota
+
+[Diego Serrano] 19:23:06
+Sí, el trabajo práctico es para que ustedes programen y nos demuestren que programaron la nota va a salir del parcial y de lo que cargue usted el día del parcial
+
+[Diego Serrano] 19:23:14
+Entonces
+
+[Diego Serrano] 19:23:19
+It por eso es que
+
+[Diego Serrano] 19:23:24
+Por eso es que es que tiene que quedar claro bien qué es lo que tienen que entregar
+
+[Diego Serrano] 19:23:29
+Sí
+
+[Diego Serrano] 19:23:29
+Si hago una corrección entre pares
+
+[Diego Serrano] 19:23:31
+Hecha con tiempo
+
+[Diego Serrano] 19:23:33
+Sí requeriría que pero tampoco tampoco está bien eso sí tampoco es que
+
+[Diego Serrano] 19:23:39
+No les podría afectar ambos grupos porque por más que ustedes se matan programando y corrigen no sabe corregir
+
+[Diego Serrano] 19:23:45
+I
+
+[Diego Serrano] 19:23:48
+E
+
+[Diego Serrano] 19:23:50
+no no la idea es que la idea es que es que
+
+[Diego Serrano] 19:23:55
+I lo que dice el profe
+
+[Diego Serrano] 19:23:58
+Cuando ustedes corrijan el trabajo de otro lo tienen que hacer a conciencia, que pongan cualquier cosa, le pongo 2 porque no me lo banco
+
+[Diego Serrano] 19:24:05
+Sí
+
+[Diego Serrano] 19:24:06
+A eso se refiere lo que dice el profe en cuanto a
+
+[Diego Serrano] 19:24:10
+Sí,
+
+[Diego Serrano] 19:24:10
+una mala una mala calificación afecta a los dos
+
+[Diego Serrano] 19:24:14
+Sí
+
+[Diego Serrano] 19:24:15
+pero claro al mismo tiempo obviamente si nosotros vemos
+
+[Diego Serrano] 19:24:19
+Que alguien corrigió mal le podríamos bajar la nota al mal corrector no al mal corregido
+
+[Diego Serrano] 19:24:24
+Si a eso se refería el profe
+
+[Diego Serrano] 19:24:26
+Ustedes no se vuelvan locos
+
+[Diego Serrano] 19:24:28
+Si les toca corregir según lo que pida ahí
+
+[Diego Serrano] 19:24:33
+Bája la entrega, la compilan.
+
+[Diego Serrano] 19:24:35
+Ve la ejecutan, ven si lo que entregaron coincide con el parcial e informan eso.
+
+[Diego Serrano] 19:24:39
+Ahora si ustedes bajan y lo que bajan no es el parcial, no es el trabajo práctico, es otra cosa
+
+[Diego Serrano] 19:24:45
+O no compila o no no lo ejecuta y no anda nada bueno si no anda nada
+
+[Diego Serrano] 19:24:52
+Y nada más
+
+[Diego Serrano] 19:24:54
+No es que después de eso vas a afectar una nota, que ustedes digan ah no tengo
+
+[Diego Serrano] 19:24:59
+Le puse un siete
+
+[Diego Serrano] 19:25:01
+O peor, se ponen todos bien entre ustedes, se ponen de acuerdo, se ponen todos dientes entre ustedes, obviamente que no es para, no es para eso
+
+[Diego Serrano] 19:25:12
+No, no, suban todos, suban todos lo mismo.
+
+[Diego Serrano] 19:25:16
+Haga el trabajo grupal entreguen grupal y pónganselo en sus repositorios lo grupales
+
+[Diego Serrano] 19:25:21
+la la
+
+[Diego Serrano] 19:25:22
+El parcial es individual
+
+[Diego Serrano] 19:25:24
+Sí, entonces todos tienen que saber que lo entregaron
+
+[Diego Serrano] 19:25:27
+Sí,
+
+[Diego Serrano] 19:25:28
+Pero
+
+[Diego Serrano] 19:25:32
+No, sí, obviamente la idea es que todos programen si lo que dijo, lo que dice Rodrigo
+
+[Diego Serrano] 19:25:38
+La idea que sí que obviamente todos programen algo
+
+[Diego Serrano] 19:25:41
+Que no sí que no sé programa uno y todos entregan y después los que no programaron no van a saber qué responder
+
+[Diego Serrano] 19:25:47
+Esa es la idea
+
+[Diego Serrano] 19:25:49
+Pero
+
+[Diego Serrano] 19:25:51
+Pero no, no, obviamente suban
+
+[Diego Serrano] 19:25:54
+Entrega le entrega grupal pónganselo en repositorio de cada uno individual lo que han entregado pero no hace falta que sean diferentes
+
+[Diego Serrano] 19:26:15
+Fuera de eso.
+
+[Diego Serrano] 19:26:17
+No se asusten.
+
+[Diego Serrano] 19:26:19
+Estudien, asegúrense de que la entrega esté el sábado
+
+[Diego Serrano] 19:26:23
+Y, y listo
+
+[Diego Serrano] 19:26:24
+Sí, sábado dice sábado veintitré
+
+[Diego Serrano] 19:26:27
+3:55 pero veintitrés cincuenta y cinco de la hora del servidor, que a veces que no saben puede estar corrida
+
+[Diego Serrano] 19:26:33
+Traten de no dejar hasta el último minuto porque esa
+
+[Diego Serrano] 19:26:37
+A esa hora no nos van a encontrar ni a mi ni al profe para que les corramos la hora porque no podemos
+
+[Diego Serrano] 19:26:42
+Aparte, no podríamos correr la hora porque se le correríamos a todo el curso, a toda la materia, digamos, ocho divisiones
+
+[Diego Serrano] 19:26:50
+Así entregan a tiempo no no se duerman con eso
+
+[Diego Serrano] 19:26:52
+Si no anda entregan igual
+
+[Diego Serrano] 19:26:56
+Sí,
+
+[Diego Serrano] 19:26:57
+Preferible que falle una pantalla y no que no esté la entrega
+
+[Diego Serrano] 19:27:01
+Sí
+
+[Diego Serrano] 19:27:02
+Si no está la entrega, como dice ahí,
+
+[Diego Serrano] 19:27:05
+la la entrega es hasta el sábado si lo del
+
+[Diego Serrano] 19:27:09
+Lo de viernes en el selector de grupos
+
+[Diego Serrano] 19:27:14
+pero la entrega hasta el sábado
+
+[Diego Serrano] 19:27:16
+Sí la entrega está clarito
+
+[Diego Serrano] 19:27:22
+Hasta el sábado.
+
+[Diego Serrano] 19:27:26
+Entonces
+
+[Diego Serrano] 19:27:28
+El asunto acá es ese, sí
+
+[Diego Serrano] 19:27:31
+Termino de programar y el sábado anterior lo que tengan
+
+[Diego Serrano] 19:27:35
+Si lo que tengan, insisto, con esto es preferible
+
+[Diego Serrano] 19:27:38
+que entreguen algo que le falte una pantalla, que le falte un endpoint
+
+[Diego Serrano] 19:27:42
+y no no y no que no entreguen directamente esto ahí sí que no entregan y no hay vuelta
+
+[Diego Serrano] 19:27:48
+Y no rinden y van a recuperar
+
+[Diego Serrano] 19:27:50
+No hay, se recupera un parcial solo no
+
+[Diego Serrano] 19:27:53
+Si bien el parcial 1 lo aprobaron casi todos
+
+[Diego Serrano] 19:27:58
+igual
+
+[Diego Serrano] 19:27:59
+Sí, o sea cual si si están desaprobados los dos parciales o ausentes en cualquiera ausentes
+
+[Diego Serrano] 19:28:07
+Una un desaprobado y un ausente ya quedan libres y entonces
+
+[Diego Serrano] 19:28:11
+Recuperatorio
+
+[Diego Serrano] 19:28:13
+Se recupera un único parcial
+
+[Diego Serrano] 19:28:15
+Parcial 1 lo probaron casi todos, me acuerdo que habíamos visto un 90%
+
+[Diego Serrano] 19:28:21
+de los que, de los que rindieron habían aprobados, se acuerdan que era algo así no había, no sé si 10, 10 bochados como mucho
+
+[Diego Serrano] 19:28:28
+Bueno esos días no se duerman con el segundo parcial
+
+[Diego Serrano] 19:28:34
+Fuera de eso
+
+[Diego Serrano] 19:28:36
+Tranquilos
+
+[Diego Serrano] 19:28:36
+Sí, y estudiar los apuntes, tenemos hasta el jueves, lo cual es una ventaja.
+
+[Diego Serrano] 19:28:41
+E
+
+[Diego Serrano] 19:28:44
+Y, y listo
+
+[Diego Serrano] 19:28:45
+Sí,
+
+[Diego Serrano] 19:28:46
+Para programar obviamente
+
+[Diego Serrano] 19:28:49
+pueden ayudarse con inteligencia artificial
+
+[Diego Serrano] 19:28:53
+traten de
+
+[Diego Serrano] 19:28:55
+A ver, ¿cómo programarían esto? Si agarran un trabajo
+
+[Diego Serrano] 19:28:59
+fairly good. Go on the third one.
+
+[84046 Liaudat Federico] 19:29:01
+Sí, profe, perdón.
+
+[Diego Serrano] 19:29:02
+Recién veo, no sé si
+
+[84046 Liaudat Federico] 19:29:03
+Sí, sí, capa que se le preguntan como diez veces, pero estoy viendo ahí que cierra un desafío hoy ahí en la, en la U E eso también son o
+
+[84046 Liaudat Federico] 19:29:11
+Había dicho únicamente que las clases
+
+[84046 Liaudat Federico] 19:29:13
+que lo que daba el profe el lunes
+
+[Diego Serrano] 19:29:13
+Más que nada
+
+[Diego Serrano] 19:29:15
+Sí, más que nada eso, ¿dónde está el desafío ese? Déjeme leerlo, a ver que de qué trata.
+
+[84046 Liaudat Federico] 19:29:20
+Contento numero pares tambira próximo evento A la derecha, profe.
+
+[Diego Serrano] 19:29:26
+Eso
+
+[Diego Serrano] 19:29:29
+There
+
+[84046 Liaudat Federico] 19:29:29
+Sí,
+
+[Diego Serrano] 19:29:32
+Neverde
+
+[Diego Serrano] 19:29:36
+Entró en calor, dice.
+
+[Diego Serrano] 19:29:47
+¿Y dónde está
+
+[Diego Serrano] 19:29:52
+actividades
+
+[84046 Liaudat Federico] 19:29:55
+En calificaciones, profe, de calificaciones lo puede buscar más fácil
+
+[Diego Serrano] 19:30:09
+Ni siquiera tiene para entregar
+
+[Diego Serrano] 19:30:11
+Ay, cuestionario, claro
+
+[Diego Serrano] 19:30:19
+There's a few owner. No, no.
+
+[Diego Serrano] 19:30:23
+Semana cuatro
+
+[Diego Serrano] 19:30:25
+Podrían
+
+[Diego Serrano] 19:30:26
+podría haber programado porque la verdad que es demasiado fácil
+
+[Diego Serrano] 19:30:30
+Pero
+
+[Diego Serrano] 19:30:33
+A ver
+
+[Diego Serrano] 19:30:36
+Mena hacer marcar un
+
+[Diego Serrano] 19:30:40
+tienen que usar con si random
+
+[Diego Serrano] 19:30:42
+Y calcular eso
+
+[Diego Serrano] 19:30:46
+Lo podría grabar en media hora, lo podría programar hoy ya que estamos
+
+[Diego Serrano] 19:30:50
+Pero
+
+[Diego Serrano] 19:30:53
+Pero no, no
+
+[Diego Serrano] 19:31:10
+Es un ejercicio de la semana 4
+
+[Diego Serrano] 19:31:14
+Es un ejercicio de los primeros
+
+[Diego Serrano] 19:31:16
+De las primeras, como de las primeras actividades de programación estructurada con JavaScript, con Node
+
+[Diego Serrano] 19:31:22
+sí que no no
+
+[Diego Serrano] 19:31:24
+No es para preparar
+
+[Diego Serrano] 19:31:30
+Bueno, les decía, para programar esto
+
+[Diego Serrano] 19:31:35
+quieres conviene hacer? Creen un proyecto vacío o búsquense un ejercicio de clase.
+
+[Diego Serrano] 19:31:38
+Y le borran el código
+
+[Diego Serrano] 19:31:41
+You know what I call un ejercicio de backend
+
+[Diego Serrano] 19:31:43
+le borran los endpoints y dejan el router y toda la historia
+
+[Diego Serrano] 19:31:46
+Se busca un ejercicio de front de los que de los que tenemos en materias adicionales o lo que se han practicado ustedes
+
+[Diego Serrano] 19:31:53
+Le borra los componentes y ya lo tienen listo arrancan los dos y ya está.
+
+[Diego Serrano] 19:31:56
+Y ahí empiecen a primero hacer obviamente tengas el back end primero
+
+[Diego Serrano] 19:32:00
+Lo hace datos, los modelos los cuatro modelos y que laice
+
+[Diego Serrano] 19:32:05
+I
+
+[Diego Serrano] 19:32:06
+O
+
+[Diego Serrano] 19:32:07
+si quieren en vez de usar escuelas usar acceso directo
+
+[Diego Serrano] 19:32:11
+A él se los habilita que, a que elija como ustedes
+
+[Diego Serrano] 19:32:15
+De conviene usar
+
+[Diego Serrano] 19:32:17
+Crea los 4 modelos
+
+[Diego Serrano] 19:32:19
+Empezar a crear los en points pueden dejar
+
+[Diego Serrano] 19:32:23
+Todo lo que es autenticación, autorización, generación de usuarios para el final
+
+[Diego Serrano] 19:32:28
+ah por el final más o menos, pero sí,
+
+[Diego Serrano] 19:32:32
+Y empezar con los endpoints de
+
+[Diego Serrano] 19:32:35
+los endpoints de
+
+[Diego Serrano] 19:32:37
+del dominio, ¿no?
+
+[Diego Serrano] 19:32:40
+But
+
+[Diego Serrano] 19:32:42
+estos 4 primeros son los de consultas
+
+[Diego Serrano] 19:32:45
+Y luego los de modificar las tareas y nada más esos son los tiempos que tienen que hacer
+
+[Diego Serrano] 19:32:51
+y después bueno hacia el front
+
+[Diego Serrano] 19:32:53
+Si hacen los endpoints primero los prueban con la herramienta que les mostré el Thunder client
+
+[Diego Serrano] 19:33:00
+Bothman?
+
+[Diego Serrano] 19:33:01
+you
+
+[Diego Serrano] 19:33:03
+Ahí les pide el ejercicio
+
+[Diego Serrano] 19:33:06
+Generen
+
+[Diego Serrano] 19:33:09
+Casos de prueba
+
+[Diego Serrano] 19:33:10
+De los servicios
+
+[Diego Serrano] 19:33:12
+Con chest y de los endpoints con super test
+
+[Diego Serrano] 19:33:15
+Pero eso les conviene generarlos, eso sí le conviene generarlo inteligencia artificial.
+
+[Diego Serrano] 19:33:19
+Programaron todo, abren el copilot del Visual Studio Code, le dicen che, genérame los test y listo
+
+[Diego Serrano] 19:33:26
+Leen los textos a ver si lo que preguntan tiene sentido
+
+[Diego Serrano] 19:33:30
+Sí, bueno, como dice acá, no
+
+[Diego Serrano] 19:33:33
+Si cumple con esto
+
+[Diego Serrano] 19:33:36
+Y listo
+
+[Diego Serrano] 19:33:38
+No se vuelvan locos
+
+[Diego Serrano] 19:33:39
+En serio pueden usar inteligencia artificial tranquilamente lo que conozcan, lo que tengan
+
+[Diego Serrano] 19:33:44
+El si pueden usar el copilot desde Villa Studio Code lo más cómodo que hay
+
+[Diego Serrano] 19:33:49
+y si no desde un chat gratis lo que sea
+
+[Diego Serrano] 19:33:51
+E
+
+[Diego Serrano] 19:33:53
+En general
+
+[Diego Serrano] 19:33:55
+En general, yo supongo que ustedes no deben estar pagando suscripciones.
+
+[Diego Serrano] 19:34:00
+Nadie
+
+[Diego Serrano] 19:34:01
+Open Code es gratis y anda un caño, ¿sí? Anda re bien
+
+[Diego Serrano] 19:34:08
+Para ser gratis anda muy bien
+
+[84046 Liaudat Federico] 19:34:11
+Profe, eso es un chato, es un IDE como antigravity, perdón
+
+[Diego Serrano] 19:34:11
+Y
+
+[Diego Serrano] 19:34:14
+revienta por todos lados, pero
+
+[Diego Serrano] 19:34:21
+Comparado con los chats
+
+[Diego Serrano] 19:34:23
+Sí,
+
+[Diego Serrano] 19:34:24
+Entonces sí lo mejor es es lo mejor sin duda si no tienen plata open code es una luz
+
+[84046 Liaudat Federico] 19:34:29
+Profe, perdón.
+
+[Diego Serrano] 19:34:29
+E
+
+[Diego Serrano] 19:34:31
+Obengol es un chat
+
+[Diego Serrano] 19:34:33
+de línea de comandos como es cloudcode o el codex
+
+[Diego Serrano] 19:34:38
+De
+
+[Diego Serrano] 19:34:38
+De cómo es de Open Ay
+
+[Diego Serrano] 19:34:41
+Ustedes entran al al open code
+
+[Diego Serrano] 19:34:44
+En una carpeta estando parado en una carpeta y obtengo automáticamente usa toda esa carpeta como contexto
+
+[Diego Serrano] 19:34:50
+no tienen que andar copiando, si ustedes entran a la interfaz web de, al interfaz web de chat
+
+[Diego Serrano] 19:34:56
+De, de
+
+[Diego Serrano] 19:34:58
+de, por ejemplo
+
+[Diego Serrano] 19:35:00
+A ver, a ver.
+
+[Diego Serrano] 19:35:02
+Si van a programar no van a usar
+
+[Diego Serrano] 19:35:04
+ChatGPT
+
+[Diego Serrano] 19:35:05
+Sí, regla desde hoy hasta que se jubilen, pero por unos años
+
+[Diego Serrano] 19:35:10
+Y así si van a programar no van a entrar a HPT
+
+[Diego Serrano] 19:35:15
+ni lo piense
+
+[Diego Serrano] 19:35:17
+Supongamos que entra a cloud
+
+[Diego Serrano] 19:35:25
+Sí,
+
+[Diego Serrano] 19:35:26
+Y acá dicen, bueno, a ver
+
+[Diego Serrano] 19:35:32
+Quiero entrar a programar algo
+
+[Diego Serrano] 19:35:33
+Se van a volver locos acá porque le tienen
+
+[Diego Serrano] 19:35:35
+dar demasiado contexto, explicarle todo lo que tienen que programar, todo lo que tienen que hacer, adjuntar los archivos involucrados
+
+[Diego Serrano] 19:35:41
+Si olvidan un archivo no puede adivinar lo que no está en lo que le subieron, se vuelven locos
+
+[Diego Serrano] 19:35:46
+¿Qué es lo que tienen, qué es lo que les conviene? Siempre les va a convenir, pero para todo, hasta para la vida real, para cualquier cosa que tenga que preguntar
+
+[Diego Serrano] 19:35:55
+Siempre les va a convenir usar una herramienta de programación
+
+[Diego Serrano] 19:35:58
+no esto sino
+
+[Diego Serrano] 19:36:01
+El codo
+
+[Diego Serrano] 19:36:02
+Sí la herramienta que tengan disponible de programación
+
+[Diego Serrano] 19:36:05
+El tema es que esto tampoco es
+
+[Diego Serrano] 19:36:08
+Sí, también tiene el tema de que tienen que brindar suficiente contexto
+
+[Diego Serrano] 19:36:13
+Entonces si ustedes ya tienen todo programado por la mitad
+
+[Diego Serrano] 19:36:16
+Y en la la mitad del desarrollo hecho
+
+[Diego Serrano] 19:36:19
+y quieren se toca agregar un endpoint
+
+[Diego Serrano] 19:36:22
+La única forma con este tipo de interfaces
+
+[Diego Serrano] 19:36:25
+Sea Claude, sea chipitiquen yo que no lo usen para programar
+
+[Diego Serrano] 19:36:29
+O el que quieren usar
+
+[Diego Serrano] 19:36:32
+deep syngo, no sé qué
+
+[Diego Serrano] 19:36:34
+Federico si ya te si ya te gastaste todo el copilot y es día once
+
+[Diego Serrano] 19:36:42
+Openco si
+
+[Diego Serrano] 19:36:44
+E
+
+[Diego Serrano] 19:36:46
+Usando cualquier web chat que usen tendria que empezar a juntar
+
+[Diego Serrano] 19:36:52
+Adjuntar acá
+
+[Diego Serrano] 19:36:54
+Sí
+
+[Diego Serrano] 19:36:55
+Acá tirar todos los archivos que ya tienen.
+
+[Diego Serrano] 19:36:58
+todos los todos los los como
+
+[Diego Serrano] 19:37:02
+Hasta un ejemplo de la base de datos el S C Q l de la base de datos de la creación de base de datos para que sepa la estructura de la base
+
+[Diego Serrano] 19:37:09
+un laboratorio
+
+[Diego Serrano] 19:37:10
+Usar las herramientas de línea de comando
+
+[Diego Serrano] 19:37:12
+Siempre les conviene porque la carpeta completa es parte del contexto
+
+[Diego Serrano] 19:37:16
+Y el modelo que usen no importa que modelo usen, vas a ver qué archivo fijarse o donde fijarse para
+
+[Diego Serrano] 19:37:23
+Buscar las respuestas a partir de que lo diga si ustedes dicen que necesito un nuevo
+
+[Diego Serrano] 19:37:28
+Y es
+
+[Diego Serrano] 19:37:28
+Que hace, se fijan dice hay un package punto xo, no sé qué
+
+[Diego Serrano] 19:37:33
+Encuentro
+
+[Diego Serrano] 19:37:34
+O que una aplicación express busca el router y ya busca el archivo involucrado y lo lees solo automáticamente sin que ustedes digan nada
+
+[Diego Serrano] 19:37:42
+Siempre va a ser mucho mejor usar herramientas de líneas de comandos
+
+[Diego Serrano] 19:37:45
+Para todo, ¿
+
+[Diego Serrano] 19:37:47
+Abren la guía de comando y entran a la carpeta de descargas y le dicen organizarme la carpeta de descargas y se van y vuelven y ya está hecho
+
+[Diego Serrano] 19:37:55
+Siempre va a ser esto así
+
+[Diego Serrano] 19:37:56
+O por lo menos este año
+
+[Diego Serrano] 19:37:59
+francisco el codex de Champ si pero cuánto te cuesta un huevazo
+
+[Diego Serrano] 19:38:04
+y no programa mejor que club
+
+[Diego Serrano] 19:38:09
+Entonces.
+
+[Diego Serrano] 19:38:11
+Si alguien les paga codex
+
+[Diego Serrano] 19:38:13
+Anda lindo también, o sea, gratis está hermoso, ¿no?
+
+[Diego Serrano] 19:38:16
+pero si hay que pagar no
+
+[Diego Serrano] 19:38:19
+y si no van a pagar si no tienen para pagar usen open con que es una bestia
+
+[Diego Serrano] 19:38:25
+Pero sí
+
+[Diego Serrano] 19:38:27
+tienen que ir aprendiendo este tipo de cosas
+
+[Diego Serrano] 19:38:29
+Ehm
+
+[Diego Serrano] 19:38:32
+Black Box no sé qué es.
+
+[Diego Serrano] 19:38:44
+Estoy viendo
+
+[Diego Serrano] 19:38:52
+Any age of the mother, bueno, habría que probar. No, no, nunca está de más probar, sí, el tema es que hay que ver el
+
+[Diego Serrano] 19:39:01
+E
+
+[Diego Serrano] 19:39:01
+¿Cuánto cuesta?
+
+[Diego Serrano] 19:39:08
+I
+
+[Diego Serrano] 19:39:11
+Yeah.
+
+[Diego Serrano] 19:39:12
+A
+
+[Diego Serrano] 19:39:17
+No tiene ni una semanita
+
+[Diego Serrano] 19:39:20
+Con una semana free se les alcanza para
+
+[Diego Serrano] 19:39:23
+But.
+
+[Diego Serrano] 19:39:24
+Go ahead.
+
+[Diego Serrano] 19:39:27
+sales alcanzaría para ser parcial
+
+[Diego Serrano] 19:39:31
+No sé, no veo nada fría acá, ¿e
+
+[92549 Páez Nahuel Agustín] 19:39:36
+Creo que si tienen profe free
+
+[Diego Serrano] 19:39:39
+No veo.
+
+[84046 Liaudat Federico] 19:39:39
+Sí, igual seguramente ustedes ponen la tarjeta y después
+
+[84046 Liaudat Federico] 19:39:43
+They would deliver
+
+[Diego Serrano] 19:39:43
+Yeah.
+
+[Diego Serrano] 19:39:44
+Sí, puede ser, no sé, bueno.
+
+[Diego Serrano] 19:39:48
+improprising que me dice
+
+[Diego Serrano] 19:39:53
+No me, no me da
+
+[Diego Serrano] 19:39:57
+Está bien, pero si la la prueba de 10 de $10 me da $10 con los últimos modelos
+
+[Diego Serrano] 19:40:03
+Sí,
+
+[Diego Serrano] 19:40:04
+10 dólares con los dicen los últimos modestos
+
+[Diego Serrano] 19:40:10
+diez dólares con con los últimos modelos son media hora
+
+[Diego Serrano] 19:40:15
+Si lo comen en un ratito
+
+[Diego Serrano] 19:40:17
+dice un limited free agent con mini max que es otro modelo
+
+[Diego Serrano] 19:40:25
+Because
+
+[Diego Serrano] 19:40:26
+Si no, en serio, de verdad, Open Code es gratis gratis))
+
+[Diego Serrano] 19:40:38
+Vengo realmente una lindo tiene modelos gratis
+
+[Diego Serrano] 19:40:40
+Copado que andan bastante bien
+
+[Diego Serrano] 19:40:42
+Y además pueden
+
+[Diego Serrano] 19:40:44
+De ahí mismo
+
+[Diego Serrano] 19:40:45
+Cargar la clave que tengan
+
+[Diego Serrano] 19:40:47
+De algún otro modelo y y onda
+
+[Diego Serrano] 19:40:52
+¿Cómo abrirlo y ahora sí abrir el chat
+
+[Diego Serrano] 19:40:55
+El chat, ¿cómo el chat?
+
+[Diego Serrano] 19:40:57
+Pero se descarga o qué es? ¿O esto corre
+
+[Diego Serrano] 19:41:02
+le das
+
+[Diego Serrano] 19:41:03
+la URL de tu guitar o algo así para que leas código, lo importante es eso, no
+
+[Diego Serrano] 19:41:07
+Que no sea un chat que bueno
+
+[Diego Serrano] 19:41:10
+To get siguen renegaron, yo no se lo voy a
+
+[Diego Serrano] 19:41:13
+A prohibir no si si
+
+[Diego Serrano] 19:41:15
+Pero
+
+[Diego Serrano] 19:41:17
+pero bueno
+
+[Diego Serrano] 19:41:18
+Va vaya buscando herramientas mejores si
+
+[Diego Serrano] 19:41:24
+Claro, eso, eso, Rodrigo, necesita una versión de línea de comando de esto de la
+
+[Diego Serrano] 19:41:30
+Cualquier versión de esto
+
+[Diego Serrano] 19:41:32
+Claro se descarga lo local sí y y entonces
+
+[Diego Serrano] 19:41:38
+uno abre open code en una carpeta y con la carpeta que ustedes tienen la carpeta de trabajo
+
+[Diego Serrano] 19:41:43
+Y ahí sale solo se da cuenta que archivos leer ahí donde está la gran ventaja
+
+[Diego Serrano] 19:41:49
+y y y open con los modelos gratuitos andan bien, andan realmente bien
+
+[Diego Serrano] 19:41:53
+Para lo que ustedes tienen que hacer
+
+[Diego Serrano] 19:41:57
+pero bueno hagan eso sí agarren
+
+[Diego Serrano] 19:42:01
+Abran dos proyectos
+
+[Diego Serrano] 19:42:03
+un proyecto back
+
+[Diego Serrano] 19:42:05
+De los que hemos dejado en materias adicionales le borran los sendos y empiezan a programar, agarra unos front
+
+[Diego Serrano] 19:42:10
+Lo que dejamos por ahí y la
+
+[Diego Serrano] 19:42:12
+Es todo
+
+[84046 Liaudat Federico] 19:42:14
+Profe, perdón,
+
+[Diego Serrano] 19:42:15
+límite de uso en Code open code creo que tenía, tiene
+
+[84046 Liaudat Federico] 19:42:16
+Good.
+
+[Diego Serrano] 19:42:21
+Gratis gratis gratis cincuenta
+
+[Diego Serrano] 19:42:23
+chats poro por día
+
+[Diego Serrano] 19:42:26
+Sí
+
+[Diego Serrano] 19:42:28
+Es un montón cincuenta
+
+[Diego Serrano] 19:42:30
+De verdad que un montón
+
+[Diego Serrano] 19:42:33
+Sí,
+
+[84046 Liaudat Federico] 19:42:36
+Eso habilitado por preguntas yo también, si tenía algún límite y otra que recomendarías directamente tener el visual, digamos, ir desarrollando en un lado y el otro lado y preguntándole al Open con la carpeta del TP abierta, sería
+
+[Diego Serrano] 19:42:46
+Abierta
+
+[Diego Serrano] 19:42:49
+Sí, sí.
+
+[Diego Serrano] 19:42:59
+dios YouTube tiene
+
+[Diego Serrano] 19:43:01
+En realidad, si el Visual Studio abrir la terminal y jamás hay open code, tendrías todo junto.
+
+[Diego Serrano] 19:43:07
+I
+
+[Diego Serrano] 19:43:09
+Listo, no sé si, a ver
+
+[402234 Facu] 19:43:11
+Profe, lo de Open Code sería como
+
+[402234 Facu] 19:43:14
+O sea que aquí estaba viendo que en uno de los
+
+[402234 Facu] 19:43:17
+los comandos
+
+[402234 Facu] 19:43:20
+y está el Open Code
+
+[Diego Serrano] 19:43:20
+open code tiene
+
+[Diego Serrano] 19:43:23
+open code tiene, tiene
+
+[402234 Facu] 19:43:30
+O sea, me refiero
+
+[Diego Serrano] 19:43:30
+Claro, él dice, no, dice sí, abrí la terminal y abrir la terminal de ahí adentro y ya mal te dice
+
+[Diego Serrano] 19:43:36
+Claro
+
+[Diego Serrano] 19:43:37
+No es más que eso
+
+[402234 Facu] 19:43:40
+Sí,
+
+[Diego Serrano] 19:43:40
+No sé que te interrumpí mientras yo leía lo de la instalación, sí,
+
+[402234 Facu] 19:43:43
+No, sí, este, no, o sea, sería más o menos como que para cada proyecto instalas Open Code para ese proyecto, una cosa así
+
+[Diego Serrano] 19:43:52
+No, no, no, bonita en, en la máquina
+
+[Diego Serrano] 19:43:54
+Y después una instalar y ya te queda en la línea de comandos de la máquina, el comando
+
+[Diego Serrano] 19:44:00
+Entonces vos después abrís mira a ver
+
+[Diego Serrano] 19:44:02
+Voy a abrir el visual a ver
+
+[Diego Serrano] 19:44:07
+y les muestro
+
+[Diego Serrano] 19:44:36
+Creo que
+
+[Diego Serrano] 19:44:39
+Bueno, ahí está sí
+
+[Diego Serrano] 19:44:40
+Lo que tengo acá es quedó abierto de la semana pasada, el
+
+[Diego Serrano] 19:44:45
+El
+
+[Diego Serrano] 19:44:47
+Se acuerdan lo que vimos de
+
+[Diego Serrano] 19:44:52
+Sí, se quedó abierto el mismo proyecto la semana pasada
+
+[Diego Serrano] 19:44:55
+Sí, ah bueno no arranca pues no no
+
+[Diego Serrano] 19:44:57
+Arranqué
+
+[Diego Serrano] 19:44:58
+No arranque el el
+
+[Diego Serrano] 19:45:01
+El reacto
+
+[Diego Serrano] 19:45:03
+Pero de acá mismo voy a abrir una terminal
+
+[Diego Serrano] 19:45:09
+Sí, a ver, le voy a decir open.
+
+[Diego Serrano] 19:45:18
+Sí, y le voy a preguntar qué hace este proyecto?
+
+[Diego Serrano] 19:45:22
+But
+
+[Diego Serrano] 19:45:23
+That
+
+[Diego Serrano] 19:45:31
+Sí, veía que les dice cuánta plata les va diciendo cuánta plata van gastando
+
+[Diego Serrano] 19:45:36
+Sí,
+
+[Diego Serrano] 19:45:36
+como tengo acá un modelo gratis
+
+[Diego Serrano] 19:45:40
+Buttico para la materia de ese
+
+[Diego Serrano] 19:45:45
+Que demuestra los
+
+[84046 Liaudat Federico] 19:45:49
+Profe, culpa tenés tensión para instalarlo o como hiciste? Porque no me sale a mí con Open Code
+
+[Diego Serrano] 19:45:55
+¿Qué cosa?
+
+[Diego Serrano] 19:45:56
+No, en la terminal, esta es la, el shell
+
+[Diego Serrano] 19:45:59
+Esto es la terminal del
+
+[Diego Serrano] 19:46:00
+sistema operativo
+
+[402234 Facu] 19:46:03
+¿Con qué comando lo inicializó?
+
+[Diego Serrano] 19:46:06
+You open code.
+
+[Diego Serrano] 19:46:08
+Se cierra con control C
+
+[Diego Serrano] 19:46:09
+They could be open code.
+
+[Diego Serrano] 19:46:14
+Listop.
+
+[402234 Facu] 19:46:16
+And
+
+[Diego Serrano] 19:46:18
+tiene que instalarlo primero en la computadora, ¿no?
+
+[Diego Serrano] 19:46:22
+Pero solo eso, ¿no? Y, y
+
+[Diego Serrano] 19:46:25
+Vieron que no le dije nada, simplemente le dije que qué es lo que hay acá y se pone a leer esa carpeta.
+
+[Diego Serrano] 19:46:34
+Esto, changos, por Dios.
+
+[Diego Serrano] 19:46:36
+nunca más usen
+
+[Diego Serrano] 19:46:38
+hay un
+
+[Diego Serrano] 19:46:41
+Allá por la interfaz web
+
+[Diego Serrano] 19:46:42
+E
+
+[Diego Serrano] 19:46:43
+ustedes acá se van a ver
+
+[Diego Serrano] 19:46:46
+A cualquier carpeta que tengan con
+
+[Diego Serrano] 19:46:50
+A ver apuntes de la facultad bien
+
+[Diego Serrano] 19:46:55
+Me voy a venir a
+
+[Diego Serrano] 19:47:02
+apuntes
+
+[Diego Serrano] 19:47:03
+Sí,
+
+[Diego Serrano] 19:47:04
+Ahí tengo los apuntes de la materia
+
+[Diego Serrano] 19:47:16
+Entonces le voy a decir haceme un resumen de la
+
+[Diego Serrano] 19:47:20
+del
+
+[Diego Serrano] 19:47:21
+Apunte 4
+
+[Diego Serrano] 19:47:30
+Sí, entonces ahí le dé el PDF, ah no, este no
+
+[Diego Serrano] 19:47:33
+A ver, ahí está
+
+[Diego Serrano] 19:47:37
+Y ahí me dice
+
+[Diego Serrano] 19:47:39
+Ahí me de la punta
+
+[Diego Serrano] 19:47:43
+Sí me dice cubre los fundamentos s s
+
+[Diego Serrano] 19:47:48
+Es decir, no, pero ni siquiera pensar en, en
+
+[Diego Serrano] 19:47:54
+¿Cómo es?
+
+[Diego Serrano] 19:47:55
+en programación cualquier cosa que tengan que hacer en la vida
+
+[Diego Serrano] 19:47:59
+Usar herramientas de programación como esta
+
+[Diego Serrano] 19:48:02
+Ni hablar si tienen guita para pagar
+
+[Diego Serrano] 19:48:04
+Claucodexo
+
+[Diego Serrano] 19:48:06
+pero para cualquier cosa que tengas en la vida decir che tengo que no sé
+
+[Diego Serrano] 19:48:11
+Emm
+
+[Diego Serrano] 19:48:14
+Tengo un Excel con los gastos de la semana o del mes. Le dicen, che, a ver, haceme
+
+[Diego Serrano] 19:48:19
+Agarré el Excel fijate que es lo que tiene y listo
+
+[Diego Serrano] 19:48:23
+Sí,
+
+[Diego Serrano] 19:48:24
+And
+
+[Diego Serrano] 19:48:25
+Olvídense en la vida
+
+[Diego Serrano] 19:48:28
+volver a usar un chat por la web
+
+[Diego Serrano] 19:48:32
+That
+
+[Diego Serrano] 19:48:37
+Fíjense que si me funciona hoy no hice cincuenta preguntas en esta computadora
+
+[Diego Serrano] 19:48:41
+o con esta cuenta
+
+[Diego Serrano] 19:48:43
+el día
+
+[Diego Serrano] 19:48:45
+Pero sí, no, no, no.
+
+[Diego Serrano] 19:48:47
+ni de casualidad se pongan a pensar en volver a usar las interfaces web
+
+[Diego Serrano] 19:48:52
+A mí lo que tenga que preguntarme en qué año se fundó esta ciudad? O sea, tiene que hacer una búsqueda en la web, una búsqueda en internet, bueno, puede ser mas comodo
+
+[Diego Serrano] 19:49:01
+Usar la la interfaz web pero si no
+
+[Diego Serrano] 19:49:03
+Herramamiento de promoción
+
+[Diego Serrano] 19:49:05
+Sí,
+
+[Diego Serrano] 19:49:09
+No porque estoy en Linux
+
+[Diego Serrano] 19:49:12
+Entra a la página
+
+[Diego Serrano] 19:49:14
+En la página de Open Code te vas a la lista
+
+[Diego Serrano] 19:49:18
+OpenCode.com será, no sé que la, no sé la
+
+[Diego Serrano] 19:49:23
+No sé la, la, a ver.
+
+[Diego Serrano] 19:49:26
+Opencol.ai
+
+[Diego Serrano] 19:49:29
+your door
+
+[Diego Serrano] 19:49:31
+just say, pero
+
+[Diego Serrano] 19:49:33
+Le enseñaron a leer en la primaria.
+
+[Diego Serrano] 19:49:37
+No, no, no.
+
+[Diego Serrano] 19:49:41
+ustedes van a ser ingenieros, no me jodan
+
+[Diego Serrano] 19:49:45
+Sí,
+
+[Diego Serrano] 19:49:47
+Entonces
+
+[Diego Serrano] 19:49:52
+Ahí
+
+[Diego Serrano] 19:49:56
+Fíjense, ahí dice como, ah no, pero eso no es la instalación, perdón.
+
+[Diego Serrano] 19:50:00
+¿Cómo se instala esto? A ver
+
+[Diego Serrano] 19:50:07
+E
+
+[Diego Serrano] 19:50:12
+Instal sí con no está bien lo que pusieron ahí arriba con no, sí
+
+[Diego Serrano] 19:50:16
+No, no, no, no, está bien, no, no, no, pero igual como dijeron ahí recién con
+
+[Diego Serrano] 19:50:21
+Con con node
+
+[Diego Serrano] 19:50:24
+Y si no Windows dice, ah, con chocolate
+
+[Diego Serrano] 19:50:30
+Ehm
+
+[Diego Serrano] 19:50:35
+Si, si usan Windows así
+
+[Diego Serrano] 19:50:38
+man.
+
+[Diego Serrano] 19:50:40
+Así
+
+[Diego Serrano] 19:51:06
+no, ah, no, no, no debe, no tiene que instalar ninguna extensión visual
+
+[Diego Serrano] 19:51:11
+capaz que tengan ahora alguna extension
+
+[Diego Serrano] 19:51:14
+Porque dice IDE
+
+[Diego Serrano] 19:51:18
+ah no no dice arrancarlo desde la terminal no no no no hay ninguna
+
+[Diego Serrano] 19:51:23
+A ver
+
+[Diego Serrano] 19:51:27
+Sí, no, no, dice que abrí la terminal y arrancaron de ahí
+
+[Diego Serrano] 19:51:32
+Pero sí en Windows está en lo así con con con choco
+
+[Diego Serrano] 19:51:35
+Y
+
+[Diego Serrano] 19:51:42
+Y listo, no, parece que acá complementos desde acá no, no les hace falta
+
+[Diego Serrano] 19:51:48
+No sé si ahora
+
+[Diego Serrano] 19:51:50
+Y si ahora no debe ser oficial
+
+[Diego Serrano] 19:51:52
+Claro, como lo que dice Lucas, ustedes tienen NPM porque lo usan para programar con, con Node, entonces directamente
+
+[Diego Serrano] 19:51:59
+Y si no, miren, acá hay un open code
+
+[Diego Serrano] 19:52:03
+Pero esto no hay que ver quién lo hizo.
+
+[Diego Serrano] 19:52:11
+And
+
+[Diego Serrano] 19:52:13
+That
+
+[Diego Serrano] 19:52:14
+Sí, no, no, no sé si será de
+
+[Diego Serrano] 19:52:16
+Del mismo autor que Open Code, ¿no?
+
+[Diego Serrano] 19:52:20
+Lo ha hecho cualquier
+
+[Diego Serrano] 19:52:21
+Pero
+
+[Diego Serrano] 19:52:36
+capaz que alguno de estos ande
+
+[Diego Serrano] 19:52:40
+Pero como les digo, esto es más cómodo, listo, y acá le dicen
+
+[Diego Serrano] 19:53:02
+Les digo más, yo no sé qué tanto usan ustedes de inteligencia artificial en la vida cotidiana
+
+[Diego Serrano] 19:53:25
+Ahí está, bueno, a ver, lo que dice Francisco es importantísimo. Para estudiar notebook lm
+
+[Diego Serrano] 19:53:31
+Regla regla número uno
+
+[Diego Serrano] 19:53:33
+Sí,
+
+[Diego Serrano] 19:53:34
+Importantísimo
+
+[Diego Serrano] 19:53:37
+E
+
+[Diego Serrano] 19:53:43
+Recomendación
+
+[Diego Serrano] 19:53:46
+Para todo el mundo, esto está este link que les mando acá
+
+[Diego Serrano] 19:53:50
+Ehm
+
+[Diego Serrano] 19:53:52
+Eso, eso antes de seguir bolodeando con chat GPT, agarran eso primero
+
+[Diego Serrano] 19:53:57
+Y boludear en general con cualquier interfaz web
+
+[Diego Serrano] 19:54:00
+Sí,
+
+[Diego Serrano] 19:54:02
+léanse SPDF
+
+[Diego Serrano] 19:54:04
+Por lo menos la primera mitad del PDF
+
+[Diego Serrano] 19:54:06
+Y
+
+[Diego Serrano] 19:54:07
+Y realmente es la clave y lo que dice ahí en, en ese P D F les habla de
+
+[Diego Serrano] 19:54:13
+Bien, Valentina, control C
+
+[Diego Serrano] 19:54:16
+Simplemente tocas control C y se co, y sale
+
+[Diego Serrano] 19:54:20
+Ese PDF que es cuando hay
+
+[Diego Serrano] 19:54:25
+En serio, lean lo el PDF se les dice
+
+[Diego Serrano] 19:54:29
+No son ratas paguen cloud.
+
+[Diego Serrano] 19:54:32
+Si yo les digo.
+
+[Diego Serrano] 19:54:32
+No hay problema con que sean ratas usen open code
+
+[Diego Serrano] 19:54:37
+Como como como
+
+[Diego Serrano] 19:54:38
+Alternativa de cloud code
+
+[Diego Serrano] 19:54:40
+Sí, pero todo lo que enseña ahí
+
+[Diego Serrano] 19:54:44
+realmente
+
+[Diego Serrano] 19:54:46
+Emm
+
+[Diego Serrano] 19:54:47
+es que es lo que es si está igual
+
+[Diego Serrano] 19:54:50
+I
+
+[Diego Serrano] 19:54:53
+Y
+
+[Diego Serrano] 19:54:58
+Y, y háganle caso, en serio, sí, todo eso, pero como les digo, no, no, no salgan lo que dice, lo que dice el apunte, ese es
+
+[Diego Serrano] 19:55:05
+Macho, la, la cuenta básica de Open
+
+[Diego Serrano] 19:55:08
+de de visual de cloud
+
+[Diego Serrano] 19:55:11
+cuesta lo mismo que Netflix inglés no lo va a dar de baja pero esto
+
+[Diego Serrano] 19:55:16
+es mucho más importante
+
+[Diego Serrano] 19:55:18
+E
+
+[Diego Serrano] 19:55:21
+Yeah, see.
+
+[Diego Serrano] 19:55:22
+Pero nada igual igual más allá de eso practiquen todo lo que dice ahí, pero con
+
+[Diego Serrano] 19:55:28
+a
+
+[Diego Serrano] 19:55:29
+I've been gone y listo.
+
+[Diego Serrano] 19:55:31
+y listo y realmente la diferencia es abismal
+
+[Diego Serrano] 19:55:35
+Como les digo, no solo por programar
+
+[Diego Serrano] 19:55:37
+Sí.
+
+[Diego Serrano] 19:55:38
+Agarren, agarren, yo no sé si hay
+
+[Diego Serrano] 19:55:42
+Agarren
+
+[Diego Serrano] 19:55:43
+Los PDF de cualquier materia agarran los apuntes de diseño y sistemas
+
+[Diego Serrano] 19:55:48
+Conviertan los de PDF a la markdown a formato markdown
+
+[Diego Serrano] 19:55:53
+y tirenlos a una carpeta y ahora no pen code y ahí le preguntan lo que sea y
+
+[Diego Serrano] 19:55:57
+tall.
+
+[Diego Serrano] 19:55:59
+fuente de información hay muy bien la pregunta, Marcos, es imposible
+
+[Diego Serrano] 19:56:05
+Es es imposible tener una fuente
+
+[Diego Serrano] 19:56:07
+razonable confiable y que encima uno
+
+[Diego Serrano] 19:56:10
+Un uno pone, uno ponga
+
+[Diego Serrano] 19:56:14
+Ehh
+
+[Diego Serrano] 19:56:16
+que uno lo puede leer a un ritmo razonable, hay tantísima información
+
+[Diego Serrano] 19:56:22
+,
+
+[Diego Serrano] 19:56:23
+It's
+
+[Diego Serrano] 19:56:25
+inconmensurable que de formación que que aparece diariamente
+
+[Diego Serrano] 19:56:28
+Que encima cuesta poder filtrar cuál es verdad y cuáles verso
+
+[Diego Serrano] 19:56:35
+Es súper difícil y realmente les digo yo mismo en el laburo nos volvemos locos
+
+[Diego Serrano] 19:56:40
+En el laburo tenemos
+
+[Diego Serrano] 19:56:41
+Tenemos a íntegro un equipo de que se llama de innovación
+
+[Diego Serrano] 19:56:46
+Y no y ahí hay meses que nos volvemos locos decimos no podemos leer todo lo que sale cada día
+
+[Diego Serrano] 19:56:51
+Es un desastre imposible
+
+[Diego Serrano] 19:56:55
+sí es difícil hay demasiada información por todos lados no hay como seguirle
+
+[Diego Serrano] 19:57:00
+El camino, sí, el
+
+[Diego Serrano] 19:57:03
+El ritmo hay tantísimas cosas que aparecen todos los días, ustedes sabrán
+
+[Diego Serrano] 19:57:08
+Habrán visto por todos lados en YouTube, las redes que ustedes miran
+
+[Diego Serrano] 19:57:14
+Que sale en todo el mundo hablando de agents y hay mil cosas de de de agentes y al final uno sabe que no es que es verso y que no
+
+[Diego Serrano] 19:57:21
+Lamentablemente muy difícil
+
+[Diego Serrano] 19:57:23
+Filtra
+
+[Diego Serrano] 19:57:23
+Sí,
+
+[Diego Serrano] 19:57:28
+Yo les recomiendo empezar por esto que les pase acá, sí, es decir.
+
+[Diego Serrano] 19:57:31
+Olvidarse de los chats web
+
+[Diego Serrano] 19:57:34
+usar
+
+[Diego Serrano] 19:57:36
+usar los, los, las, los.
+
+[Diego Serrano] 19:57:39
+los de línea de comandos, las herramientas de programación, aunque no estén programa
+
+[Diego Serrano] 19:57:43
+Sí
+
+[Diego Serrano] 19:57:44
+El día que la peguen y puedan pagarse no sé una suscripción de
+
+[Diego Serrano] 19:57:49
+De de Anthropic use
+
+[Diego Serrano] 19:57:51
+Es cara pero bueno el día que la o de curso, ni hablar no
+
+[Diego Serrano] 19:57:56
+Curso también están dando muy bien muy bien, muy, muy, muy
+
+[Diego Serrano] 19:57:58
+Muy bien.
+
+[Diego Serrano] 19:57:59
+E
+
+[Diego Serrano] 19:58:00
+Listo, y la usan para todo, en serio, para cualquier cosa
+
+[Diego Serrano] 19:58:05
+It
+
+[Diego Serrano] 19:58:07
+Como les digo, para ni hablar, registrar los gastos
+
+[Diego Serrano] 19:58:13
+Lo que fuera
+
+[Diego Serrano] 19:58:14
+Sí,
+
+[Diego Serrano] 19:58:15
+por ejemplo, a ver, no sé, mire
+
+[Diego Serrano] 19:58:18
+Ahí dice, dice
+
+[Diego Serrano] 19:58:21
+Dice
+
+[Diego Serrano] 19:58:25
+Qué bueno, faculo, que pases ahí, está bueno, sí, es cierto
+
+[Diego Serrano] 19:58:30
+Habría que leerlo y está bueno el tema de que de que hay riesgos es real y es muy importante
+
+[Diego Serrano] 19:58:36
+considerarlo
+
+[Diego Serrano] 19:58:37
+Mira, vamos a hacer así, me voy a ir a
+
+[Diego Serrano] 19:58:41
+Lo que dice Rodrigo está bueno
+
+[Diego Serrano] 19:58:43
+Voy a ir a ejercicios
+
+[Diego Serrano] 19:58:48
+I'll say, semana 10
+
+[Diego Serrano] 19:58:52
+3 a 4
+
+[Diego Serrano] 19:58:54
+Sí, ¿qué hicimos en la semana 10, prueba 1, ¿qué será
+
+[Diego Serrano] 19:59:01
+A ver.
+
+[Diego Serrano] 19:59:03
+Espero que no sea algo muy chiquito, ¿no?
+
+[Diego Serrano] 19:59:06
+Ah, el de la lista de materias, qué sé yo, bueno, listo, open code
+
+[Diego Serrano] 19:59:12
+Sí,
+
+[Diego Serrano] 19:59:14
+Pregunta, no sé si están viendo el chat, pregunta Rodrigo, ¿cómo hacen la documentación? Sí, porque
+
+[Diego Serrano] 19:59:21
+escribir que hace el código línea a línea obviamente no es una documentación que sirva porque
+
+[Diego Serrano] 19:59:27
+Puede ser demasiado detallada y el que tiene que leer documentación necesita primero saber de qué se trata el sistema, qué es lo que hace, cómo lo hace
+
+[Diego Serrano] 19:59:34
+Sí,
+
+[Diego Serrano] 19:59:35
+Entonces, mira, abrió prengo y le digo documenta me
+
+[Diego Serrano] 19:59:40
+Esto
+
+[Diego Serrano] 19:59:50
+Sí, y ahí se pone a leer que, que lo que hay
+
+[Diego Serrano] 20:00:03
+many dice poner a documentar y va a escribir el rítmi del proyecto
+
+[Diego Serrano] 20:00:09
+Y ahí lo escribió
+
+[Diego Serrano] 20:00:13
+ahorita
+
+[Diego Serrano] 20:00:32
+el tema que
+
+[Diego Serrano] 20:00:34
+Lo cargo en él, no sé si lo puso en el
+
+[Diego Serrano] 20:00:38
+Porque acá tengo el back
+
+[Diego Serrano] 20:00:41
+Y aquí tengo el front, no tengo frontete
+
+[Diego Serrano] 20:00:44
+Si hay
+
+[Diego Serrano] 20:00:45
+A
+
+[Diego Serrano] 20:00:56
+Sí, sí, es esto lo que escribió, venía y escribió la documentación
+
+[Diego Serrano] 20:01:00
+Si hacemos el preview de esto
+
+[Diego Serrano] 20:01:17
+later.
+
+[Diego Serrano] 20:01:18
+Y armó esto, le hizo el código
+
+[Diego Serrano] 20:01:20
+Claro.
+
+[Diego Serrano] 20:01:22
+Ve y ahí por lo menos
+
+[Diego Serrano] 20:01:25
+obviamente, después uno lo
+
+[Diego Serrano] 20:01:27
+Le puede decir ahí también las demos no
+
+[Diego Serrano] 20:01:31
+A
+
+[Diego Serrano] 20:01:34
+Sí y orden recomendado en guía docente punto M D que no sé dónde está no sé si ahí está
+
+[Diego Serrano] 20:01:41
+Sí, no sé
+
+[Diego Serrano] 20:01:44
+No me escribió el archivo guía docente
+
+[Diego Serrano] 20:01:47
+Ven.
+
+[Diego Serrano] 20:01:55
+No escribió ese archivo guía docente
+
+[Diego Serrano] 20:01:59
+Irreglaba.
+
+[Diego Serrano] 20:02:01
+No escribiste
+
+[Diego Serrano] 20:02:03
+de el archivo
+
+[Diego Serrano] 20:02:06
+Yeah, the
+
+[Diego Serrano] 20:02:07
+Sente
+
+[Diego Serrano] 20:02:08
+punto M D acá me recomienda eso porque yo tengo
+
+[Diego Serrano] 20:02:12
+Lo tengo configurado para que en esta carpeta me ayude a planificar y todo eso, entonces me dice estoy escribir
+
+[Diego Serrano] 20:02:18
+Pero no me lo escribió?
+
+[Diego Serrano] 20:02:39
+I se confundió
+
+[Diego Serrano] 20:02:50
+But
+
+[Diego Serrano] 20:02:55
+And
+
+[Diego Serrano] 20:02:56
+I believe me prometiste
+
+[Diego Serrano] 20:03:01
+existe un archivo
+
+[Diego Serrano] 20:03:02
+Yeah.
+
+[Diego Serrano] 20:03:06
+Docente
+
+[Diego Serrano] 20:03:28
+Y mi pregunta que quiero que ponga
+
+[Diego Serrano] 20:03:34
+And
+
+[Diego Serrano] 20:03:37
+Entonces
+
+[Diego Serrano] 20:03:39
+E
+
+[Diego Serrano] 20:03:41
+Este tipo de herramientas son tremendas comparado con otra
+
+[Diego Serrano] 20:03:48
+Fago te dice, te mando a Géminis, mira, tené que poner acá
+
+[Diego Serrano] 20:03:52
+Se me fue el cursor
+
+[Diego Serrano] 20:03:59
+But
+
+[Diego Serrano] 20:04:02
+¿A qué le pones?
+
+[Diego Serrano] 20:04:04
+I thought
+
+[Diego Serrano] 20:04:06
+El comando models
+
+[Diego Serrano] 20:04:10
+Sí, y ahí dice que qué modelo usar y dice cuáles son gratis y cuáles son pagos. Yo tengo acá cargué la cuenta del copilot mía
+
+[Diego Serrano] 20:04:19
+Entonces ahí dijo cuál y me ahí sí me va a costar plata
+
+[Diego Serrano] 20:04:22
+Si no dejo el, el gratis y
+
+[Diego Serrano] 20:04:24
+Si uno acá se connect
+
+[Diego Serrano] 20:04:29
+Connect
+
+[Diego Serrano] 20:04:30
+Sí,
+
+[Diego Serrano] 20:04:30
+Ahí pide y ahí dice bueno con quién te quieres conectar entonces según
+
+[Diego Serrano] 20:04:35
+¿Qué suscripción tengamos? Ahí uno elige y ahí pasa un proceso de autenticación
+
+[Diego Serrano] 20:04:40
+Sí,
+
+[Diego Serrano] 20:04:41
+si te si te manda gémini capaz que quiso conectarte acá Google
+
+[Diego Serrano] 20:04:45
+Lo desmarcás o algo así y si no le dejas solamente este que tiene que estar por defecto ahí
+
+[Diego Serrano] 20:04:53
+Y ese no pide login o te podés loguear
+
+[Diego Serrano] 20:04:57
+Y es gratis
+
+[Diego Serrano] 20:04:58
+Pero no, no debería
+
+[Diego Serrano] 20:05:00
+Pero sí, con
+
+[Diego Serrano] 20:05:05
+no sé porque te dice, porque te habrá querido mandar primero a Gémini
+
+[Diego Serrano] 20:05:09
+the
+
+[Diego Serrano] 20:05:09
+De verdad que no lo
+
+[Diego Serrano] 20:05:11
+Pero sí, con eso, así con esos 2 comandos
+
+[Diego Serrano] 20:05:15
+Connect primero
+
+[Diego Serrano] 20:05:16
+y después
+
+[Diego Serrano] 20:05:18
+models
+
+[Diego Serrano] 20:05:19
+I elegí con cual modelo usar. Cuando estan con una suscripción paga y algunos modelos más baratos que otros, entonces
+
+[Diego Serrano] 20:05:25
+Ahí les conviene bueno
+
+[Diego Serrano] 20:05:28
+Usar el más barato al principio y el más complejo, el más caro cuando tiene que hacer algo muy muy complejo
+
+[Diego Serrano] 20:05:34
+Ahí lo van viendo
+
+[Diego Serrano] 20:05:35
+Pero y si usan uno uno
+
+[Diego Serrano] 20:05:39
+But les va diciendo cuánto estaban gastando
+
+[Diego Serrano] 20:05:46
+pero si estas herramientas en serio.
+
+[Diego Serrano] 20:05:48
+Pero incluso para cualquier, cualquier situación de la vida real también, si no se me ocurre ahora a ver qué puedo
+
+[Diego Serrano] 20:05:55
+Emm
+
+[Diego Serrano] 20:05:57
+Tendría entonces buscar un archivo txt con una planilla o un listado de personas o algo así
+
+[Diego Serrano] 20:06:05
+Ehm
+
+[Diego Serrano] 20:06:10
+A ver si encuentro algo que pueda ser
+
+[Diego Serrano] 20:07:28
+A ver.
+
+[Diego Serrano] 20:07:29
+I mean, voy a buscar algo acá en
+
+[Diego Serrano] 20:07:33
+Algo de la uve
+
+[Diego Serrano] 20:07:50
+Alright, estoy entrando a la V, no la están viendo, sí les cuento, estoy entrando a la V
+
+[Diego Serrano] 20:07:55
+Voy a exportar
+
+[Diego Serrano] 20:07:58
+Todo el, el, todo este curso, sí, los
+
+[Diego Serrano] 20:08:03
+A ver
+
+[Diego Serrano] 20:08:25
+Voy a descargar
+
+[Diego Serrano] 20:08:30
+Voy a descargar
+
+[Diego Serrano] 20:08:32
+La inscripción de este curso, ¿sí?
+
+[Diego Serrano] 20:08:35
+Inscriptos lo voy a llamar script
+
+[Diego Serrano] 20:08:38
+2
+
+[Diego Serrano] 20:08:40
+3 a 4
+
+[Diego Serrano] 20:08:47
+Entonces
+
+[Diego Serrano] 20:08:56
+Okay.
+
+[Diego Serrano] 20:08:59
+Mira.
+
+[Diego Serrano] 20:09:00
+Acá tengo solamente la lista de inscriptos de todos ustedes
+
+[Diego Serrano] 20:09:03
+Sí, y me dicen que grupos están
+
+[Diego Serrano] 20:09:09
+Qué cosa? No, no
+
+[Diego Serrano] 20:09:11
+No, no, no, no, el porcentaje que ves a la izquierda que ves abajo, ese es el tamaño del
+
+[Diego Serrano] 20:09:18
+De la ventana de contexto
+
+[Diego Serrano] 20:09:25
+Vieron que hablan modelos de un medio de un millón de tokens? Los gratis acá son los gratis de OpenCo
+
+[Diego Serrano] 20:09:31
+Son
+
+[Diego Serrano] 20:09:33
+Más de 200
+
+[Diego Serrano] 20:09:35
+Miren, yo tengo acá la lista de todos ustedes, si tengo nombre, apellido, legajo y los grupos
+
+[Diego Serrano] 20:09:41
+Los grupos separados por comas
+
+[Diego Serrano] 20:09:43
+Sí,
+
+[Diego Serrano] 20:09:43
+Tengo eso nada más, el archivo ese archivo de texto
+
+[Diego Serrano] 20:09:46
+Entonces voy a ir Open Code
+
+[Diego Serrano] 20:09:54
+Y le voy a decir, por ejemplo, no sé,
+
+[Diego Serrano] 20:09:56
+Dame la lista
+
+[Diego Serrano] 20:09:59
+the
+
+[Diego Serrano] 20:10:00
+Incretos.
+
+[Diego Serrano] 20:10:03
+Well, casi un poquito va a haber que explicarle, no
+
+[Diego Serrano] 20:10:06
+El archivo
+
+[Diego Serrano] 20:10:09
+inscriptos
+
+[Diego Serrano] 20:10:11
+3 cada 4 tiene la lista de alumnos
+
+[Diego Serrano] 20:10:15
+las columnas son nombre
+
+[Diego Serrano] 20:10:19
+Apellido
+
+[Diego Serrano] 20:10:21
+legajo y grupos
+
+[Diego Serrano] 20:10:25
+Sí,
+
+[Diego Serrano] 20:10:28
+Dame la lista de los que
+
+[Diego Serrano] 20:10:30
+tienen un solo
+
+[Diego Serrano] 20:10:42
+Sí, entonces pone a ver, busca el archivo, lee las columnas, sí,
+
+[Diego Serrano] 20:10:46
+Y ahí me dice esto son todos los que tiene un solo grupo
+
+[Diego Serrano] 20:10:57
+Ordenada por apellido y no
+
+[Diego Serrano] 20:11:11
+I think either
+
+[Diego Serrano] 20:11:14
+Entonces
+
+[Diego Serrano] 20:11:15
+Esto
+
+[Diego Serrano] 20:11:16
+Tremendamente útil, como les digo, como les muestro acá, para cosas que no sean incluso de programación
+
+[Diego Serrano] 20:11:27
+Sí, hasta le puedo decir, bueno
+
+[Diego Serrano] 20:11:32
+generarme un PDF
+
+[Diego Serrano] 20:11:40
+what Coto acá tengo un compilador de PDF, ustedes no lo van a tener.
+
+[Diego Serrano] 20:11:43
+Pero
+
+[Diego Serrano] 20:11:50
+Ahí está bien, listo, generé alumnos sin grupo PDF en la carpeta actual
+
+[Diego Serrano] 20:11:55
+Voy a abrir
+
+[Diego Serrano] 20:12:15
+Entonces
+
+[Diego Serrano] 20:12:18
+ESE tipo de herramientas realmente
+
+[Diego Serrano] 20:12:20
+Son mucho más productivas y mucho más útiles y
+
+[Diego Serrano] 20:12:23
+Muy gratis
+
+[Diego Serrano] 20:12:25
+comparados con un chat
+
+[Diego Serrano] 20:12:27
+Sí, entonces tienen que aprender a tienen que ir acostumbrándose a utilizar estas cosas
+
+[Diego Serrano] 20:12:34
+que realmente
+
+[Diego Serrano] 20:12:36
+Van a ser muy útiles y muy les van a aumentar mucho productiva en absolutamente todo
+
+[Diego Serrano] 20:12:41
+Sí,
+
+[Diego Serrano] 20:12:42
+para programar esto obviamente tampoco se relajen decir che hace método
+
+[Diego Serrano] 20:12:47
+Veía que aprenda a programar también no
+
+[Diego Serrano] 20:12:50
+entonces entonces
+
+[Diego Serrano] 20:12:57
+Vayan haciendo, agreguen esto, digan, che, bueno, ustedes saben de
+
+[Diego Serrano] 20:13:02
+Incluso este tipo de herramientas más allá de que parezca que hacen todo
+
+[Diego Serrano] 20:13:06
+También está bueno y también es útil y práctico decir bueno a ver.
+
+[Diego Serrano] 20:13:09
+Armé todo el otro día, ah no estuvieron el otro con el otro curso
+
+[Diego Serrano] 20:13:14
+Creo que era con el otro curso
+
+[Diego Serrano] 20:13:16
+Use a programar en la clase de React y no, y había que me mandaba, y no andaba y no andaba, ¿ Y no andaba para nada hasta que le abrí el copilo y digo, ¿por qué no me anda línea 27?
+
+[Diego Serrano] 20:13:25
+Y bueno me dijo no anda
+
+[Diego Serrano] 20:13:27
+más arriba asignaste mal una variable no se que
+
+[Diego Serrano] 20:13:30
+aprovechen esas cosas sí
+
+[Diego Serrano] 20:13:34
+No no se relajen a querer que les haga todo, decir che, acá tengo el enunciado hacemelo todo, no se les va a hacer ni todo ni bien ni va a ser tan fácil
+
+[Diego Serrano] 20:13:43
+y en la vida real cuando tenga programa
+
+[Diego Serrano] 20:13:46
+Ta tampoco es que le va a regalar todo
+
+[Diego Serrano] 20:13:48
+Hay que saber leer
+
+[Diego Serrano] 20:13:50
+Hay que saber pedir, claro, by coding no es tan fácil con estas herramientas que les muestro acá, sí
+
+[Diego Serrano] 20:13:57
+Pero tampoco está by calling, ¿sí?
+
+[Diego Serrano] 20:14:01
+obviamente el futuro va hacia decir che bueno a ver
+
+[Diego Serrano] 20:14:04
+Voy a escribir en el caso de uso los casos de uso en un archivo markdown
+
+[Diego Serrano] 20:14:09
+E
+
+[Diego Serrano] 20:14:10
+Y le voy a decir bueno y otro archivo donde yo describa todo el sistema que es lo cual es el objetivo
+
+[Diego Serrano] 20:14:16
+Entonces le pueda decir che mira
+
+[Diego Serrano] 20:14:19
+Tenéis acá el archivo con la descripción del sistema
+
+[Diego Serrano] 20:14:22
+Con los roles de usuarios que hay
+
+[Diego Serrano] 20:14:24
+Tengo este caso de uso
+
+[Diego Serrano] 20:14:26
+Tengo este stack
+
+[Diego Serrano] 20:14:27
+See.
+
+[Diego Serrano] 20:14:28
+Va a ir para ese lado, pero no se vuelvan locos todavía con eso, sí,
+
+[Diego Serrano] 20:14:33
+Vayan aprendiendo a programar porque, como les ven, como les dije el primer día de clase
+
+[Diego Serrano] 20:14:39
+hoy es cada vez más difícil programar porque tienen que saber mucho más que antes para poder leer
+
+[Diego Serrano] 20:14:44
+Lo que la y lo que la IA le genere
+
+[Diego Serrano] 20:14:47
+Entonces fácil
+
+[Diego Serrano] 20:14:49
+creer que va a ser todo y no van a ver nada del código
+
+[Diego Serrano] 20:14:53
+obviamente esto está avanzando a paso agigantados de acá un año la capa que les digo otra cosa
+
+[Diego Serrano] 20:14:59
+Pero traten haciéndolo si se van a poder ayudar
+
+[Diego Serrano] 20:15:05
+Cuando se trabe no, no se le compliquen, no sepan qué pasa, le van a decir que le van a poder decir este me está dando este error fijar les va a decir
+
+[Diego Serrano] 20:15:15
+Pero tampoco tampoco se relajen y creer que
+
+[Diego Serrano] 20:15:19
+Le tira el el enunciado entero que son diez páginas de PDF y se los haga todo
+
+[Diego Serrano] 20:15:24
+No es tan fácil, no es tan gratis, no es tan seguro de que se lo haga todo, no, no, no, no.
+
+[Diego Serrano] 20:15:29
+No, no quieran pilotearla tan fácil porque no lo es tan fácil.
+
+[Diego Serrano] 20:15:33
+herramientas como la que le estoy mostrando acá les van a solucionar la vida muchísimo, muchísimo
+
+[Diego Serrano] 20:15:39
+y tienen que aprender a usarlas me pasó el año pasado
+
+[Diego Serrano] 20:15:43
+En un parcial
+
+[Diego Serrano] 20:15:44
+con inteligencia artificial habilitada
+
+[Diego Serrano] 20:15:47
+Que había había un estudiante que no sabía ni ni cómo pedir las cosas al chat al CGPT
+
+[Diego Serrano] 20:15:53
+Entonces abría el el IDE
+
+[Diego Serrano] 20:15:56
+El entorno de desarrollo hacía print screen
+
+[Diego Serrano] 20:15:59
+Y copiaba y pegaba la impresión del escritorio de la computadora
+
+[Diego Serrano] 20:16:05
+y no no no ni unido ni con eso pero pero
+
+[Diego Serrano] 20:16:08
+pero bueno es como todo como toda herramienta no
+
+[Diego Serrano] 20:16:12
+Si la herramienta que es del IDE no saben usar el IDE no van a poder programar no saben usar el lenguaje no va a saber programar
+
+[Diego Serrano] 20:16:17
+No saben usarla y a y tampoco les va a resolver toda la programación
+
+[Diego Serrano] 20:16:21
+Como toda herramienta hay que hacer saber usar la herramienta primero
+
+[Diego Serrano] 20:16:26
+y es un trabajo que parece fácil pero no le fascina lleva tiempo aprender a us
+
+[Diego Serrano] 20:16:31
+Todas estas cosas
+
+[Diego Serrano] 20:16:34
+pero bueno
+
+[Diego Serrano] 20:16:36
+Ustedes
+
+[Diego Serrano] 20:16:37
+Le van a ir agarrando la mano
+
+[Diego Serrano] 20:16:39
+Para el parcial no se vuelvan locos, no se maten, creciendo que les haga todo
+
+[Diego Serrano] 20:16:43
+No esperen qué herramientas como esta se las haga todo de una.
+
+[Diego Serrano] 20:16:48
+pero aprovéchelo obviamente aprovechenó si no en dos días no termina
+
+[Diego Serrano] 20:16:52
+A
+
+[Diego Serrano] 20:16:53
+Usen todo, usen todo lo que esté al alcance de ustedes
+
+[Diego Serrano] 20:16:57
+Que no sea copiar de otro grupo no me van a entregar los veinte grupo
+
+[Diego Serrano] 20:17:01
+Tampoco
+
+[Diego Serrano] 20:17:04
+Pienso en que después van a tener que responder
+
+[Diego Serrano] 20:17:07
+E
+
+[Diego Serrano] 20:17:11
+sí vos sabés Mauro es muy es muy muy muy dura la la la realidad
+
+[Diego Serrano] 20:17:16
+Sí,
+
+[Diego Serrano] 20:17:18
+y todavía no tenemos
+
+[Diego Serrano] 20:17:21
+Sí, yo le digo a los especialmente al a los docentes
+
+[Diego Serrano] 20:17:26
+Nos está pasando por encima todo esto
+
+[Diego Serrano] 20:17:28
+Sí,
+
+[Diego Serrano] 20:17:30
+Nos dio vuelta, nos dio vuelta.
+
+[Diego Serrano] 20:17:32
+O sea no no no
+
+[Diego Serrano] 20:17:33
+No
+
+[Diego Serrano] 20:17:35
+Todo esto de la inteligencia artificial
+
+[Diego Serrano] 20:17:37
+A los docentes, no, no, nos, nos
+
+[Diego Serrano] 20:17:41
+Está pegando una revolcada
+
+[Diego Serrano] 20:17:43
+que no sabemos cómo salir todavía
+
+[Diego Serrano] 20:17:46
+Porque
+
+[Diego Serrano] 20:17:49
+No podemos negar que existe la idea no podemos negar creer que no existe y o creer que no sirve una locura
+
+[Diego Serrano] 20:17:57
+Sirve y le es útil a todo el mundo entonces
+
+[Diego Serrano] 20:18:02
+es es un equilibrio muy difícil si el decir
+
+[Diego Serrano] 20:18:06
+Bueno a ver
+
+[Diego Serrano] 20:18:08
+E
+
+[Diego Serrano] 20:18:10
+Para las cosas simples podemos usar la guía, pero para las cosas complicadas tenemos que saber las cosas simples
+
+[Diego Serrano] 20:18:15
+Sí,
+
+[Diego Serrano] 20:18:16
+Piensen, piensen esto
+
+[Diego Serrano] 20:18:19
+E
+
+[Diego Serrano] 20:18:22
+I
+
+[Diego Serrano] 20:18:23
+In any time. in
+
+[Diego Serrano] 20:18:25
+En esta carrera
+
+[Diego Serrano] 20:18:27
+A los de primer año no les dejamos usar inteligencia artificial
+
+[Diego Serrano] 20:18:30
+No le dejamos usar hasta el punto ustedes no lo vivieron
+
+[Diego Serrano] 20:18:33
+In algoritmos los trabajos prácticos este año son presenciales
+
+[Diego Serrano] 20:18:38
+Si las parciales son presenciales como siempre los prácticos también son grupales pero en el aula
+
+[Diego Serrano] 20:18:44
+Sí y y lo y los reventamos
+
+[Diego Serrano] 20:18:46
+A los
+
+[Diego Serrano] 20:18:48
+los bochamos en el acto se usa inteligencia artificial
+
+[Diego Serrano] 20:18:50
+Pero no porque neguemos la el uso, neguemos la utilidad
+
+[Diego Serrano] 20:18:55
+Si no porque si no saben
+
+[Diego Serrano] 20:18:57
+Escribir un if o no saben escribir un
+
+[Diego Serrano] 20:19:01
+Menos van a poder aprender lo que estamos viendo en esta materia, menos van a poder aprender lo que viene más adelante
+
+[Diego Serrano] 20:19:05
+Entonces
+
+[Diego Serrano] 20:19:06
+E
+
+[Diego Serrano] 20:19:08
+Y entonces, y los de primer año dicen, bueno, pero cuando yo trabaje voy a usar inteligencia artificial
+
+[Diego Serrano] 20:19:14
+Claro, pero cuando los programes
+
+[Diego Serrano] 20:19:16
+Sí
+
+[Diego Serrano] 20:19:17
+Cuando vos trabajes.
+
+[Diego Serrano] 20:19:18
+Si la inteligencia artificial te genera algo que vos no podés entender tampoco sabes si lo que está haciendo es lo que vos querías, lo que necesitabas o lo que hace falta
+
+[Diego Serrano] 20:19:27
+Entonces
+
+[Diego Serrano] 20:19:29
+Ustedes se imaginan que los ejercicios de algoritmos de AED
+
+[Diego Serrano] 20:19:33
+Si los tiramos a esto y en un segundo está hecho perfecto
+
+[Diego Serrano] 20:19:37
+Sí,
+
+[Diego Serrano] 20:19:37
+Entonces qué pasa si no vamos como dice Mauro ahí en el chat si no vamos por aprender a hacerlo artesanal
+
+[Diego Serrano] 20:19:46
+va a seguir un momento que van
+
+[Diego Serrano] 20:19:49
+No van a poder aprender cosas más complejas
+
+[Diego Serrano] 20:19:52
+Sí,
+
+[Diego Serrano] 20:19:53
+Piensen ustedes, si ustedes no hubiera
+
+[Diego Serrano] 20:19:57
+aprendido en algoritmos hacerlo si fama no las asignaciones las variables los guay los vectores
+
+[Diego Serrano] 20:20:04
+No podrían ni siquiera leer el apunte de JavaScript de este año
+
+[Diego Serrano] 20:20:09
+Si si no hicieron si no hubiera hecho paradigmas
+
+[Diego Serrano] 20:20:12
+Paradigmas cuánto han puteado con el muerto que ustedes
+
+[Diego Serrano] 20:20:15
+Cuánto transpiraron y sufrieron con smold con el faro
+
+[Diego Serrano] 20:20:19
+Sí,
+
+[Diego Serrano] 20:20:20
+Pero bueno, gracias a eso es que hoy yo les hablo de objetos, le hago, le hablo de polimorfismo, le hablo de herencia y saben que estoy hablando, y si le digo, che, JavaScript una clase es así y yo lo saben
+
+[Diego Serrano] 20:20:32
+Si no pasaron por eso de hacerlo
+
+[Diego Serrano] 20:20:35
+muy muy muy a mano
+
+[Diego Serrano] 20:20:37
+tampoco podrían
+
+[Diego Serrano] 20:20:39
+O usar estas herramientas
+
+[Diego Serrano] 20:20:41
+Saber que le están aplicando bien es muy difícil el equilibrio
+
+[Diego Serrano] 20:20:45
+Piénsenlo
+
+[Diego Serrano] 20:20:46
+Mis hijos están en la primaria, piensen piensen profe de primaria
+
+[Diego Serrano] 20:20:50
+Los maestros de la primaria, ¿cómo hacen?
+
+[Diego Serrano] 20:20:53
+Sí,
+
+[Diego Serrano] 20:20:55
+Ehm
+
+[Diego Serrano] 20:20:56
+Si si les dicen che de tarea hagan una biografía de tal persona y la
+
+[Diego Serrano] 20:21:02
+They importa si es de primer grado, de séptimo grado, de sexto.
+
+[Diego Serrano] 20:21:05
+Diga el chat, sí, dólar conocen dólar
+
+[Diego Serrano] 20:21:08
+Let me knowbiografía de ética y entría en eso, ¿sí? Y vos decís, bueno, pero de qué le sirve biografía? Y le sirve para que aprendan a escribir
+
+[Diego Serrano] 20:21:16
+Histó
+
+[Diego Serrano] 20:21:17
+Si no solo el contenido que me importa, la biografía de San Martín
+
+[Diego Serrano] 20:21:21
+O sí pero no importa te la hacen escribir los de primaria para que además aprendas a escribir
+
+[Diego Serrano] 20:21:26
+Sí, y si te lo hace dola y no vas a aprender
+
+[Diego Serrano] 20:21:30
+Va a ser grande sin saber escribir
+
+[Diego Serrano] 20:21:32
+es un equilibrio muy difícil, no sé en qué va a terminar
+
+[Diego Serrano] 20:21:37
+No sé qué va a pasar aquí diez años
+
+[Diego Serrano] 20:21:39
+Sí,
+
+[Diego Serrano] 20:21:40
+No tengo miedo pero tampoco
+
+[Diego Serrano] 20:21:42
+Dejo de preocuparme, no sé qué va a pasar con esto, pero
+
+[Diego Serrano] 20:21:45
+E
+
+[Diego Serrano] 20:21:48
+Porque a ver.
+
+[Diego Serrano] 20:21:50
+So a mi edad.
+
+[Diego Serrano] 20:21:51
+A mi edad
+
+[Diego Serrano] 20:21:52
+Yo aprendí a escribir en la escuela, aprendí a hacer sumas y restas sin calculadora en la universidad aprendí a hacer derivadas sin tabla
+
+[Diego Serrano] 20:22:00
+Cuando yo conseque derivadas acá la tenés que memorizar la tabla y tenés que derivar sin tabla
+
+[Diego Serrano] 20:22:07
+Iváncate la atención uno, ¿sí?
+
+[Diego Serrano] 20:22:12
+Y obviamente programar en papel
+
+[Diego Serrano] 20:22:14
+Gracias a eso
+
+[Diego Serrano] 20:22:15
+Gracias a todo ese esfuerzo es que hoy si él sale un lenguaje de programación nuevo y lo tengo que estudiar y lo aprendo
+
+[Diego Serrano] 20:22:22
+Mes
+
+[Diego Serrano] 20:22:23
+Sí,
+
+[Diego Serrano] 20:22:25
+Si no hubiera pasado por esto, hay cosas que me serían muy difíciles de aprender después
+
+[Diego Serrano] 20:22:29
+Entonces
+
+[Diego Serrano] 20:22:30
+Igual todo esto es una revolución gigante, gigante que no sabemos para dónde va a salir
+
+[Diego Serrano] 20:22:35
+Como les digo los que estamos en docencia estamos desesperados porque no sabemos ni cómo enseñarlo ni cómo corregirlo
+
+[Diego Serrano] 20:22:42
+Ni cómo evaluarlo
+
+[Diego Serrano] 20:22:45
+para que realmente les sirva para un futuro es muy difícil realmente créeme que es muy difícil, bueno.
+
+[Diego Serrano] 20:22:51
+Ahí, ahí Mauro está hablando de lo que pasa en las empresas y las empresas es un despelote también
+
+[Diego Serrano] 20:22:55
+Sí, porque también el el el
+
+[Diego Serrano] 20:23:00
+los que saben programar de antes los tipos que tienen diez veinte años programación
+
+[Diego Serrano] 20:23:04
+Estas herramientas las agarran y las dan vuelta
+
+[Diego Serrano] 20:23:08
+Pero lo que genera ellos lo saben, saben que lo que generó y lo pueden saber mantener y leer
+
+[Diego Serrano] 20:23:13
+Si ahora el que hizo by coding y no sabe qué género simplemente ve que parece que anda
+
+[Diego Serrano] 20:23:20
+Entonces
+
+[Diego Serrano] 20:23:21
+Hoy te
+
+[Diego Serrano] 20:23:23
+Y eso no es problema.
+
+[Diego Serrano] 20:23:25
+El problema es
+
+[Diego Serrano] 20:23:26
+Que va a pasar con el tiempo que hace by coding sin saber programar
+
+[Diego Serrano] 20:23:30
+Por mucho tiempo
+
+[Diego Serrano] 20:23:31
+Sí
+
+[Diego Serrano] 20:23:32
+Y cuando te diga no, ya hace diez años que programamos pero qué programa no no programa nada hago todo by coding, está mal, no, no está mal, pero tampoco
+
+[Diego Serrano] 20:23:39
+¿Sabes?
+
+[Diego Serrano] 20:23:41
+Si no te al perder ese entrenamiento cómo se va a adaptar al futuro no realmente
+
+[Diego Serrano] 20:23:47
+Es es es
+
+[Diego Serrano] 20:23:48
+Yo no estoy pesimista, pero sé que
+
+[Diego Serrano] 20:23:51
+esto nos está revolcando por dónde salir
+
+[Diego Serrano] 20:24:00
+Sí
+
+[Diego Serrano] 20:24:00
+Lo que dice
+
+[Diego Serrano] 20:24:04
+Lo que dice Mauro ahí en chat es importante
+
+[Diego Serrano] 20:24:07
+en las empresas también es un desafío gigante
+
+[Diego Serrano] 20:24:09
+Sí
+
+[Diego Serrano] 20:24:10
+Ehm
+
+[Diego Serrano] 20:24:19
+Es difícil
+
+[Diego Serrano] 20:24:20
+No, seguro están leyendo el chat, Mauro dice, algunos les llaman la cuarta revolución industrial
+
+[Diego Serrano] 20:24:27
+Indudablemente que es esto, el miedo
+
+[Diego Serrano] 20:24:31
+Las visión es pesimistas
+
+[Diego Serrano] 20:24:33
+de esto
+
+[Diego Serrano] 20:24:35
+Vienden de este lado
+
+[Diego Serrano] 20:24:37
+Toda
+
+[Diego Serrano] 20:24:38
+En el en el mundo existieron
+
+[Diego Serrano] 20:24:40
+Muchos avances tecnológicos que dieron parte dieron vuelta al tablero
+
+[Diego Serrano] 20:24:45
+drásticamente
+
+[Diego Serrano] 20:24:49
+I
+
+[Diego Serrano] 20:24:51
+lo vieron en la escuela ustedes
+
+[Diego Serrano] 20:24:52
+Invención de la imprenta, sí, con Gutenberg
+
+[Diego Serrano] 20:24:58
+Y bueno se inventó la imprenta y de golpe cualquiera podía escribir libros o no cualquiera pero era mucho más fácil escribir libros pero se quedaron sin trabajo los copistas lo que los que copiaban a mano porque no había otra forma, no hay otra forma de copiar
+
+[Diego Serrano] 20:25:11
+Bueno, eso generó, obviamente.
+
+[Diego Serrano] 20:25:14
+Pero
+
+[Diego Serrano] 20:25:15
+Vamos a vamos a abandonar el avance de la de la imprenta porque había que mantener otro trabajo no ni pedo
+
+[Diego Serrano] 20:25:23
+Si
+
+[Diego Serrano] 20:25:23
+La luz artificial
+
+[Diego Serrano] 20:25:25
+Y bueno desde que tenemos lugar artificial ya no hay que andar los fabricantes de velas se fundieron bueno pero no vamos a dejar de salvar artificial
+
+[Diego Serrano] 20:25:34
+Por sí
+
+[Diego Serrano] 20:25:35
+Pasó lo mismo en la, la, obviamente la, la.
+
+[Diego Serrano] 20:25:39
+En la revolución industrial
+
+[Diego Serrano] 20:25:41
+Máquina de vapor máquina vapor permitió
+
+[Diego Serrano] 20:25:44
+Crear aparatos, crear bueno ni hablar el tren
+
+[Diego Serrano] 20:25:48
+Luego la invención del telégrafo
+
+[Diego Serrano] 20:25:53
+Si uno dice che bueno
+
+[Diego Serrano] 20:25:55
+Todos esos avances
+
+[Diego Serrano] 20:25:57
+Que que de golpe fueron muy drásticos y generaron un avance gigante en la sociedad
+
+[Diego Serrano] 20:26:04
+Son innegables que que hacían falta
+
+[Diego Serrano] 20:26:06
+En que hacía falta no vamos a abandonarlos
+
+[Diego Serrano] 20:26:10
+Todos esos avances
+
+[Diego Serrano] 20:26:11
+provocaron
+
+[Diego Serrano] 20:26:13
+Esto hace esto lo leí hace poco lo vi un vídeo en YouTube explicaba eso
+
+[Diego Serrano] 20:26:18
+todos estos avances como le digo, la invención de la
+
+[Diego Serrano] 20:26:20
+de la de la
+
+[Diego Serrano] 20:26:22
+de la imprenta ni hablaba en la invención de las armas de fuego
+
+[Diego Serrano] 20:26:26
+El motor a vapor
+
+[Diego Serrano] 20:26:28
+La electricidad motor eléctrico
+
+[Diego Serrano] 20:26:31
+Luego comunicaciones Internet
+
+[Diego Serrano] 20:26:34
+Todo esto
+
+[Diego Serrano] 20:26:38
+Todos estos avances provocaron
+
+[Diego Serrano] 20:26:44
+movimientos muy bruscos del mercado laboral
+
+[Diego Serrano] 20:26:47
+Sí,
+
+[Diego Serrano] 20:26:49
+Pero esto es y que provocaron que mucha gente se quedara sin trabajo
+
+[Diego Serrano] 20:26:54
+Don de gente se fundiera y tuviera que reconvertirse si siempre a ver, hasta en la primaria habrán visto los ejemplos de, bueno, a ver, antes de que porque
+
+[Diego Serrano] 20:27:02
+Había un farolero que tenía que ir y prender con una llamita cada farol
+
+[Diego Serrano] 20:27:07
+En, en las veredas cuando apareció la, la luz, el alumbrado público, gracias a la luz artificial, desapareció el trabajo de
+
+[Diego Serrano] 20:27:14
+Del farolero pero qué pasa
+
+[Diego Serrano] 20:27:16
+Ellos avances
+
+[Diego Serrano] 20:27:18
+Provocaron
+
+[Diego Serrano] 20:27:19
+bueno
+
+[Diego Serrano] 20:27:22
+Destrucción de puestos de trabajo reales
+
+[Diego Serrano] 20:27:25
+Pero que el avance tuvo
+
+[Diego Serrano] 20:27:28
+Un acceso paulatino
+
+[Diego Serrano] 20:27:29
+Sí se inventamos la la
+
+[Diego Serrano] 20:27:32
+la no se la electricidad inventado la la la cómo es la la
+
+[Diego Serrano] 20:27:37
+La, las redes eléctricas domiciliarias
+
+[Diego Serrano] 20:27:41
+Pero no es que de golpe de un año al otro
+
+[Diego Serrano] 20:27:43
+Todas las ciudades del mundo tenía alumbrado público y todas las casas del mundo tenían la conexión a la red eléctrica según décadas hasta que eso se fue adquiriendo
+
+[Diego Serrano] 20:27:53
+Y debe haber pueblo donde esos
+
+[Diego Serrano] 20:27:55
+en algunos países que capaz que no tengan todavía los eléctricas
+
+[Diego Serrano] 20:27:59
+Pero fue Paulatino el
+
+[Diego Serrano] 20:28:03
+La adquisición de ese avance tecnológico entonces la reconversión laboral tuvo tiempo de hacerse
+
+[Diego Serrano] 20:28:11
+Con la inteligencia artificial, el miedo que tienen quienes tienen una visión pesimista
+
+[Diego Serrano] 20:28:16
+El miedo que tienen es que el cambio está haciendo, está haciendo tan brus
+
+[Diego Serrano] 20:28:22
+And
+
+[Diego Serrano] 20:28:23
+Rápido que no va a haber tiempo de reconvertir laboralmente y si de golpe
+
+[Diego Serrano] 20:28:29
+E
+
+[Diego Serrano] 20:28:31
+La mitad de la población laboral ya no hace falta porque lo hace la guía y dejaste la
+
+[Diego Serrano] 20:28:36
+La mitad no diez por ciento piensan esto diez por ciento de todos los empleados del mundo ya no hacen falta más y se quedan sin trabajo todo
+
+[Diego Serrano] 20:28:46
+Todo sí
+
+[Diego Serrano] 20:28:48
+Porque toda esa, ese diez por ciento de personas tiene que trabajar de algo y si decís no, mire su trabajo ya no hace falta.
+
+[Diego Serrano] 20:28:53
+Y bueno pues yo estudié esto
+
+[Diego Serrano] 20:28:56
+Es muy complejo si esto no da tiempo a que el que llegue a ese trabajo
+
+[Diego Serrano] 20:29:01
+O ves un puesto de trabajo,
+
+[Diego Serrano] 20:29:03
+Cambiado muy drásticamente si no tiene tiempo a estudiar otra cosa, a buscar trabajo, a que salgan
+
+[Diego Serrano] 20:29:11
+nuevos puestos de trabajo en otras actividades
+
+[Diego Serrano] 20:29:14
+no no vamos, vas a tener un problema gigante de
+
+[Diego Serrano] 20:29:19
+Desempleo y eso obviamente con todo lo que
+
+[Diego Serrano] 20:29:21
+Con todo lo conserva, ¿sí? Y no es una cuestión de, del, del, de, ah porque en Argentina somos un quilombo, sí, somos un kilombo, en todo el mundo está haciendo, está, está viéndose ese miedo
+
+[Diego Serrano] 20:29:33
+Y el miedo está en que la revolución viene muy rápido
+
+[Diego Serrano] 20:29:36
+Esto, esto está
+
+[Diego Serrano] 20:29:37
+Sí, si ustedes ven, ustedes no se quede cuántos años tienen
+
+[Diego Serrano] 20:29:41
+Pero
+
+[Diego Serrano] 20:29:42
+Ya que mete la primera versión una chaquette
+
+[Diego Serrano] 20:29:47
+But
+
+[Diego Serrano] 20:29:47
+Claro, bueno, ese es el tema.
+
+[Diego Serrano] 20:29:50
+Lo que bien lo que dice Nico ahí en el chat
+
+[Diego Serrano] 20:29:52
+Con las revoluciones, la, las revoluciones industriales anteriores también se generan muchos puestos de trabajo, sin duda
+
+[Diego Serrano] 20:29:59
+El el farolero no existe más pero cuántos electricista en esta hora mucho más
+
+[Diego Serrano] 20:30:04
+Entonces obviamente se genera mucho trabajo y por eso es que
+
+[Diego Serrano] 20:30:08
+Esa revolución industrial provocaron un sacudón muy grande
+
+[Diego Serrano] 20:30:12
+En el mercado laboral pero que se que se fue resolviendo porque se generaron muchos trabajos nuevos
+
+[Diego Serrano] 20:30:19
+con la inteligencia artificial no se sabe exacto no sabe no sabemos y este este
+
+[Diego Serrano] 20:30:24
+Como les digo yo no tengo una visión pesimista todavía
+
+[Diego Serrano] 20:30:27
+Pero lo que sí plantean un
+
+[Diego Serrano] 20:30:31
+Un riesgo muy grande es, digan esto, che.
+
+[Diego Serrano] 20:30:34
+Puede que esto destruya muchos puestos de trabajo
+
+[Diego Serrano] 20:30:38
+Y no sabemos cuántos puestos nuevos va a construir ni qué tan rápido va a ser
+
+[Diego Serrano] 20:30:43
+Eso es cierto
+
+[Diego Serrano] 20:30:47
+Lo más probable es que
+
+[Diego Serrano] 20:30:49
+Somebody acaba muriendo, ustedes
+
+[Diego Serrano] 20:30:51
+De acá algún tiempo van a ver los efectos de la guía y van a verla esa transformación laboral
+
+[Diego Serrano] 20:30:58
+Y seguramente seguramente no lo sé
+
+[Diego Serrano] 20:31:02
+Yo tengo esperanza de que esto sea para bien.
+
+[Diego Serrano] 20:31:05
+el miedo eso no qué pasa si de golpe el día de mañana no sé por algún motivo no hacen más falta
+
+[Diego Serrano] 20:31:12
+Todo un rubro laboral
+
+[Diego Serrano] 20:31:14
+Sí
+
+[Diego Serrano] 20:31:16
+que hay que hacer como reconvertiste en rápido eso
+
+[Diego Serrano] 20:31:19
+¿Sí?
+
+[Diego Serrano] 20:31:20
+Una exageración, a ver una exageración
+
+[Diego Serrano] 20:31:23
+Sa hoy funcionan y están funcionando más o menos bien los
+
+[Diego Serrano] 20:31:27
+E
+
+[Diego Serrano] 20:31:28
+los coches autónomos, los autos autónomos
+
+[Diego Serrano] 20:31:31
+¿Qué pasa si acá
+
+[Diego Serrano] 20:31:33
+5 años, diez años y como les digo.
+
+[Diego Serrano] 20:31:37
+Yo no lo voy a ver ustedes sí lo van a ver qué pasa si de acá a diez años
+
+[Diego Serrano] 20:31:41
+los los vehículos autónomos funcionan también y
+
+[Diego Serrano] 20:31:47
+poco riesgo cero riesgo, muy bajo riesgo
+
+[Diego Serrano] 20:31:51
+Que dicen che, loco, no hace falta más lo colectivo
+
+[Diego Serrano] 20:31:54
+Y vamos a echarle a la mierda a todos los colectiveros del mundo.
+
+[Diego Serrano] 20:31:58
+que quiero ir a trabajar el tipo de trabajo que
+
+[Diego Serrano] 20:32:01
+capaz que es lo único que sabe trabajar
+
+[Diego Serrano] 20:32:02
+O no importa es lo que le gusta trabajar que hace con cuántos colectivo hay en el mundo
+
+[Diego Serrano] 20:32:07
+Te dicen el mundo, ni, ni el país, ni la ciudad te enseñan el mundo
+
+[Diego Serrano] 20:32:12
+Sí,
+
+[Diego Serrano] 20:32:13
+Porque son mala gente no porque no puedes decir de un día para otro che usted no hace más falta va a saber qué hace, vaya a vender fruta.
+
+[Diego Serrano] 20:32:19
+Pongo una verdulería en la casa
+
+[Diego Serrano] 20:32:21
+O sea sí muchos pondrán la casa, obviamente.
+
+[Diego Serrano] 20:32:24
+Sí porque no le va a quedar otra pero tampoco es tan fácil
+
+[Diego Serrano] 20:32:28
+Si el cambio es muy brusco
+
+[Diego Serrano] 20:32:30
+Dice ahí, dice Mauro
+
+[Diego Serrano] 20:32:32
+en las crisis salen oportunidades, pero esto es una vorágine, esa es la clave, ese es el miedo
+
+[Diego Serrano] 20:32:38
+Obviamente
+
+[Diego Serrano] 20:32:39
+De de todo de los avances tecnológicos
+
+[Diego Serrano] 20:32:42
+Sí y de las crisis
+
+[Diego Serrano] 20:32:45
+Salen oportunidades sí
+
+[Diego Serrano] 20:32:47
+Seguro.
+
+[Diego Serrano] 20:32:47
+ustedes lo han visto, la explosión de los deliveries, sí
+
+[Diego Serrano] 20:32:52
+y es cierto y si es laburo genuino y bueno y digno que
+
+[Diego Serrano] 20:32:58
+Más allá de que me digan si gana mucho poco elaborada
+
+[Diego Serrano] 20:33:02
+Ahora no podemos decir qué pasa si decimos que bueno echamos todos los colectivos al trabajo y se hallan todos a hacer rápido
+
+[Diego Serrano] 20:33:09
+You know, no hay lugar para que haya tanta gente, ¿sí?
+
+[Diego Serrano] 20:33:15
+Y si esto es muy brucho, si esto fuera algo paulatino
+
+[Diego Serrano] 20:33:19
+Listo, todos estaríamos sabiendo cómo hacer para tener una alternativa o para aprender otra cosa o para que cada uno diga bueno voy a dejar trabajar esto porque parece que mi laburo no va
+
+[Diego Serrano] 20:33:31
+Pero si esto es tan drástico si
+
+[Diego Serrano] 20:33:34
+Lo que le recién les estaba por decir me interrumpí yo solo
+
+[Diego Serrano] 20:33:39
+La primera versión de ChatGPT
+
+[Diego Serrano] 20:33:41
+La primera, primera versión de GPT, ¿cuándo salió? ¿Hace cuatro años? Corrígeme.
+
+[Diego Serrano] 20:33:47
+Tres años no tres no pero sí cuatro años no más que eso cinco
+
+[Diego Serrano] 20:33:51
+No me acuerdo
+
+[Diego Serrano] 20:33:53
+Yo puedo buscar internet
+
+[Diego Serrano] 20:33:56
+A ver.
+
+[Diego Serrano] 20:33:57
+Le voy a preguntar a chaquet cuándo fue tu primera versión? 4 años, claro
+
+[Diego Serrano] 20:34:05
+sí
+
+[Diego Serrano] 20:34:08
+Bueno, cinco años me está diciendo ahí, no sé,
+
+[Diego Serrano] 20:34:11
+Sí, claro, estaba la pandemia, por eso dos mil veintidós
+
+[Diego Serrano] 20:34:25
+Ita 30 de noviembre 2022, noviembre del 22 y noviembre del 22
+
+[Diego Serrano] 20:34:32
+la la versión cuando salió público no consejo público público para que cualquiera navegue
+
+[Diego Serrano] 20:34:36
+Veintidós, hace cuatro años.
+
+[Diego Serrano] 20:34:38
+En cuatro años
+
+[Diego Serrano] 20:34:40
+Y el avance el avance que fue fue abismal sí
+
+[Diego Serrano] 20:34:46
+Que está buenísimo miren lo que miren lo que hice hoy tiene dos coches documentame esto y ya salió
+
+[Diego Serrano] 20:34:51
+Hace cuatro años imposible hacer eso
+
+[Diego Serrano] 20:34:55
+no podemos pensar que puede llegar a pasar en 4 años más
+
+[Diego Serrano] 20:35:00
+Sí,
+
+[Diego Serrano] 20:35:02
+Y cuatro años más
+
+[Diego Serrano] 20:35:04
+Ustedes mismos, a ver.
+
+[Diego Serrano] 20:35:06
+Los compañeros de ustedes que están en segundo año
+
+[Diego Serrano] 20:35:09
+¿sí?
+
+[Diego Serrano] 20:35:12
+Ustedes están en tercero
+
+[Diego Serrano] 20:35:15
+Si están haciendo alguna materia de segundos se van a recibir entre cuatro años
+
+[Diego Serrano] 20:35:19
+No, no podemos ni, ni imaginar que puede llegar a pasar de acá a cuatro años
+
+[Diego Serrano] 20:35:22
+No podemos ni imaginar si ustedes mismos se van a recibir en cuenta y van a servir para algo
+
+[Diego Serrano] 20:35:27
+Sí,
+
+[Diego Serrano] 20:35:30
+Y no podemos, sí,
+
+[Diego Serrano] 20:35:31
+La visiones pesimistas lo que plantean es que el cambio está siendo tan drástico y tan rápido
+
+[Diego Serrano] 20:35:37
+que no va a haber tiempo suficiente para la reconversión laboral
+
+[Diego Serrano] 20:35:41
+Sí o sea
+
+[Diego Serrano] 20:35:43
+No
+
+[Diego Serrano] 20:35:44
+Muy pocos dicen esto, esto se va a desmadrar y no va a haber trabajo para nadie no no no sería, sería impensado
+
+[Diego Serrano] 20:35:52
+El el riesgo este que pasa si es muy drástico
+
+[Diego Serrano] 20:35:56
+Sí, ¿qué pasa si como les digo
+
+[Diego Serrano] 20:35:58
+Si de golpe hay toda una una toda una industria que queda todo el mundo sin trabajo
+
+[Diego Serrano] 20:36:03
+Porque no hace más falta porque la la la
+
+[Diego Serrano] 20:36:05
+Sí
+
+[Diego Serrano] 20:36:07
+no se cualquier cualquier industria
+
+[Diego Serrano] 20:36:10
+Cualquier industria que hacemos, tenemos poner facultades para, a ver, no sé, como les digo.
+
+[Diego Serrano] 20:36:15
+No hay más taxista o no hacen falta más
+
+[Diego Serrano] 20:36:18
+Hace poco leí
+
+[Diego Serrano] 20:36:20
+No sé si es cierto, pero como que al mismo tiempo que acá los taxistas están haciendo
+
+[Diego Serrano] 20:36:25
+reclamos por los uber que le sacan trabajo
+
+[Diego Serrano] 20:36:28
+En Francia había una manifestación de los chóferes de Uber reclamando que los que los autos autónomos en clientes
+
+[Diego Serrano] 20:36:39
+No sabemos
+
+[Diego Serrano] 20:36:42
+Piensen
+
+[Diego Serrano] 20:36:43
+Vieron las máquinas, vieron, vieron las impresoras 3D
+
+[Diego Serrano] 20:36:46
+Y hay mucha gente que ahora está haciendo con el mismo mecanismo de las impresoras 3D
+
+[Diego Serrano] 20:36:52
+construcción de casas
+
+[Diego Serrano] 20:36:55
+Sí o sea en vez de el mismo de la misma manera que la impresora tres de va moviendo el
+
+[Diego Serrano] 20:37:01
+Va moviendo el piso, o sea se mueve la la la bandeja no y va saliendo un chorrito de plástico
+
+[Diego Serrano] 20:37:06
+Hay gente que ya fabricó ya existe no decir che con la misma lógica hagamos que se mueva el brazo y vas escupiendo
+
+[Diego Serrano] 20:37:12
+Un un hilito de cemento
+
+[Diego Serrano] 20:37:14
+Y con esto hace una casa en no sé cuánto tiempo
+
+[Diego Serrano] 20:37:19
+Y eso es más barato, pero más barato sólo por el sueldo de los albañiles, por la cantidad de cemento que gasta en la misma
+
+[Diego Serrano] 20:37:28
+¿Qué pasa si eso de golpe
+
+[Diego Serrano] 20:37:29
+E
+
+[Diego Serrano] 20:37:31
+Funciona para todo el mundo y de golpe la mitad de los albañiles se queda sin trabajo
+
+[Diego Serrano] 20:37:36
+Es un despelote es un desastre
+
+[Diego Serrano] 20:37:39
+Significa que por eso tenemos que mantener puestos de trabajo anticuados u obsoletos, no.
+
+[Diego Serrano] 20:37:45
+Hay que reconvertir, pero esa reconversión lleva tiempo.
+
+[Diego Serrano] 20:37:48
+y la fuerza y se vallista
+
+[Diego Serrano] 20:37:50
+E
+
+[Diego Serrano] 20:37:53
+Y bueno, Rodrigo, claro, lo que se plantea es esto, ¿no?
+
+[Diego Serrano] 20:37:58
+Ehm
+
+[Diego Serrano] 20:38:01
+Probablemente se que volver a los trabajos manuales
+
+[Diego Serrano] 20:38:05
+Suponiendo que haya trabajos manuales que la inteligencia artificial no pueda llegar a resolver fácilmente pero
+
+[Diego Serrano] 20:38:11
+¿Qué trabajo manual
+
+[Diego Serrano] 20:38:13
+No te que trabajo manual no te va a resolver la tecnología en poco tiempo viendo cómo avanza leía
+
+[Diego Serrano] 20:38:21
+No sé la la cosecha de frutillas no sé
+
+[Diego Serrano] 20:38:24
+,
+
+[Diego Serrano] 20:38:27
+Realmente
+
+[Diego Serrano] 20:38:30
+No me quiero poner pesimista
+
+[Diego Serrano] 20:38:32
+Pero bueno asusta esto que ande tan rápido si asusta
+
+[Diego Serrano] 20:38:38
+E
+
+[Diego Serrano] 20:38:41
+asusta en el sentido que les digo, ¿no?
+
+[Diego Serrano] 20:38:43
+O sea, yo no sé qué va a pasar.
+
+[Diego Serrano] 20:38:45
+No sé qué va a pasar
+
+[Diego Serrano] 20:38:47
+sí Claro mecánica eléctrica electrónica
+
+[Diego Serrano] 20:38:55
+Sí pero quizás más a un nivel de de diseñar ideas o diseñar plates dibujar ni siquiera dibujar planos, pero sí de tirar las ideas, ¿no?
+
+[Diego Serrano] 20:39:05
+Quizás no de fabricarlo
+
+[Diego Serrano] 20:39:08
+no no lo sabemos si no
+
+[Diego Serrano] 20:39:10
+realmente no lo sabemos
+
+[Diego Serrano] 20:39:12
+y volviendo al tema de la informática y bueno sí
+
+[Diego Serrano] 20:39:19
+No nos queda otra que adaptarnos
+
+[Diego Serrano] 20:39:21
+Yo les digo que
+
+[Diego Serrano] 20:39:23
+el cambio de productividad se está notando
+
+[Diego Serrano] 20:39:27
+Estamos teniendo que volver
+
+[Diego Serrano] 20:39:29
+Lo los profesionales de sistemas no no
+
+[Diego Serrano] 20:39:32
+Hablo de todos los informáticos, los profesionales del sistema de analista de sistemas
+
+[Diego Serrano] 20:39:37
+tenemos que, vamos a empezar, estamos teniendo que empezar a trabajar cada vez más a nivel de
+
+[Diego Serrano] 20:39:42
+Analizar, diseñar tirar ideas
+
+[Diego Serrano] 20:39:47
+plantear
+
+[Diego Serrano] 20:39:49
+Estructuras de cómo funciona la cosa y la construcción del software medio que iba cada vez más
+
+[Diego Serrano] 20:39:54
+Cada vez más con estas herramientas.
+
+[Diego Serrano] 20:39:59
+Sí,
+
+[Diego Serrano] 20:40:00
+y capa que llegaron diario
+
+[Diego Serrano] 20:40:03
+the
+
+[Diego Serrano] 20:40:04
+Nuestro trabajo es más dibujar los casos de uso, describirlos, identificar los negocios, visitar
+
+[Diego Serrano] 20:40:10
+Al cliente hacer los relevamientos
+
+[Diego Serrano] 20:40:12
+Si y la tarea de construcción
+
+[Diego Serrano] 20:40:14
+Pasa a ser
+
+[Diego Serrano] 20:40:15
+E
+
+[Diego Serrano] 20:40:17
+más automatizada, no digo que desaparezca, pero
+
+[Diego Serrano] 20:40:21
+No creo que desaparezca
+
+[Diego Serrano] 20:40:26
+Aunque se haga más rápido
+
+[Diego Serrano] 20:40:28
+Es una, es una herramienta que se agarre más rápido y es, ojo, y es una
+
+[Diego Serrano] 20:40:36
+I
+
+[Diego Serrano] 20:40:40
+Es una oportunidad
+
+[Diego Serrano] 20:40:42
+Sí, porque gracias a que ahora es más rápido programar
+
+[Diego Serrano] 20:40:46
+El que sabe programar de antes te genera un prototipo, sí, a una prueba de concepto en 2 días, 10 días, lo que sea, cuando antes capaz que tiene que estar un mes
+
+[Diego Serrano] 20:40:56
+Solo para hacer un software y mostrárselo al cliente y te diga que no le sirve
+
+[Diego Serrano] 20:41:00
+Eso también que
+
+[Diego Serrano] 20:41:01
+puede ser una ventana de oportunidades
+
+[Diego Serrano] 20:41:07
+Como les digo, está todo muy interesante
+
+[Diego Serrano] 20:41:09
+está todo muy difícil, de verdad que está difícil, especialmente para los que fabricamos, vuelta dificil
+
+[Diego Serrano] 20:41:14
+Que ir al día ir al ritmo de la del avance de las cosas es es todo un trabajo sabes que dedicarse
+
+[Diego Serrano] 20:41:20
+A estudiar toda la semana a ver qué es lo que aparece nuevo
+
+[Diego Serrano] 20:41:23
+y a practicar y a practicar mucho
+
+[Diego Serrano] 20:41:26
+Ehh no se en que va a terminar esto
+
+[Diego Serrano] 20:41:29
+Do I?
+
+[Diego Serrano] 20:41:30
+No soy pesimista
+
+[Diego Serrano] 20:41:32
+Pero bueno, hay que estar preparado a esto, ustedes mismos lo deben ver en
+
+[Diego Serrano] 20:41:37
+En las redes que de golpe aparecen empresas de informática y tienen toda la guita que lo dicen a cincuenta mil hoy porque
+
+[Diego Serrano] 20:41:45
+Sobraban
+
+[Diego Serrano] 20:41:46
+usted también se lo va ahora?
+
+[Diego Serrano] 20:41:52
+E
+
+[Diego Serrano] 20:41:54
+I
+
+[Diego Serrano] 20:41:56
+That tiene que andar ahorrando? Y bueno, pero
+
+[Diego Serrano] 20:42:02
+A también es cierto si sobran sobran
+
+[Diego Serrano] 20:42:04
+Sí
+
+[Diego Serrano] 20:42:06
+Entonces está está todo muy revolucionado
+
+[Diego Serrano] 20:42:10
+Sí,
+
+[Diego Serrano] 20:42:13
+Siempre va a tener siempre va a estar en mejor en mejor condición el que sabe hacer cosas
+
+[Diego Serrano] 20:42:18
+Sí
+
+[Diego Serrano] 20:42:19
+Y esto se lo digo en serio, ahora sí se los digo como profe de vuelta
+
+[Diego Serrano] 20:42:23
+El que sabe hacer cosas siempre va a estar en mejor condición
+
+[Diego Serrano] 20:42:25
+Sí,
+
+[Diego Serrano] 20:42:30
+Claro, porque si eso la gente se mandó una macana bueno pero si vos sabés hacer cosas vas a ver por lo menos saber qué es lo que es
+
+[Diego Serrano] 20:42:40
+y leer lo que hizo para ver si lo que hizo es lo que le pediste
+
+[Diego Serrano] 20:42:46
+hoy por hoy las herramientas como digo cursor describe código loco bestia lo que escribe pero también
+
+[Diego Serrano] 20:42:53
+Ahí está el el el ojo profesional de leerlo decir no para esto es demasiado para lo que yo necesito
+
+[Diego Serrano] 20:42:58
+Te lo tengo que pedir de vuelta, pero con otros ojos, te lo tengo que pedir de vuelta, pero de otra manera. Hoy estuve
+
+[Diego Serrano] 20:43:03
+Hoy estuve durante todo el partido de México haciendo un diagrama de clases y no me entendía como lo quería
+
+[Diego Serrano] 20:43:09
+Sí,
+
+[Diego Serrano] 20:43:10
+, el modelo anterior no sabe dibujar
+
+[Diego Serrano] 20:43:19
+Necesito que me lo dibujes así, que tenga sentido y me pasé dos horas haciendo un diagrama, que vos decís que
+
+[Diego Serrano] 20:43:25
+En un pizarrón lo sacaban diez minutos del diagrama
+
+[Diego Serrano] 20:43:29
+It might pull it.
+
+[Diego Serrano] 20:43:30
+que sé hacer diagramas, ¿sí? Porque yo lo aprendí
+
+[Diego Serrano] 20:43:34
+cuando me salieron de la facultad y lo dibujamos a mano en un papel
+
+[Diego Serrano] 20:43:38
+Es que no sabe hacer diagramas tampoco va a poder saber che si el diagrama está feo o no, si está
+
+[Diego Serrano] 20:43:43
+Si te he equivocado o no
+
+[Diego Serrano] 20:43:46
+Entonces
+
+[Diego Serrano] 20:43:47
+como que hay que hay que seguir
+
+[Diego Serrano] 20:43:50
+aprendiendo lo básico aprendiendo a hacerlo desde desde cero o con poca ayuda
+
+[Diego Serrano] 20:43:55
+y después aprovechar la ayuda
+
+[Diego Serrano] 20:43:58
+Sí
+
+[Diego Serrano] 20:43:59
+Un ejemplo extremo extremo si un ejemplo extremo
+
+[Diego Serrano] 20:44:04
+suponga si a un bebé no le enseñas a caminar y le das una silla de ruedas que va a pasar
+
+[Diego Serrano] 20:44:10
+Y no va a aprender a caminar nunca y el día tiene que correr que va a ser ay no sé caminar se me trabó en la silla de ruedas
+
+[Diego Serrano] 20:44:16
+Bueno
+
+[Diego Serrano] 20:44:19
+the
+
+[Diego Serrano] 20:44:20
+Van por ahí la cosa, por eso a los de primer año, por ejemplo, le impedimos por todos lados que usen inteligencia artificial, por eso mismo aprender a caminar
+
+[Diego Serrano] 20:44:27
+E
+
+[Diego Serrano] 20:44:38
+No sé, es lo mismo que aprender a leer, sí, o sea
+
+[Diego Serrano] 20:44:38
+De acá a pocos años
+
+[Diego Serrano] 20:44:39
+probablemente toda la interacción con la computadora sea por voz
+
+[Diego Serrano] 20:44:41
+Que hoy funciona hoy hoy en el WhatsApp usted hablan o en el
+
+[Diego Serrano] 20:44:44
+En el buscador del celular ustedes hablan, les responde y la responde con voz, no necesitarían saber
+
+[Diego Serrano] 20:44:50
+Ni siquiera saber leer
+
+[Diego Serrano] 20:44:52
+Vamos a dejar de enseñar a leer
+
+[Diego Serrano] 20:44:55
+Solo porque ahora está más como no ni casualidad
+
+[Diego Serrano] 20:44:58
+Sí,
+
+[Diego Serrano] 20:45:00
+Ica de escribir no como que
+
+[Diego Serrano] 20:45:02
+Entonces
+
+[Diego Serrano] 20:45:05
+Hay que hay que ir agarrando esta idea
+
+[Diego Serrano] 20:45:08
+Son herramientas buenísima
+
+[Diego Serrano] 20:45:10
+Pero tenemos que aprender a usarlas para que mejoren nuestra productividad y no para pensando que nos haga todo el trabajo
+
+[Diego Serrano] 20:45:18
+por nosotros y que nosotros volvemos absolutamente nada
+
+[Diego Serrano] 20:45:21
+Ese no, no, no, no es el camino
+
+[Diego Serrano] 20:45:22
+Sí,
+
+[Diego Serrano] 20:45:23
+Sí, para sí para para
+
+[Diego Serrano] 20:45:25
+But a ser más productivos. Por ese lado sí, y eso requiere y redondeando la idea que plantearon los chicos del chat, eso requiere puntualmente
+
+[Diego Serrano] 20:45:40
+y si trabajar en forma en forma artesanal si si
+
+[Diego Serrano] 20:45:42
+Por eso esta materia
+
+[Diego Serrano] 20:45:43
+Esta materia en clase no usamos inteligencia artificial, sí, nos fuimos llevando, acuérdense de las primeras clases, che.
+
+[Diego Serrano] 20:45:50
+JavaScript se escribe así, dieta sintaxis, así declaró una variable, así que una clase
+
+[Diego Serrano] 20:45:54
+Y más de uno
+
+[Diego Serrano] 20:45:55
+De ustedes dirá, che, pero esto me lo hace la inteligencia artificial de una que voy a estar perdiendo tiempo viendo cómo
+
+[Diego Serrano] 20:46:00
+Que hace el cos que hace el bar
+
+[Diego Serrano] 20:46:03
+realmente
+
+[Diego Serrano] 20:46:04
+Por ahora, al menos por ahora, el camino es
+
+[Diego Serrano] 20:46:07
+Sí,
+
+[Diego Serrano] 20:46:10
+Bueno, está bien lo que dice Fago, sí, aunque sepas caminar, si vos te compras todo el día en silla de ruedas.
+
+[Diego Serrano] 20:46:16
+el día que te toca no usarla ya no sabés, o sea, no te acordás cómo era y también en, en dificulta, también problemas
+
+[Diego Serrano] 20:46:24
+Sí,
+
+[Diego Serrano] 20:46:25
+Entonces
+
+[Diego Serrano] 20:46:28
+Vayan
+
+[Diego Serrano] 20:46:29
+Y no me va, yo sé que muchos no me van a creer con lo que estoy diciendo
+
+[Diego Serrano] 20:46:34
+Hoy al menos hoy, año dos mil veintiséis, lo mejor es
+
+[Diego Serrano] 20:46:38
+Aprendan a hacer las cosas
+
+[Diego Serrano] 20:46:39
+use la inteligencia artificial para
+
+[Diego Serrano] 20:46:42
+Ser más productivos, pero no para reemplazarlos a ustedes, si por ahora al menos
+
+[Diego Serrano] 20:46:48
+vayan aprendiendo por ese lado sí
+
+[Diego Serrano] 20:46:51
+y eso le dio más el único consejo que tengo por lo menos para decirle hoy sí el año que viene capaz que
+
+[Diego Serrano] 20:46:58
+Que se no sé qué va a pasar el que viene o el otro, el otro o el otro.
+
+[Diego Serrano] 20:47:01
+Por ahora, hoy, aunque les parezca rudimentario, vayan aprendiendo las cosas
+
+[Diego Serrano] 20:47:07
+Y y piensen esto
+
+[Diego Serrano] 20:47:11
+no que la IA les haga todo el trabajo sino en que los ayude al trabajo de ustedes hacerlo más rápido
+
+[Diego Serrano] 20:47:17
+con menos trabajo pero igual siguen siendo ustedes los autores de la cosa
+
+[Diego Serrano] 20:47:21
+Y les me refiero no sólo a programación
+
+[Diego Serrano] 20:47:26
+I
+
+[Diego Serrano] 20:47:28
+Al menos por ahora sí
+
+[Diego Serrano] 20:47:32
+Pero bueno,
+
+[Diego Serrano] 20:47:35
+Por eso, por eso tampoco les enseñamos mucho de herramientas de inteligencia artificial acá porque si no se van a relajar demasiado rápido
+
+[Diego Serrano] 20:47:42
+Sí,
+
+[Diego Serrano] 20:47:44
+E
+
+[Diego Serrano] 20:47:47
+porque sí porque también también es importante que aprendan a pensar entonces bueno es un equilibrio muy difícil todavía esto
+
+[Diego Serrano] 20:47:55
+Sí
+
+[Diego Serrano] 20:47:56
+Y seguro no se duerman
+
+[Diego Serrano] 20:47:58
+Sí,
+
+[Diego Serrano] 20:47:59
+Esto también es muy importante no se duermen
+
+[Diego Serrano] 20:48:03
+sabe un par de desde hace un par de años que que el dueño de la empresa donde trabajo me di no nos dice
+
+[Diego Serrano] 20:48:09
+la inteligencia artificial no le va a sacar trabajo al que sepa usarla
+
+[Diego Serrano] 20:48:13
+Sí si le va a sacar trabajo y que no la use porque si va a tener de gol en algún momento una diferencia de productividad enorme
+
+[Diego Serrano] 20:48:20
+Sí,
+
+[Diego Serrano] 20:48:21
+Entonces tampoco tampoco reniegue, tampoco digan no no no voy a usar nada yo quiero aprender a hacer las cosas.
+
+[Diego Serrano] 20:48:28
+No tampoco
+
+[Diego Serrano] 20:48:29
+Aprendan a hacer las cosas
+
+[Diego Serrano] 20:48:31
+Y aprendan a usar la inteligencia artificial para hacerlas más rápido o más fácil
+
+[Diego Serrano] 20:48:36
+Sí,
+
+[Diego Serrano] 20:48:39
+Pero
+
+[Diego Serrano] 20:48:40
+Como les digo
+
+[Diego Serrano] 20:48:41
+Que tampoco ustedes
+
+[Diego Serrano] 20:48:43
+tampoco sean ustedes mismos los autores del despido de la mierda
+
+[Diego Serrano] 20:48:47
+Si aprendas a las cosas aprendan a usar esto como una herramienta sí esa es la clave
+
+[Diego Serrano] 20:48:54
+Like, no lo quiero escurrir más
+
+[Diego Serrano] 20:48:57
+But
+
+[Diego Serrano] 20:48:58
+Son las nueve, ya es tardísimo.
+
+[Diego Serrano] 20:49:00
+No habían hecho una sola pregunta del enunciado del trabajo práctico
+
+[Diego Serrano] 20:49:03
+no está difícil el trabajo práctico
+
+[Diego Serrano] 20:49:06
+Por lo menos el dominio es fácil, sí, esto de las tareas, los proyectos, los roles, los usuarios
+
+[Diego Serrano] 20:49:10
+Neytate loco
+
+[Diego Serrano] 20:49:12
+E
+
+[Diego Serrano] 20:49:14
+Le va a ir bien
+
+[Diego Serrano] 20:49:16
+Sí,
+
+[Diego Serrano] 20:49:20
+No nos vemos más y, lamentablemente ya tiene entrega el sábado
+
+[Diego Serrano] 20:49:23
+Vamos a ver y el lunes es feriado, lunes frío, feriado, tampoco
+
+[Diego Serrano] 20:49:28
+Así que ahora nos vamos a ir derecho al parcial con lo que sí les digo, vamos a ser súper estrictos
+
+[Diego Serrano] 20:49:34
+El que no entregó el trabajo práctico o entregó otra cosa
+
+[Diego Serrano] 20:49:38
+Sí,
+
+[Diego Serrano] 20:49:39
+Otra cosa es el trabajo practico a un solo endpoint de los 15
+
+[Diego Serrano] 20:49:46
+O sea el que no entrega o entrega un ejercicio de otro tema
+
+[Diego Serrano] 20:49:49
+O entrega esto apenas hecha dos dos cositas mínimas no rinde no rinde y no rinde y eso sí se lo va a encontrar en serio y va a recuperar
+
+[Diego Serrano] 20:49:59
+hace que aprovechen aprovechen fuertemente en estos dos días que sólo dos días no mañana y pasado
+
+[Diego Serrano] 20:50:04
+Metanley
+
+[Diego Serrano] 20:50:07
+No, she said, uh, se corrompen archivos cuando lo vamos a ver, les vamos a decir
+
+[Diego Serrano] 20:50:13
+Ay le vamos a preguntar si capaz que hasta capaz que hasta mandemos un listado de los que entregaron para que sepan que rinden y ahí saltará si alguien no
+
+[Diego Serrano] 20:50:22
+Es obvio que, a ver.
+
+[Diego Serrano] 20:50:24
+Si bajo una entrega y la quiero descomprimir y él siempre está roto, le mando un mensaje prove obviamente que no
+
+[Diego Serrano] 20:50:31
+No, más vale que no es
+
+[Diego Serrano] 20:50:34
+Si no es culpa de ustedes, no es culpa de ustedes
+
+[Diego Serrano] 20:50:36
+Y vamos a creer
+
+[Diego Serrano] 20:50:38
+Vamos a creerle sí
+
+[Diego Serrano] 20:50:41
+Se
+
+[Diego Serrano] 20:50:44
+No es que van a mandar ustedes un archivo roto a propósito para ganar 3 días más de programar, no van a hacer eso, no
+
+[Diego Serrano] 20:50:50
+Sí
+
+[Diego Serrano] 20:50:52
+los de primer año se le son
+
+[Diego Serrano] 20:50:56
+Pero, pero bueno, con eso sí vamos a ser estrictos y estrictos en serio.
+
+[Diego Serrano] 20:51:01
+Vengan, claro, claro, los de primer año.
+
+[Diego Serrano] 20:51:08
+escuchen.
+
+[Diego Serrano] 20:51:10
+Cuando venga a rendir el jueves primero
+
+[Diego Serrano] 20:51:12
+Traten de venir
+
+[Diego Serrano] 20:51:14
+That deben de venir todos y puntuales
+
+[Diego Serrano] 20:51:16
+Si
+
+[Diego Serrano] 20:51:18
+porque el parcial va a ser corto van a ser
+
+[Diego Serrano] 20:51:23
+60 minutos como mucho, haremos dos tandas, dos o tres tandas
+
+[Diego Serrano] 20:51:27
+Pero vengan todos así sabemos, bueno, a ver cuántos son, dividimos
+
+[Diego Serrano] 20:51:32
+Vemos si nos dan un aula o dos, pero bueno, llenamos el aula y a medida que van saliendo
+
+[Diego Serrano] 20:51:38
+Ahora.
+
+[Diego Serrano] 20:51:38
+ahora entran todo el resto del grupo y vamos a entrar todos.
+
+[Diego Serrano] 20:51:42
+Entonces traten de venir, traten de llegar a la, a la faculty puntuales tipo seis, no más de las seis, así podemos largar a tiempo
+
+[Diego Serrano] 20:51:49
+Ehm
+
+[Diego Serrano] 20:51:53
+Ay, trae
+
+[Diego Serrano] 20:51:55
+identificación.
+
+[Diego Serrano] 20:51:56
+Sí, porque realmente les vamos a tomar asistencia en serio.
+
+[Diego Serrano] 20:51:59
+Entonces traigan documento o libreta tienen libretas ustedes
+
+[Diego Serrano] 20:52:08
+Si, si siguen usando libretas, no sé para que usa libreta
+
+[Diego Serrano] 20:52:11
+Si siguen usando libretas también
+
+[Diego Serrano] 20:52:15
+Si no tiene libreta, traigan documentos, pero el remoto asistencia en serio
+
+[Diego Serrano] 20:52:18
+Iba a rendir solo los que realmente entregan trabajo para que
+
+[Diego Serrano] 20:52:21
+Eso sí, con eso es lo único que nos vamos a estar
+
+[Diego Serrano] 20:52:24
+Es súper estrictos
+
+[Diego Serrano] 20:52:25
+Y después la modalidad es la misma que el primer parcial
+
+[Diego Serrano] 20:52:28
+Haremos
+
+[Diego Serrano] 20:52:29
+Como les digo, dos tandas de sesenta minutos, setenta minutos y ya está
+
+[Diego Serrano] 20:52:34
+em
+
+[Diego Serrano] 20:52:35
+Y listo, y tranquilo
+
+[Diego Serrano] 20:52:37
+Tranquilos, no va a ser nada muy loco, estudien eso, eso ni ni no, no hace falta, pero por las dudas
+
+[Diego Serrano] 20:52:44
+Estudié
+
+[Diego Serrano] 20:52:45
+Y en el trabajo práctico y ya está, sí
+
+[Diego Serrano] 20:52:50
+fuera de eso está la última clase
+
+[Diego Serrano] 20:52:52
+Sí, porque
+
+[Diego Serrano] 20:52:55
+Lune feriado
+
+[Diego Serrano] 20:52:56
+Jueves que viene rendimos
+
+[Diego Serrano] 20:52:59
+Los que aprueben el jueves, no, no viene más
+
+[Diego Serrano] 20:53:03
+En el recuperatorio otro dominio sí
+
+[Diego Serrano] 20:53:05
+Sí, me vale.
+
+[Diego Serrano] 20:53:07
+I
+
+[402234 Facu] 20:53:09
+Profe.
+
+[Diego Serrano] 20:53:09
+Entonces
+
+[Diego Serrano] 20:53:10
+A muchos no los veo más, sí,
+
+[Diego Serrano] 20:53:13
+Así que, porque incluso algunos harán aprobación directa
+
+[Diego Serrano] 20:53:17
+Así que esta es la última, última clase de la materia
+
+[Diego Serrano] 20:53:19
+Ehm
+
+[Diego Serrano] 20:53:20
+No sé qué me ibas a decir, ¿quién iba a hablar
+
+[402234 Facu] 20:53:22
+Sí, yo al final entonces, este parcial va a ser solamente práctico o también va a tener una parte teórica, no termina
+
+[Diego Serrano] 20:53:31
+Sí, sí, sí, sí, porque lo, el cuestionario en la parte presencial
+
+[Diego Serrano] 20:53:35
+el cuestionario va a tener preguntas teóricas de todos los apuntes
+
+[Diego Serrano] 20:53:39
+del 13 al veinticuatro preguntas sí, sí, sí,
+
+[Diego Serrano] 20:53:42
+Claro, igual que el primer parcial
+
+[Diego Serrano] 20:53:45
+Teóricas al estilo del primer parcial
+
+[402234 Facu] 20:53:50
+Listo, listo.
+
+[Diego Serrano] 20:53:51
+Ti
+
+[Diego Serrano] 20:53:53
+Bueno, gente, como les digo, muchos
+
+[Diego Serrano] 20:53:55
+Ya fue el último día que nos vemos porque nos vamos a ver el día del parcial y capaz que ahí mismo
+
+[Diego Serrano] 20:54:00
+montón que tenga la aprobación directa asegurada el mismo día
+
+[Diego Serrano] 20:54:03
+Así que bueno,
+
+[Diego Serrano] 20:54:05
+O
+
+[Diego Serrano] 20:54:07
+Ya nos veremos
+
+[84046 Liaudat Federico] 20:54:07
+Profe, una consulta, ¿van a subir
+
+[Diego Serrano] 20:54:09
+Espero que hayan aprendido mucho, esto se los digo a todos cada vez que tener una materia, espero que hayan aprendido mucho, es el objetivo de todo esto
+
+[Diego Serrano] 20:54:17
+Sí,
+
+[Diego Serrano] 20:54:21
+Sí, sí, ahí está, dale esférico
+
+[84046 Liaudat Federico] 20:54:23
+Profe, ¿queréis saber si yo voy a subir un preguntero como subieron para el primer parcial, para el primer parcial
+
+[Diego Serrano] 20:54:29
+Sí, me dijo, me dijo el profe, el profe Ale me dijo
+
+[Diego Serrano] 20:54:32
+Hablé con el antes de empezar desde antes de arrancar el Zoom
+
+[Diego Serrano] 20:54:36
+Me dijo que
+
+[Diego Serrano] 20:54:38
+capaz que él genere uno va a tratar de ver si puede llegar a generar uno a tiempo para dejarles ejemplos de preguntas como hizo el primer
+
+[Diego Serrano] 20:54:45
+En el primer parcial si lo llega a armar va a ser lunes martes
+
+[Diego Serrano] 20:54:50
+les avisa por autogestión
+
+[84046 Liaudat Federico] 20:54:53
+Listo, listo, gracias.
+
+[Diego Serrano] 20:54:53
+Le mando un
+
+[Diego Serrano] 20:54:54
+Él manda un mensaje de autogestión o algo así
+
+[Diego Serrano] 20:54:57
+Para que para para que sepan que está
+
+[Diego Serrano] 20:55:01
+Pero sí me dijo que iba, iba a tratar, iba a tratar de armar algunas preguntas para que tengan de ejemplo
+
+[Diego Serrano] 20:55:07
+Bueno, gente, listo, nos veremos al segundo cuatrimestre, yo estoy en backend y en dado, sí
+
+[Diego Serrano] 20:55:14
+las dos son de programación y están lindas las dos
+
+[Diego Serrano] 20:55:21
+no
+
+[Diego Serrano] 20:55:24
+Yo estoy en el back end
+
+[Diego Serrano] 20:55:26
+Yo estoy en backend
+
+[Diego Serrano] 20:55:28
+Pongo el chat acá.
+
+[Diego Serrano] 20:55:32
+back in.
+
+[Diego Serrano] 20:55:34
+back in, pero siempre
+
+[Diego Serrano] 20:55:36
+3 cada 3, esto es
+
+[Diego Serrano] 20:55:40
+Martes creo
+
+[Diego Serrano] 20:55:41
+martes y viernes
+
+[Diego Serrano] 20:55:43
+De quince a dieciocho
+
+[Diego Serrano] 20:55:46
+Y dado
+
+[Diego Serrano] 20:55:47
+en el no sé creo que el 4K dos es
+
+[Diego Serrano] 20:55:50
+Es esto es miér
+
+[Diego Serrano] 20:55:53
+Coleci
+
+[Diego Serrano] 20:55:55
+Jueves del 18 a 19:30
+
+[Diego Serrano] 20:56:08
+In those soy yo el coordinador de toda la cátedra
+
+[Diego Serrano] 20:56:12
+Ahí vemos programación en todo objetos con Python
+
+[Diego Serrano] 20:56:15
+y la idea es que la hagan cuando hacen diseño así ven les enseñamos patrones o hace datos
+
+[Diego Serrano] 20:56:23
+capaz que estamos viendo, capaz que metamos este año un poquito de inteligencia artificial
+
+[Diego Serrano] 20:56:28
+Con
+
+[Diego Serrano] 20:56:29
+esta técnica que se llama domain driven development, la idea es que con respect driven development
+
+[Diego Serrano] 20:56:38
+Sí,
+
+[Diego Serrano] 20:56:38
+Esta idea de bueno escribo los casos de uso con un formato especial y con eso la inteligencia artificial lo puede leer y generar
+
+[Diego Serrano] 20:56:45
+Campa que le metamos el grueso, hacemos TDD test driven
+
+[Diego Serrano] 20:56:49
+Para el parcial les damos los casos de prueba los test cases
+
+[Diego Serrano] 20:56:54
+Vieron que acá vimos test cases con esta librería que nos escribimos los
+
+[Diego Serrano] 20:57:00
+Los casos de prueba, bueno, en dado les damos en el parcial
+
+[Diego Serrano] 20:57:02
+lo los casos de prueba
+
+[Diego Serrano] 20:57:05
+Ustedes programan hasta que hasta que los casos pasan
+
+[Diego Serrano] 20:57:08
+entregan haciendo push y en Gitka ven los casos de prueba como corren y si ven que corren y están todos bien entregan y se van.
+
+[Diego Serrano] 20:57:16
+tratamos de meterle algo de daño a la materia
+
+[Diego Serrano] 20:57:18
+Si bien da pocos créditos pero tratamos de que sea interesante
+
+[Diego Serrano] 20:57:21
+Y en backend vemos, bueno, vemos backend de Java
+
+[Diego Serrano] 20:57:23
+Sí, vemos Springwood
+
+[Diego Serrano] 20:57:26
+como ustedes ya saben front acá de con react vemos
+
+[Diego Serrano] 20:57:29
+Cava es la única materia que quedó de Java en toda la carrera
+
+[Diego Serrano] 20:57:33
+y bueno ahí también programamos un montón usábamos inteligencia artificiales hay de todo
+
+[Diego Serrano] 20:57:39
+Para los que les gusta programar esas dos electivas están interesantes
+
+[Diego Serrano] 20:57:46
+But
+
+[Diego Serrano] 20:57:50
+Bueno, y fuera de eso, che, bueno
+
+[Diego Serrano] 20:57:52
+O sea, ya nos veremos a hacerlo
+
+[Diego Serrano] 20:57:55
+Now, ojalá en serio que hayan aprendido mucho y que les vaya bien el parcial.
+
+[Diego Serrano] 20:58:00
+Nos vamos a ver el día parcial seguro
+
+[Diego Serrano] 20:58:05
+Bueno, gente.
+
+[Diego Serrano] 20:58:07
+Listo, por ahora, nos vemos para el jueve jueves todos.
+
+[Diego Serrano] 20:58:13
+Sí,
+
+[Diego Serrano] 20:58:15
+no se duerman con el trabajo practico, que
+
+[Diego Serrano] 20:58:21
+hay que hay lleva un rato no está difícil pero va a llevar un rato si
+
+[Diego Serrano] 20:58:25
+Traten de dejarse todo el viernes, todo el sábado para
+
+[Diego Serrano] 20:58:28
+Para para esto si asignarse bastante tiempo para hacer trabajo práctico
+
+[Diego Serrano] 20:58:34
+Bueno, y él me olvidaba, las clases de YouTube les voy a dejar abierta por lo menos hasta el año que viene, no sé si que viene haremos virtual o no, pero las clases de YouTube las dejo
+
+[Diego Serrano] 20:58:44
+Si hoy hoy no subí nada obviamente
+
+[Diego Serrano] 20:58:46
+no no grabé nada no había nada para grabar
+
+[Diego Serrano] 20:58:49
+bueno gracia embargo
+
+[Diego Serrano] 20:58:51
+El parcial vengan a las seis vengan vengan seis en punto el horario es seis y cuarto pero vénganse en punto así nos realizamos
+
+[Diego Serrano] 20:58:58
+vemos cuántos son y vemos cuál sin cuántas aulas nos dan si una o dos
+
+[Diego Serrano] 20:59:04
+así repartimos y vemos pero si traten de llegar si más o menos
+
+[Diego Serrano] 20:59:07
+más o menos puntuales
+
+[Diego Serrano] 20:59:15
+Bueno, gente.
+
+[Diego Serrano] 20:59:16
+Listo, ahora eso les decía, las clases de YouTube las dejo, las voy a dejar abiertas
+
+[Diego Serrano] 20:59:21
+Sí
+
+[Diego Serrano] 20:59:22
+No, but
+
+[Diego Serrano] 20:59:23
+no son gran cosa para leer, son muy largas para verlas.
+
+[Diego Serrano] 20:59:26
+sí yo eso se lo dije el primer día son demasiado largas para ponerse ahí sentarse a leerlas es un perno pero
+
+[Diego Serrano] 20:59:37
+Si, si descargan el vídeo extraen el audio, lo pasan a
+
+[Diego Serrano] 20:59:42
+A una herramienta de transcripción
+
+[Diego Serrano] 20:59:45
+Y esa herramienta de transcripción se la pasan a una inteligencia artificial le puede armar una puntito
+
+[Diego Serrano] 20:59:50
+con con lo que les conté en la clase puede ser una es una linda herramienta
+
+[Diego Serrano] 20:59:55
+Como les digo verlas no es un vernos
+
+[Diego Serrano] 20:59:58
+ni de casualidad me quedaría viendo esa clase
+
+[Diego Serrano] 21:00:01
+Pero bueno igual las dejo por si alguna vez quieren repasar algo que fuera esa las voy a dejar a la vista
+
+[Diego Serrano] 21:00:08
+Bueno, gente, muchas gracias.
+
+[Diego Serrano] 21:00:11
+bueno sí
+
+[Diego Serrano] 21:00:12
+Son las 9
+
+[Diego Serrano] 21:00:13
+Pensé que íbamos a, a
+
+[Diego Serrano] 21:00:15
+A cortar temprano hoy, pero nos pusimos a charlar y, y estuvo, creo que estuvo más o menos lindo
+
+[Diego Serrano] 21:00:21
+Gente, entonces y listo
+
+[Diego Serrano] 21:00:27
+Sí, bueno, nos vemos jueves y métanle mucho al trabajo practico, es lo más preocupa.
+
+[Diego Serrano] 21:00:30
+Y el, y el jueves
+
+[Diego Serrano] 21:00:33
+I don't know.
+

@@ -44,17 +44,33 @@ Monorepo con dos proyectos independientes:
 
 ```
 tp-dds/
-├── backend/          # API REST (Express + JWT + Sequelize/SQLite)
+├── backend/
+│   ├── src/
+│   │   ├── config/         # database.js (conexión Sequelize + SQLite)
+│   │   ├── models/         # Usuario, Proyecto, Tarea, HistorialTarea + asociaciones
+│   │   ├── routes/         # auth.routes, tareas.routes, proyectos.routes, health.routes
+│   │   ├── controllers/    # tareaController, proyectoController
+│   │   ├── services/       # tareaService (reglas de negocio)
+│   │   ├── middlewares/    # auth (JWT), autorización (roles), errorHandler
+│   │   ├── data/           # seed.js (datos de prueba)
+│   │   ├── app.js          # Configuración Express (helmet, CORS, rutas, errores)
+│   │   └── server.js       # Punto de entrada (dotenv, sequelize, listen)
+│   ├── __tests__/          # tareas.test.js (22 tests Jest + Supertest)
+│   ├── .env                # JWT_SECRET, JWT_EXPIRES_IN, PORT (ignorado por git)
 │   └── package.json
-├── frontend/         # SPA (React + Vite)
+├── frontend/
+│   ├── src/
+│   │   ├── components/     # Navbar, ProtectedRoute, EstadoBadge, PrioridadBadge, Pagination
+│   │   ├── pages/          # Login, Register, TareaList, TareaDetail, TareaForm, Resumen, NotFound
+│   │   ├── services/       # api (axios instance), authService, tareaService, proyectoService
+│   │   ├── context/        # AuthContext (usuario, token, rol)
+│   │   ├── App.jsx         # Router con rutas anidadas y Outlet
+│   │   └── main.jsx        # Entry point React 18
 │   └── package.json
+├── docs/                   # Apuntes PDF + enunciado TP
 ├── .gitignore
 └── README.md
 ```
-
-> La estructura interna de `backend/src/` y `frontend/src/` se define en el siguiente paso
-> (config de Sequelize / models / routes / controllers / services / middlewares en back;
-> components / pages / services / context en front).
 
 ---
 
@@ -74,15 +90,13 @@ tp-dds/
 
 ## 4. Cómo ejecutar
 
-> ⚠️ El código de los módulos todavía no está implementado — esto documenta los comandos definitivos.
-
 ### Backend
 ```bash
 cd backend
 npm install          # instalar dependencias
-npm run seed         # cargar datos semilla (4 proyectos, 5 usuarios, 15 tareas)  🚧 TODO
-npm run dev          # levantar API con recarga (http://localhost:3000)           🚧 TODO
-npm test             # correr las pruebas (Jest + Supertest)                       🚧 TODO
+npm run seed         # cargar datos semilla (4 proyectos, 5 usuarios, 15 tareas)
+npm run dev          # levantar API con recarga (http://localhost:3000)
+npm test             # correr las pruebas (Jest + Supertest) — 22 tests
 ```
 
 ### Frontend
@@ -165,12 +179,14 @@ Respuestas de seguridad en rutas de escritura:
 - **403** si el usuario está autenticado pero no tiene permiso para la acción.
 
 ### Usuarios de prueba (del seed)
-🚧 TODO — completar tras implementar el seed:
 
 | Rol | Email | Contraseña |
 |---|---|---|
-| admin / líder | `🚧` | `🚧` |
-| colaborador | `🚧` | `🚧` |
+| admin | `mica@dds.com` | `1234` |
+| líder | `facu@dds.com` | `1234` |
+| colaborador | `lucas@dds.com` | `1234` |
+| colaborador | `vale@dds.com` | `1234` |
+| colaborador | `nico@dds.com` | `1234` |
 
 ---
 
@@ -227,74 +243,72 @@ rol insuficiente, creación sobre proyecto finalizado/pausado, y transición de 
 
 ---
 
-## 11. División de trabajo (recomendación)
+## 11. División de trabajo
 
-Somos **4 integrantes**. La regla de oro: **primero acordamos juntos el "contrato"** (nombres exactos
-de campos, enums, forma de los endpoints y mensajes de error) para que back y front puedan avanzar en
-paralelo sin chocar en la integración. Recién después nos repartimos.
+Somos **5 integrantes**. La regla de oro fue acordar primero el "contrato" (nombres exactos de campos, enums, endpoints y mensajes de error) para que back y front avancen en paralelo.
 
-Una división posible, por **pares** que comparten vocabulario:
+| Integrante | Responsabilidad |
+|---|---|
+| Mica Torres (admin) | Backend: auth, middlewares, seed, testing |
+| Facu Iri (líder) | Backend: dominio tareas (servicio, controlador, rutas, historial, resumen) |
+| Lucas Gómez | Frontend: infraestructura (Vite, Router, AuthContext, Axios layer, rutas protegidas) |
+| Valentina Celiz | Frontend: pantallas (listado, detalle, formulario, resumen, 404) |
+| Nico Casatti | Integración, revisión contra PDFs, documentación, testing |
 
-- **Par Backend**
-  - *Infraestructura + Auth:* scaffold, JWT, register/login, middlewares (auth, autorización, validación, manejo de errores), seed de datos.
-  - *Dominio (tareas):* servicio con las reglas (responsable válido, máquina de estados, vencidas, reglas de proyecto), controlador, rutas, historial y resumen. **Es el módulo más complejo** → para quien esté más cómodo con lógica de negocio.
-- **Par Frontend**
-  - *Infraestructura + Auth UI:* setup de Vite, React Router, contexto de autenticación, capa de servicios Axios, rutas protegidas, login/registro y la página 404.
-  - *Pantallas de dominio:* listado + filtros + paginación, detalle + historial, formulario de alta/edición, acciones por rol y panel de resumen.
-
-Notas:
-- El **testing del backend** lo lidera quien hizo el dominio (conoce las reglas), con apoyo de quien hizo auth para los tests de permisos.
-- Como en el parcial **cada uno responde sobre todo el sistema**, reservamos un momento de
-  **cross-review** antes de entregar: cada integrante le explica su parte al resto.
-- Esta división es una sugerencia: ajústenla al nivel y preferencia de cada uno.
+Como en el parcial **cada uno responde sobre todo el sistema**, hicimos cross-review antes de entregar.
 
 ---
 
 ## 12. Checklist de requisitos del TP
 
 **Backend**
-- [ ] 4 entidades persistidas (usuarios, proyectos, tareas, historial_tareas)
-- [ ] `express.Router()` en archivo separado para tareas
-- [ ] Middleware de autenticación JWT
-- [ ] Middleware de autorización por rol / propiedad del recurso
-- [ ] Middleware de validación de entrada
-- [ ] Middleware de manejo de errores `(err, req, res, next)` al final
-- [ ] Reglas de negocio en el **servicio** (no solo en controladores/forms)
-- [ ] Máquina de estados completa + bloqueo de tareas finalizada/cancelada
-- [ ] Filtros combinables + paginación (`page`, `limit`, `sortBy`, `order`) en backend
-- [ ] Resumen admin (por estado, vencidas, por responsable, críticas)
-- [ ] Historial de cambios (reasignación, prioridad, estado, edición)
-- [ ] Cálculo de tareas vencidas
-- [ ] Regla de proyecto pausado / finalizado
-- [ ] Seed: ≥4 proyectos, 5 usuarios (1 líder/admin), 15 tareas en distintos estados
-- [ ] Mensajes de error distintos por tipo de fallo
-- [ ] Contraseñas hasheadas (bcrypt) + JWT sin datos sensibles
+- [x] 4 entidades persistidas (usuarios, proyectos, tareas, historial_tareas)
+- [x] `express.Router()` en archivo separado para tareas
+- [x] Middleware de autenticación JWT
+- [x] Middleware de autorización por rol / propiedad del recurso
+- [x] Middleware de validación de entrada
+- [x] Middleware de manejo de errores `(err, req, res, next)` al final
+- [x] Reglas de negocio en el **servicio** (no solo en controladores/forms)
+- [x] Máquina de estados completa + bloqueo de tareas finalizada/cancelada
+- [x] Filtros combinables + paginación (`page`, `limit`, `sortBy`, `order`) en backend
+- [x] Resumen admin (por estado, vencidas, por responsable, críticas)
+- [x] Historial de cambios (reasignación, prioridad, estado, edición)
+- [x] Cálculo de tareas vencidas
+- [x] Regla de proyecto pausado / finalizado
+- [x] Seed: ≥4 proyectos, 5 usuarios (1 líder/admin), 15 tareas en distintos estados
+- [x] Mensajes de error distintos por tipo de fallo
+- [x] Contraseñas hasheadas (bcrypt) + JWT sin datos sensibles
 
 **Frontend**
-- [ ] Login y registro
-- [ ] Listado de tareas con filtros
-- [ ] Detalle en `/tareas/:id` con `useParams`
-- [ ] Form transaccional de alta/edición contra la API
-- [ ] Acciones por rol (cambiar estado / finalizar / cancelar)
-- [ ] Panel resumen para admin/líder
-- [ ] Historial visible en el detalle
-- [ ] Ruta comodín `*` (404)
-- [ ] Contexto/hook para usuario + token + rol
-- [ ] Rutas protegidas (no solo botones ocultos)
-- [ ] Capa Axios separada por recurso
-- [ ] Estados de carga / vacío / error / éxito
+- [x] Login y registro
+- [x] Listado de tareas con filtros
+- [x] Detalle en `/tareas/:id` con `useParams`
+- [x] Form transaccional de alta/edición contra la API
+- [x] Acciones por rol (cambiar estado / finalizar / cancelar)
+- [x] Panel resumen para admin/líder
+- [x] Historial visible en el detalle
+- [x] Ruta comodín `*` (404)
+- [x] Contexto/hook para usuario + token + rol
+- [x] Rutas protegidas (no solo botones ocultos)
+- [x] Capa Axios separada por recurso
+- [x] Estados de carga / vacío / error / éxito
 
 **Testing**
-- [ ] ≥10 casos (happy + validación + permisos + transiciones inválidas) con Jest + Supertest
+- [x] 22 tests (happy + validación + permisos + transiciones inválidas) con Jest + Supertest
 
 **Documentación**
-- [ ] README con todos los puntos exigidos (este archivo, completado)
+- [x] README con todos los puntos exigidos
 
 ---
 
 ## 13. Limitaciones conocidas
 
-🚧 TODO — documentar al cierre (decisiones, simplificaciones y faltantes menores).
+- **JWT sin refresh token:** El token dura 8 horas. No implementamos refresh token porque el nivel de la cursada lo permite.
+- **integrantes de Proyecto como TEXT/JSON:** SQLite no tiene tipo array nativo, se almacena como JSON string con getter/setter de Sequelize.
+- **Formularios con useState en lugar de React Hook Form:** El TP permite ambas opciones. Usamos useState para no agregar otra dependencia.
+- **bcrypt salt rounds = 10:** El defecto de bcryptjs. La documentación de Apunte18 usa 12, pero 10 es el estándar y suficiente para este contexto.
+- **No hay rate limiting ni tests de frontend:** Son opcionales según el TP y los PDFs de la materia.
+- **La base SQLite se regenera con seed:** No hay migraciones formales; `database.sqlite` está en `.gitignore` y se crea ejecutando `npm run seed`.
 
 ---
 
