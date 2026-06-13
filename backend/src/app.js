@@ -3,13 +3,21 @@
 import express from 'express';
 import cors from 'cors';
 import healthRoutes from './routes/health.routes.js';
+import authRoutes from './routes/auth.routes.js';
+import tareasRoutes from './routes/tareas.routes.js';
+import proyectosRoutes from './routes/proyectos.routes.js';
+import errorHandler from './middlewares/errorHandler.js';
 
 const app = express();
 
-app.use(cors()); // permite peticiones desde el frontend
-app.use(express.json()); // para leer el body en JSON
+app.use(cors());
+app.use(express.json());
 
-// montamos las rutas bajo /api
 app.use('/api', healthRoutes);
+app.use('/api/auth', authRoutes);
+app.use('/api/tareas', tareasRoutes);
+app.use('/api/proyectos', proyectosRoutes);
+
+app.use(errorHandler);
 
 export default app;

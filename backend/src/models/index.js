@@ -1,9 +1,19 @@
-// Acá juntamos todos los modelos en un solo lugar.
-// Cuando agreguemos Proyecto, Tarea e HistorialTarea, las asociaciones
-// (hasMany / belongsTo) van a ir definidas en este archivo.
 import sequelize from '../config/database.js';
 import Usuario from './Usuario.js';
+import Proyecto from './Proyecto.js';
+import Tarea from './Tarea.js';
+import HistorialTarea from './HistorialTarea.js';
 
-// TODO: asociaciones entre modelos cuando existan los demás
+Proyecto.hasMany(Tarea, { foreignKey: 'proyectoId', as: 'tareas' });
+Tarea.belongsTo(Proyecto, { foreignKey: 'proyectoId', as: 'proyecto' });
 
-export { sequelize, Usuario };
+Usuario.hasMany(Tarea, { foreignKey: 'responsableId', as: 'tareasAsignadas' });
+Tarea.belongsTo(Usuario, { foreignKey: 'responsableId', as: 'responsable' });
+
+Tarea.hasMany(HistorialTarea, { foreignKey: 'tareaId', as: 'historial' });
+HistorialTarea.belongsTo(Tarea, { foreignKey: 'tareaId', as: 'tarea' });
+
+Usuario.hasMany(HistorialTarea, { foreignKey: 'usuarioId', as: 'accionesHistorial' });
+HistorialTarea.belongsTo(Usuario, { foreignKey: 'usuarioId', as: 'usuario' });
+
+export { sequelize, Usuario, Proyecto, Tarea, HistorialTarea };
